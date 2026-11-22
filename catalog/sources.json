@@ -1,12 +1,12 @@
 {
-  "live_version": 1795325238336,
+  "live_version": 1795325304099,
   "vod_version": 0,
   "clear_live_version": 1795325238336,
   "clear_vod_version": 0,
-  "live_preverified": false,
+  "live_preverified": true,
   "featured_titles": [],
   "live_lists": [
-    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/IPTV-Brazuka.m3u"
+    "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
   ],
   "vod_lists": []
 }
