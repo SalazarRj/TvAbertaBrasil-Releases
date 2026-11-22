@@ -1,12 +1,17 @@
 {
-  "live_version": 1795369334673,
+  "live_lists": [
+    "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
+  ],
+  "vod_lists": [
+    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
+  ],
+  "live_version": 1795369334674,
   "vod_version": 1795351820413,
   "clear_live_version": 1795351911922,
   "clear_vod_version": 1795351820413,
   "live_preverified": true,
-  "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "featured_titles": [],
-  "daily_matches": [],
+  "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "sport_leagues": [
     "bra.1",
     "bra.2",
@@ -28,10 +33,5 @@
     "@getv"
   ],
   "epg_url": "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/epg.xml.gz",
-  "live_lists": [
-    "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
-  ],
-  "vod_lists": [
-    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
-  ]
+  "daily_matches": []
 }
