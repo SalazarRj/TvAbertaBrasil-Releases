@@ -28,6 +28,13 @@
     "uefa.champions",
     "uefa.europa"
   ],
+  "youtube_sport_handles": [
+    "@CazeTV",
+    "@cazetvdois",
+    "@canalgoatbr",
+    "@getv"
+  ],
+  "epg_url": "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/epg.xml.gz",
   "live_lists": [
     "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
   ],
