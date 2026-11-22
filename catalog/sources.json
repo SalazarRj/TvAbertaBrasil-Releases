@@ -1,4 +1,6 @@
 {
-  "live_lists": [],
+  "live_lists": [
+    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/IPTV-Brazuka.m3u"
+  ],
   "vod_lists": []
 }
