@@ -4,7 +4,30 @@
   "clear_live_version": 1795351911922,
   "clear_vod_version": 1795351820413,
   "live_preverified": true,
+  "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "featured_titles": [],
+  "daily_matches": [
+    {
+      "title": "Liverpool x Man Utd",
+      "time": "13:30",
+      "league": "Premier League",
+      "channel": "ESPN HD ¹"
+    }
+  ],
+  "sport_leagues": [
+    "bra.1",
+    "bra.2",
+    "bra.copa_do_brazil",
+    "conmebol.libertadores",
+    "conmebol.sudamericana",
+    "eng.1",
+    "esp.1",
+    "ita.1",
+    "ger.1",
+    "fra.1",
+    "uefa.champions",
+    "uefa.europa"
+  ],
   "live_lists": [
     "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
   ],
