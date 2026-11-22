@@ -1,11 +1,16 @@
 {
   "require_login": true,
+  "allow_auto_trial": false,
+  "auto_trial_hours": 24,
+  "renew_contact": "",
   "users": [
     {
       "email": "tes@gmail.com",
       "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
-      "active": false,
-      "expires_at": 1795412237186
+      "active": true,
+      "expires_at": 1795412237186,
+      "duration_hours": 0,
+      "start_on_first_login": false
     }
   ]
 }
