@@ -6,14 +6,7 @@
   "live_preverified": true,
   "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "featured_titles": [],
-  "daily_matches": [
-    {
-      "title": "Liverpool x Man Utd",
-      "time": "13:30",
-      "league": "Premier League",
-      "channel": "ESPN HD ¹"
-    }
-  ],
+  "daily_matches": [],
   "sport_leagues": [
     "bra.1",
     "bra.2",
