@@ -1,6 +1,6 @@
 {
-  "version": "v0.57",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.57/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.57/tvaberta-admin.apk",
-  "notes": "v0.57 — Notas da versão:\n- fix: reclassificação completa do cache do robô gravando gêneros reais e origem do TMDB direto no catálogo (Home, Filmes e Séries)\n- feat: filtros reais de categoria liberados dentro da aba Séries (Animes, Doramas • K-Drama, C-Drama, Séries por gênero) e navegação direta nas prateleiras\n- ui: tags visuais de gênero e categoria exibidas nos modais de detalhes de Filmes e Séries"
+  "version": "v0.58",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.58/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.58/tvaberta-admin.apk",
+  "notes": "v0.58 — Notas da versão:\n- fix: filtros de categoria dentro das abas Filmes e Séries agora funcionam com sincronização automática do catálogo classificado\n- ui: categorias organizadas em ordem alfabética com nomes limpos (ex.: Drama, Comédia, Ação, Animes, Doramas • K-Drama, C-Drama)\n- feat: novo controle detalhado de gêneros de Filmes e Séries na aba Robô do Admin (com contagem e lista de títulos ao tocar)"
 }
