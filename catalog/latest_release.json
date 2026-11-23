@@ -1,6 +1,6 @@
 {
-  "version": "v0.40",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.40/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.40/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.40 (HarpiaPlay):\n- Nova identidade oficial: o app agora se chama HarpiaPlay (e o painel administrativo HarpiaPlay Admin)\n- Nova logo oficial da Harpia dourada aplicada no ícone do celular, banner da Android TV, abertura e login\n- Novo visual moderno de streaming em preto puro com destaques equilibrados em dourado\n- Topo minimalista com busca rápida, barra inferior no celular (Início, Ao Vivo, Favoritos e Perfil), Livestream 16:9 e prateleiras por streaming (Netflix, Prime Video, Max, Disney+, Globoplay, Doramas e mais)"
+  "version": "v0.42",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.42/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.42/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.42 (HarpiaPlay):\n- Nova tela de abertura cinematográfica da Harpia com asas douradas abrindo, brilho metálico sobre a logo e entrada animada de HarpiaPlay\n- Logo exclusiva azul-ciano para o HarpiaPlay Admin (separando visualmente do cliente preto e dourado)\n- Correção de estabilidade na aba Séries para títulos com o símbolo \"%\""
 }
