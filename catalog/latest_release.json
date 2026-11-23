@@ -1,6 +1,6 @@
 {
-  "version": "v0.54",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.54/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.54/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.54 (HarpiaPlay):\n- Arquitetura instantânea estilo Netflix/Prime Video: o robô pré-calcula Home, Filmes (página 1), Séries (página 1) e categorias em catalog/instant_bundle.json (~35 KB) servido pelo Cloudflare Worker\n- Troca de abas (Recomendações, Filmes, Séries e Ao Vivo) em 0 ms na TV, projetor e celular, sem rodar consultas pesadas no aparelho\n- Barra de carregamento dourada suave ao pesquisar ou trocar de categoria\n- Robô atualiza automaticamente a assinatura em sources.json somente nos dias em que houver novidade real na lista"
+  "version": "v0.55",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.55/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.55/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.55 (HarpiaPlay):\n- Limpeza extrema anti-travamento e anti-fechamento em projetores e TV Boxes de 1 GB de RAM\n- Eliminadas chamadas duplicadas de SQLite e TMDB logo após o Splash quando o pacote instantâneo já foi carregado\n- Cache de imagens adaptativo por aparelho (5 MB / 2 threads em projetor e TV Low-RAM; 12 MB / 4 threads em celular) + limpeza automática de cache antigo em disco\n- Fila pós-abertura espaçada no projetor (sem pico de RAM com raspagem HTML do YouTube ou EPG simultâneo na abertura)"
 }
