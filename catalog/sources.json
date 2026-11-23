@@ -1,11 +1,9 @@
 {
-  "live_lists": [
-    "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
-  ],
+  "live_lists": [],
   "vod_lists": [],
-  "live_version": 1795392208710,
+  "live_version": 1795394034878,
   "vod_version": 1795392235751,
-  "clear_live_version": 1795351911922,
+  "clear_live_version": 1795394034878,
   "clear_vod_version": 1795392229382,
   "live_preverified": false,
   "featured_titles": [],
