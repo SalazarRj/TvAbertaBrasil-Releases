@@ -1,6 +1,6 @@
 {
-  "version": "v0.63",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.63/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.63/tvaberta-admin.apk",
-  "notes": "v0.63 — Notas da versão:\n- feat: suporte direto a links de busca do GitHub (ex.: github.com/search?q=Filmes&type=repositories), repositórios e arquivos /blob/ no Raspador do Laboratório\n- feat: varredura automática dos repositórios retornados pela URL de busca para listar arquivos .m3u/.m3u8 prontos para importar com 1 toque"
+  "version": "v0.64",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.64/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.64/tvaberta-admin.apk",
+  "notes": "v0.64 — Notas da versão:\n- feat: multifiltros combináveis no Raspador do Laboratório (quantidade 10/20/30/50 com teto seguro de paginação, ordenação por Recentes/Maior ★/Populares/Relevância, período 30d/90d/1 ano, avaliação mínima e filtros combináveis M3U/BR-PT/Ativos/Descrição)"
 }
