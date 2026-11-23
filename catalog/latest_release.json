@@ -1,6 +1,6 @@
 {
-  "version": "v0.38",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.38/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.38/tvaberta-admin.apk",
-  "notes": "• Robô completo na nuvem (v0.38): agora o robô atualiza automaticamente Canais ao Vivo (live_ready.m3u), Filmes e Séries (catalog.db.gz) sem precisar de bloqueio manual.\n• Animação amigável ao carregar o catálogo: em vez de tela vazia, exibe um cartão animado informando o progresso enquanto os canais, filmes e séries são carregados.\n• Interface do cliente mais limpa e segura: removido o botão de excluir canais/filmes no app cliente (evitando exclusões acidentais)."
+  "version": "v0.40",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.40/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.40/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.40 (HarpiaPlay):\n- Nova identidade oficial: o app agora se chama HarpiaPlay (e o painel administrativo HarpiaPlay Admin)\n- Nova logo oficial da Harpia dourada aplicada no ícone do celular, banner da Android TV, abertura e login\n- Novo visual moderno de streaming em preto puro com destaques equilibrados em dourado\n- Topo minimalista com busca rápida, barra inferior no celular (Início, Ao Vivo, Favoritos e Perfil), Livestream 16:9 e prateleiras por streaming (Netflix, Prime Video, Max, Disney+, Globoplay, Doramas e mais)"
 }
