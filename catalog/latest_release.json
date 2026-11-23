@@ -1,6 +1,6 @@
 {
-  "version": "v0.52",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.52/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.52/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.52 (HarpiaPlay):\n- Robô em nuvem agora valida automaticamente todos os canais ao vivo em paralelo e publica em live_ready.m3u somente os que responderam OK\n- Nova aba \"Robô\" no HarpiaPlay Admin com totais (Canais OK, Reprovados, Filmes, Séries e Capas), barra de aprovação, logs da execução e busca por canais aprovados ou removidos\n- Ocultação automática no app cliente para canais ao vivo que falharem 3 reconexões seguidas"
+  "version": "v0.54",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.54/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.54/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.54 (HarpiaPlay):\n- Arquitetura instantânea estilo Netflix/Prime Video: o robô pré-calcula Home, Filmes (página 1), Séries (página 1) e categorias em catalog/instant_bundle.json (~35 KB) servido pelo Cloudflare Worker\n- Troca de abas (Recomendações, Filmes, Séries e Ao Vivo) em 0 ms na TV, projetor e celular, sem rodar consultas pesadas no aparelho\n- Barra de carregamento dourada suave ao pesquisar ou trocar de categoria\n- Robô atualiza automaticamente a assinatura em sources.json somente nos dias em que houver novidade real na lista"
 }
