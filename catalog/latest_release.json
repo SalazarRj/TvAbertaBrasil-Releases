@@ -1,6 +1,6 @@
 {
-  "version": "v0.48",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.48/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.48/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.48 (HarpiaPlay):\n- Toda atualização de Filmes e Séries agora instala direto o banco pronto do robô (catalog.db.gz) em ~2 segundos, eliminando a indexação lenta na TV e no projetor\n- Fallback automático Worker -> GitHub e detecção automática de compressão GZIP no download do catálogo"
+  "version": "v0.49",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.49/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.49/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.49 (HarpiaPlay):\n- Build acelerado no GitHub Actions com compilação paralela (--parallel), cache de build (--build-cache) e 4 GB de heap para o R8\n- Toda atualização de Filmes e Séries baixa direto o catálogo pronto do robô (catalog.db.gz) em ~2s com fallback automático Worker -> GitHub"
 }
