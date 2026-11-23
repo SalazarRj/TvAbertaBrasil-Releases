@@ -1,6 +1,6 @@
 {
-  "version": "v0.46",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.46/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.46/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.46 (HarpiaPlay):\n- Conexão automática ao servidor principal (Cloudflare Worker) com failover transparente sem nenhuma configuração do cliente\n- Desempenho muito mais leve e fluido na Android TV e no projetor (Home virtualizada em LazyColumn carregando só as fileiras visíveis)\n- Animação de carregamento, retorno visual (sucesso verde / erro vermelho) e limpeza automática de URL na aba Servidores do HarpiaPlay Admin"
+  "version": "v0.47",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.47/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.47/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.47 (HarpiaPlay):\n- Robô em nuvem atualizado para pré-gerar todas as capas, notas e sinopses da Home (catalog/posters_home.json) de forma incremental\n- App cliente carrega todas as capas da Home em 1 única chamada leve (~40 KB via Cloudflare Worker) durante o splash — mínimo trabalho possível na TV e no projetor\n- Rota /posters_home.json com Edge Cache adicionada ao cloudflare-worker/worker.js"
 }
