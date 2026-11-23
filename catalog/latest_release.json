@@ -1,6 +1,6 @@
 {
-  "version": "v0.51",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.51/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.51/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.51 (HarpiaPlay):\n- Carrossel principal no celular agora exibe capas verticais inteiras sem cortes (com fundo ambiente escuro e pôster completo emoldurado)\n- Aba Recomendações muito mais completa: gera automaticamente prateleiras das categorias reais do catálogo + faixas de Filmes em Alta, Adicionados Recentemente, Destaques e Séries\n- Carrossel principal e todas as prateleiras pré-carregados durante a tela de Splash"
+  "version": "v0.52",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.52/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.52/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.52 (HarpiaPlay):\n- Robô em nuvem agora valida automaticamente todos os canais ao vivo em paralelo e publica em live_ready.m3u somente os que responderam OK\n- Nova aba \"Robô\" no HarpiaPlay Admin com totais (Canais OK, Reprovados, Filmes, Séries e Capas), barra de aprovação, logs da execução e busca por canais aprovados ou removidos\n- Ocultação automática no app cliente para canais ao vivo que falharem 3 reconexões seguidas"
 }
