@@ -1,6 +1,6 @@
 {
-  "version": "v0.42",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.42/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.42/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.42 (HarpiaPlay):\n- Nova tela de abertura cinematográfica da Harpia com asas douradas abrindo, brilho metálico sobre a logo e entrada animada de HarpiaPlay\n- Logo exclusiva azul-ciano para o HarpiaPlay Admin (separando visualmente do cliente preto e dourado)\n- Correção de estabilidade na aba Séries para títulos com o símbolo \"%\""
+  "version": "v0.44",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.44/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.44/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.44 (HarpiaPlay):\n- Efeito sonoro exclusivo de batimento de asas sincronizado com a abertura cinematográfica da Harpia (leve e compatível com celular e TV)\n- Animação de asas douradas com brilho metálico, logo exclusiva do Admin e correção de estabilidade na aba Séries"
 }
