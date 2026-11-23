@@ -1,0 +1,13 @@
+{
+  "updated_at": 1795445036518,
+  "servers": [
+    {
+      "id": "github_default",
+      "name": "Servidor Padrão (GitHub Grátis)",
+      "url": "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog",
+      "type": "github_raw",
+      "priority": 1,
+      "active": true
+    }
+  ]
+}
