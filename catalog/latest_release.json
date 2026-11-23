@@ -1,6 +1,6 @@
 {
-  "version": "v0.59",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.59/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.59/tvaberta-admin.apk",
-  "notes": "v0.59 — Notas da versão:\n- fix: corrigido fechamento na Home quando um filme/série pertence a dois subgêneros da mesma prateleira (ex.: Suspense e Crime)\n- fix: deduplicação automática nas prateleiras geradas pelo robô e proteção definitiva nas chaves das listas"
+  "version": "v0.60",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.60/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.60/tvaberta-admin.apk",
+  "notes": "v0.60 — Notas da versão:\n- feat: botão \"Rodar Robô Agora\" e consulta de status em tempo real direto na aba Robô do Admin\n- feat: botão Copiar URL em cada lista (Canais e Filmes/Séries) + Copiar Backup Completo das listas e servidores\n- feat: gerenciamento de títulos ocultos/bloqueados pelo Admin (com ação rápida de ocultar direto nos gêneros e filtro automático no robô)"
 }
