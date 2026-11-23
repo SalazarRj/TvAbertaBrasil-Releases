@@ -1,0 +1,6 @@
+{
+  "version": "v0.37",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.37/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.37/tvaberta-admin.apk",
+  "notes": "• Plano B de atualizações sem limite de API (v0.37): o app cliente e o Admin agora contam com fallback automático via latest_release.json e redirecionamento web /releases/latest — nunca mais deixam de avisar sobre versão nova mesmo com várias TVs e celulares no mesmo Wi-Fi.\n• Mantido o robô de catálogo SQLite pronto na nuvem (catalog.db.gz) com abertura estilo Netflix em ~2 segundos."
+}
