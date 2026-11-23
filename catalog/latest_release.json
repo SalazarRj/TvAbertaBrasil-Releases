@@ -1,6 +1,6 @@
 {
-  "version": "v0.50",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.50/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.50/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.50 (HarpiaPlay):\n- Fim do aviso duplicado de atualização: nunca abre no Splash e não reaparece após iniciar o download\n- Muito mais fluidez no celular, TV e projetor: Home pré-montada durante o Splash, prateleiras mantidas em memória ao trocar de aba, fim da rajada de 96 consultas no TMDB e novo cache de capas em disco\n- Novo desenho geométrico afiado das asas da Harpia na tela de abertura (5 penas primárias em leque dourado)"
+  "version": "v0.51",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.51/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.51/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.51 (HarpiaPlay):\n- Carrossel principal no celular agora exibe capas verticais inteiras sem cortes (com fundo ambiente escuro e pôster completo emoldurado)\n- Aba Recomendações muito mais completa: gera automaticamente prateleiras das categorias reais do catálogo + faixas de Filmes em Alta, Adicionados Recentemente, Destaques e Séries\n- Carrossel principal e todas as prateleiras pré-carregados durante a tela de Splash"
 }
