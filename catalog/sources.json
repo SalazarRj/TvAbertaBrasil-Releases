@@ -2,13 +2,11 @@
   "live_lists": [
     "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
   ],
-  "vod_lists": [
-    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
-  ],
+  "vod_lists": [],
   "live_version": 1795392208710,
-  "vod_version": 1795351820413,
+  "vod_version": 1795392229382,
   "clear_live_version": 1795351911922,
-  "clear_vod_version": 1795351820413,
+  "clear_vod_version": 1795392229382,
   "live_preverified": false,
   "featured_titles": [],
   "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
