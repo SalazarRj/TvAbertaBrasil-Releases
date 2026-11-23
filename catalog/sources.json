@@ -1,15 +1,15 @@
 {
   "live_lists": [
-    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/IPTV-Brazuka.m3u"
+    "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog\/live_clean.m3u"
   ],
   "vod_lists": [
     "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
   ],
-  "live_version": 1795394130559,
+  "live_version": 1795394256594,
   "vod_version": 1795394200777,
   "clear_live_version": 1795394130559,
   "clear_vod_version": 1795394061254,
-  "live_preverified": false,
+  "live_preverified": true,
   "featured_titles": [],
   "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "sport_leagues": [
