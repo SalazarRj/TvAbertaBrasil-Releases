@@ -5,11 +5,11 @@
   "vod_lists": [
     "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
   ],
-  "live_version": 1795369334675,
+  "live_version": 1795392208710,
   "vod_version": 1795351820413,
   "clear_live_version": 1795351911922,
   "clear_vod_version": 1795351820413,
-  "live_preverified": true,
+  "live_preverified": false,
   "featured_titles": [],
   "tmdb_api_key": "ece897f24dd782a9789d5b547889064e",
   "sport_leagues": [
