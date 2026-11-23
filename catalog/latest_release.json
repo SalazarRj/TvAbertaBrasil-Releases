@@ -1,6 +1,6 @@
 {
-  "version": "v0.61",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.61/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.61/tvaberta-admin.apk",
-  "notes": "v0.61 — Notas da versão:\n- feat: nova aba Laboratório no Admin para buscar listas públicas .m3u no GitHub ou importar URLs em modo isolado\n- feat: testador paralelo (amostra de 50 ou até 500 itens) com preview ao vivo no ExoPlayer integrado\n- feat: envio direto em 1 toque da lista aprovada para Canais (Ao Vivo), Filmes/Séries (VOD) ou publicação de M3U limpa só com canais online"
+  "version": "v0.62",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.62/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.62/tvaberta-admin.apk",
+  "notes": "v0.62 — Notas da versão:\n- feat: Laboratório v2 no Admin organizado em 3 sub-abas (1. Raspar, 2. Bancada, 3. Exportar)\n- feat: raspador de páginas/README/Gist com fontes públicas pré-definidas, URL manual e varredura por nome de filme, série ou canal\n- feat: filtros combinados (Tipo, Status, Qualidade/BR-PT, Categorias A-Z, Duplicados), latência em ms, player com Aprovar/Reprovar e Próximo, separador de listas mistas e histórico de testes"
 }
