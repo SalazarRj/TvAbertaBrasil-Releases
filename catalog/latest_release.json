@@ -1,6 +1,6 @@
 {
-  "version": "v0.47",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.47/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.47/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.47 (HarpiaPlay):\n- Robô em nuvem atualizado para pré-gerar todas as capas, notas e sinopses da Home (catalog/posters_home.json) de forma incremental\n- App cliente carrega todas as capas da Home em 1 única chamada leve (~40 KB via Cloudflare Worker) durante o splash — mínimo trabalho possível na TV e no projetor\n- Rota /posters_home.json com Edge Cache adicionada ao cloudflare-worker/worker.js"
+  "version": "v0.48",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.48/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.48/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.48 (HarpiaPlay):\n- Toda atualização de Filmes e Séries agora instala direto o banco pronto do robô (catalog.db.gz) em ~2 segundos, eliminando a indexação lenta na TV e no projetor\n- Fallback automático Worker -> GitHub e detecção automática de compressão GZIP no download do catálogo"
 }
