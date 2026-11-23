@@ -1,6 +1,6 @@
 {
-  "version": "v0.58",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.58/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.58/tvaberta-admin.apk",
-  "notes": "v0.58 — Notas da versão:\n- fix: filtros de categoria dentro das abas Filmes e Séries agora funcionam com sincronização automática do catálogo classificado\n- ui: categorias organizadas em ordem alfabética com nomes limpos (ex.: Drama, Comédia, Ação, Animes, Doramas • K-Drama, C-Drama)\n- feat: novo controle detalhado de gêneros de Filmes e Séries na aba Robô do Admin (com contagem e lista de títulos ao tocar)"
+  "version": "v0.59",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.59/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.59/tvaberta-admin.apk",
+  "notes": "v0.59 — Notas da versão:\n- fix: corrigido fechamento na Home quando um filme/série pertence a dois subgêneros da mesma prateleira (ex.: Suspense e Crime)\n- fix: deduplicação automática nas prateleiras geradas pelo robô e proteção definitiva nas chaves das listas"
 }
