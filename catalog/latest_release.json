@@ -1,6 +1,6 @@
 {
-  "version": "v0.55",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.55/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.55/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.55 (HarpiaPlay):\n- Limpeza extrema anti-travamento e anti-fechamento em projetores e TV Boxes de 1 GB de RAM\n- Eliminadas chamadas duplicadas de SQLite e TMDB logo após o Splash quando o pacote instantâneo já foi carregado\n- Cache de imagens adaptativo por aparelho (5 MB / 2 threads em projetor e TV Low-RAM; 12 MB / 4 threads em celular) + limpeza automática de cache antigo em disco\n- Fila pós-abertura espaçada no projetor (sem pico de RAM com raspagem HTML do YouTube ou EPG simultâneo na abertura)"
+  "version": "v0.56",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.56/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.56/tvaberta-admin.apk",
+  "notes": "v0.56 — Notas da versão:\n- feat: classificação automática do catálogo por gêneros reais e origem via TMDB (Ação, Ficção Científica, Terror, Doramas/K-Drama, C-Drama, Animes unificados e Séries organizadas na Home)\n- ui: nova ordem do menu principal (Recomendações, Filmes, Séries, Ao Vivo e Infantil)\n- ui: destaque dourado com contraste reforçado ao navegar pelo controle remoto, visível mesmo em capas claras"
 }
