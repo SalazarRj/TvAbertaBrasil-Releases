@@ -1,9 +1,11 @@
 {
-  "live_lists": [],
+  "live_lists": [
+    "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/IPTV-Brazuka.m3u"
+  ],
   "vod_lists": [
     "https:\/\/raw.githubusercontent.com\/xKzin\/IPTV-Brazuka\/main\/Filmes%20e%20S%C3%A9ries.m3u"
   ],
-  "live_version": 1795397897459,
+  "live_version": 1795397905052,
   "vod_version": 1795394200777,
   "clear_live_version": 1795397897459,
   "clear_vod_version": 1795394061254,
