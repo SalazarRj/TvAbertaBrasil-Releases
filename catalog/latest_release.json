@@ -1,6 +1,6 @@
 {
-  "version": "v0.44",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.44/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.44/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.44 (HarpiaPlay):\n- Efeito sonoro exclusivo de batimento de asas sincronizado com a abertura cinematográfica da Harpia (leve e compatível com celular e TV)\n- Animação de asas douradas com brilho metálico, logo exclusiva do Admin e correção de estabilidade na aba Séries"
+  "version": "v0.45",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.45/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.45/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.45 (HarpiaPlay):\n- Nova aba Servidores no HarpiaPlay Admin para cadastrar, testar ping, ordenar prioridade e publicar múltiplos servidores (incluindo Cloudflare Workers)\n- Código pronto do servidor gratuito incluído em cloudflare-worker/worker.js com cache na borda (Edge Cache)\n- Economia de >85% nas chamadas em segundo plano do app cliente (checagens ajustadas para 5 min e sem disparo ao trocar de aba) + suporte a failover automático"
 }
