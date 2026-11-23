@@ -1,12 +1,20 @@
 {
-  "updated_at": 1795445179205,
+  "updated_at": 1795445417849,
   "servers": [
+    {
+      "id": "srv_1795445417849",
+      "name": "Cloudflare Worker (Principal)",
+      "url": "https:\/\/harpiaplay-api.salazarsouzaguilherme.workers.dev",
+      "type": "cloudflare_worker",
+      "priority": 1,
+      "active": true
+    },
     {
       "id": "github_default",
       "name": "Servidor Padrão (GitHub Grátis)",
       "url": "https:\/\/raw.githubusercontent.com\/SalazarRj\/TvAbertaBrasil-Releases\/main\/catalog",
       "type": "github_raw",
-      "priority": 1,
+      "priority": 2,
       "active": true
     }
   ]
