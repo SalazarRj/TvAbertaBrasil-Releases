@@ -1,6 +1,6 @@
 {
-  "version": "v0.70",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.70/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.70/tvaberta-admin.apk",
-  "notes": "v0.70 — Notas da versão:\n- feat: seções Filmes e Séries agora abrem organizadas em fileiras horizontais por Gêneros reais (A-Z: Ação, Animes, Comédia, Doramas, Drama, Ficção Científica, Terror etc.) carregados direto do banco SQLite com card 'Ver todos' em cada gênero\n- fix: normalização inteligente de gêneros (remove prefixos como 'Filmes de' / 'Séries de') e filtro flexível ao abrir qualquer gênero"
+  "version": "v0.72",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.72/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.72/tvaberta-admin.apk",
+  "notes": "v0.72 — Notas da versão:\n- ui: navegação por controle remoto na TV muito mais fluida — títulos das fileiras não capturam mais o foco do D-Pad (pulando direto de prateleira em prateleira), mantendo o toque no celular e o card Ver todos no final de cada fileira"
 }
