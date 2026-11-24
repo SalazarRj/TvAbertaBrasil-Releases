@@ -1,6 +1,6 @@
 {
-  "version": "v0.66",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.66/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.66/tvaberta-admin.apk",
-  "notes": "v0.66 — Notas da versão:\n- feat: ordenação combinada 'Recente + Melhor ★' no Raspador do Laboratório\n- feat: filtro por formato de mídia (Todos M3U/M3U8/MP4, Só M3U/M3U8 ou Só MP4) e toggle 'Só Repos com Lista' para descartar repositórios vazios\n- ui: ícones oficiais HarpiaPlay e HarpiaPlay Admin gerados em todas as densidades (mdpi a xxxhdpi) para aparecerem corretamente no instalador de APK do Android"
+  "version": "v0.67",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.67/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.67/tvaberta-admin.apk",
+  "notes": "v0.67 — Notas da versão:\n- feat: novo Diretório de Fontes Oficiais & Acervos na aba Laboratório (Alugar Filmes, TV Grátis FAST, Domínio Público e Repositórios Abertos de M3U/EPG/Logos) com filtros por categoria, cópia rápida, abertura no navegador e raspagem direta em 1 toque"
 }
