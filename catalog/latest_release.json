@@ -1,6 +1,6 @@
 {
-  "version": "v0.67",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.67/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.67/tvaberta-admin.apk",
-  "notes": "v0.67 — Notas da versão:\n- feat: novo Diretório de Fontes Oficiais & Acervos na aba Laboratório (Alugar Filmes, TV Grátis FAST, Domínio Público e Repositórios Abertos de M3U/EPG/Logos) com filtros por categoria, cópia rápida, abertura no navegador e raspagem direta em 1 toque"
+  "version": "v0.68",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.68/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.68/tvaberta-admin.apk",
+  "notes": "v0.68 — Notas da versão:\n- feat: inspetor de listas nas abas Canais e Filmes/Séries do Admin — toque em qualquer lista (ou no ícone de olho) para ver todos os canais/títulos, filtrar por categoria A-Z, dar play de preview, abrir no Laboratório ou excluir com segurança"
 }
