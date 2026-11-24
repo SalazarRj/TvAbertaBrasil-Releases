@@ -2,25 +2,25 @@
   "alpha": {
     "version": "v0.78",
     "display_version": "v0.78",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.78/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.78/tvaberta-admin.apk",
-    "notes": "v0.78 — Notas da versão:\n- ui: botões Alfa, Beta e Lançar no histórico de versões do Admin agora funcionam como liga/desliga (toque no canal ativo com ✓ para remover) e textos dos botões de promoção ajustados para não cortar no celular",
+    "app_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.78\/tvaberta-app.apk",
+    "admin_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.78\/tvaberta-admin.apk",
+    "notes": "v0.78 — Notas da versão:\n- ui: botões Alfa, Beta e Lançar no histórico de versões do Admin agora funcionam como liga\/desliga (toque no canal ativo com ✓ para remover) e textos dos botões de promoção ajustados para não cortar no celular",
     "updated_at": 1795535112572
   },
   "beta": {
     "version": "v0.76",
     "display_version": "v0.76",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-admin.apk",
+    "app_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.76\/tvaberta-app.apk",
+    "admin_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.76\/tvaberta-admin.apk",
     "notes": "v0.76 — Notas da versão:\n- feat: logos oficiais das emissoras brasileiras nos cards de Livestream (Home), aba Ao Vivo e Zapping (com cache leve em disco)\n- feat: Zapping Rápido em tela cheia no player Ao Vivo (menu lateral translúcido com busca, logos e EPG sem sair do vídeo)\n- fix: botões 'Próximo canal', 'Anterior' e 'Canais' direto na tela de erro quando um canal falha, com switchBy blindado para nunca travar após ocultar canal offline",
     "updated_at": 1795530623653
   },
   "stable": {
-    "version": "v0.76",
-    "display_version": "v1.0",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-admin.apk",
-    "notes": "v0.76 — Notas da versão:\n- feat: logos oficiais das emissoras brasileiras nos cards de Livestream (Home), aba Ao Vivo e Zapping (com cache leve em disco)\n- feat: Zapping Rápido em tela cheia no player Ao Vivo (menu lateral translúcido com busca, logos e EPG sem sair do vídeo)\n- fix: botões 'Próximo canal', 'Anterior' e 'Canais' direto na tela de erro quando um canal falha, com switchBy blindado para nunca travar após ocultar canal offline",
-    "updated_at": 1795532777889
+    "version": "",
+    "display_version": "",
+    "app_apk_url": "",
+    "admin_apk_url": "",
+    "notes": "",
+    "updated_at": 0
   }
 }
