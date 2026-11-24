@@ -8,10 +8,10 @@
       "email": "tes@gmail.com",
       "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
       "active": true,
-      "expires_at": 1798119010382,
+      "expires_at": 1798122558176,
       "duration_hours": 720,
       "start_on_first_login": false,
-      "release_channel": "stable"
+      "release_channel": "alpha"
     }
   ]
 }
