@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.81",
-    "display_version": "v0.81",
-    "app_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.81\/tvaberta-app.apk",
-    "admin_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.81\/tvaberta-admin.apk",
-    "notes": "v0.81 — Notas da versão:\n- feat: tela amigável de relatório de erro no HarpiaPlay (detalhes técnicos ocultos\/expansíveis e botão 'Enviar Relatório' automático via Cloudflare Worker)\n- feat: nova aba 'Logs' no HarpiaPlay Admin recebendo os relatórios de erro (app, versão, canal, dispositivo, usuário e stacktrace) com botão Copiar Log pronto para correção\n- fix: blindagem extra de scrollToItem\/animateScrollToItem para máxima estabilidade na navegação por controle remoto na TV",
-    "updated_at": 1795538437515
+    "version": "v0.87",
+    "display_version": "v0.87",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.87/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.87/tvaberta-admin.apk",
+    "notes": "feat: ao trocar de fileira na TV (cima/baixo), o foco vai direto para o 1o card da fileira selecionada em 1 único clique\nfix: mantém altura padronizada em todos os cards e proteção de ciclo de vida para nunca travar quando o 1o card estiver fora da tela\nperf: navegação fluida nas 12 fileiras horizontais com resposta rápida do controle remoto (95 ms)",
+    "updated_at": 1795540681876
   },
   "beta": {
     "version": "",
