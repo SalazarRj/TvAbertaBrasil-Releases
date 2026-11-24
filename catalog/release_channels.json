@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.81",
-    "display_version": "v0.81",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.81/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.81/tvaberta-admin.apk",
-    "notes": "v0.81 — Notas da versão:\n- feat: tela amigável de relatório de erro no HarpiaPlay (detalhes técnicos ocultos/expansíveis e botão 'Enviar Relatório' automático via Cloudflare Worker)\n- feat: nova aba 'Logs' no HarpiaPlay Admin recebendo os relatórios de erro (app, versão, canal, dispositivo, usuário e stacktrace) com botão Copiar Log pronto para correção\n- fix: blindagem extra de scrollToItem/animateScrollToItem para máxima estabilidade na navegação por controle remoto na TV",
-    "updated_at": 1795537672061
+    "version": "",
+    "display_version": "",
+    "app_apk_url": "",
+    "admin_apk_url": "",
+    "notes": "",
+    "updated_at": 0
   },
   "beta": {
     "version": "",
