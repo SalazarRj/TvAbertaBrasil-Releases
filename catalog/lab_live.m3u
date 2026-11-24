@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 group-title="Nacionales",Mega
+https://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="Nacionales",CHV
+https://redirector.dps.live/hls/chv/playlist.m3u8
+#EXTINF:-1 group-title="Nacionales",Canal 13
+https://redirector.dps.live/hls/13cl/playlist.m3u8
+#EXTINF:-1 group-title="Noticias nacionales",CHV Noticias
+https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/chvn/chvn.smil/playlist.m3u8
+#EXTINF:-1 group-title="Noticias nacionales",T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",France 24 Español
+https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",France 24 English
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",Star TVE
+http://138.59.177.78:9999/play/a0o4/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN
+http://181.78.12.119:16123/play/ch16/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+http://45.173.231.22:8000/play/a08a/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3
+http://181.78.12.119:16123/play/ch18/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://181.78.12.119:16123/play/ch90/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 5
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 6
+http://181.78.12.119:16123/play/ch21/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://181.78.14.26:4000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://181.78.211.244:8005/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium
+http://190.60.46.228:8888/play/a026/index.m3u8
+#EXTINF:-1 group-title="Deportes",Eurosport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="Deportes",RedBull TV Español
+https://freqsyndlin.redbull.com/957/rbtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",RedBull TV World
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Cine",HBO
+http://138.59.177.78:9999/play/a098/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO 2
+http://181.78.82.130:8000/play/a0rf/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Plus
+http://138.59.177.78:9999/play/a099/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Family
+http://181.78.82.130:8000/play/a0l6/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Pop
+http://181.78.82.130:8000/play/a0ec/index.m3u8
+#EXTINF:-1 group-title="Cine",HBO Xtreme
+http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Cine",Cinecanal
+http://38.87.224.19:2220/play/a019/index.m3u8
+#EXTINF:-1 group-title="Cine",Star Channel
+http://190.108.83.69:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT
+http://177.234.218.66:8084/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Cine",Space
+http://177.234.218.66:8084/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Cine",Warner Channel
+http://177.234.218.66:8084/play/a09t/index.m3u8
