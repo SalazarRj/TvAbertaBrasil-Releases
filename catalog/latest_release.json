@@ -1,8 +1,8 @@
 {
-  "version": "v0.75",
-  "display_version": "v0.75",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.75/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.75/tvaberta-admin.apk",
-  "notes": "v0.75 — Notas da versão:\n- feat: sistema de canais de atualização (Alfa, Beta e Lançamento) no Admin, no HarpiaPlay, no Worker e no workflow de build\n- feat: seletor de canal por usuário (Alfa/Beta/Lançamento) e painel de promoção em 1 toque (Promover p/ Beta e Publicar Lançamento Oficial com marco 1.0/2.0)",
-  "updated_at": 1795526789356
+  "version": "v0.76",
+  "display_version": "v0.76",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.76/tvaberta-admin.apk",
+  "notes": "v0.76 — Notas da versão:\n- feat: logos oficiais das emissoras brasileiras nos cards de Livestream (Home), aba Ao Vivo e Zapping (com cache leve em disco)\n- feat: Zapping Rápido em tela cheia no player Ao Vivo (menu lateral translúcido com busca, logos e EPG sem sair do vídeo)\n- fix: botões 'Próximo canal', 'Anterior' e 'Canais' direto na tela de erro quando um canal falha, com switchBy blindado para nunca travar após ocultar canal offline",
+  "updated_at": 1795529600844
 }
