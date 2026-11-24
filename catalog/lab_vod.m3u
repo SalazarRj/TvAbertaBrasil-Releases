@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 group-title="Series",AXN
+http://177.234.218.66:8084/play/a07m/index.m3u8
+#EXTINF:-1 group-title="Series",Sony Channel
+http://177.234.218.66:8084/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Series",Universal TV
+http://177.234.218.66:8084/play/a082/index.m3u8
+#EXTINF:-1 group-title="Series",USA Network
+http://177.234.218.66:8084/play/a084/index.m3u8
+#EXTINF:-1 group-title="Series",TNT Series
+http://177.234.218.66:8084/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Series",Adult Swim
+http://177.234.218.66:8084/play/a09g/index.m3u8
