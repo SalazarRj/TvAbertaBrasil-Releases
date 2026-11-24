@@ -1,6 +1,6 @@
 {
-  "version": "v0.64",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.64/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.64/tvaberta-admin.apk",
-  "notes": "v0.64 — Notas da versão:\n- feat: multifiltros combináveis no Raspador do Laboratório (quantidade 10/20/30/50 com teto seguro de paginação, ordenação por Recentes/Maior ★/Populares/Relevância, período 30d/90d/1 ano, avaliação mínima e filtros combináveis M3U/BR-PT/Ativos/Descrição)"
+  "version": "v0.65",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.65/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.65/tvaberta-admin.apk",
+  "notes": "v0.65 — Notas da versão:\n- feat: exibição da URL completa com botões Copiar URL e Abrir no GitHub em cada repositório encontrado no Raspador\n- feat: botão Copiar URL em cada arquivo .m3u/.m3u8 raspado + Copiar Todos em lote nos resultados do Laboratório"
 }
