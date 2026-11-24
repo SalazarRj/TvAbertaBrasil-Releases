@@ -1,6 +1,6 @@
 {
-  "version": "v0.72",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.72/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.72/tvaberta-admin.apk",
-  "notes": "v0.72 — Notas da versão:\n- ui: navegação por controle remoto na TV muito mais fluida — títulos das fileiras não capturam mais o foco do D-Pad (pulando direto de prateleira em prateleira), mantendo o toque no celular e o card Ver todos no final de cada fileira"
+  "version": "v0.73",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.73/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.73/tvaberta-admin.apk",
+  "notes": "v0.73 — Notas da versão:\n- feat: rolagem infinita automática (carrega mais títulos sozinho ao chegar no fim da lista) e botão 'Voltar ao topo' no final das seções Filmes, Séries e Ao Vivo\n- fix: removidas duplicatas de séries nas fileiras de gêneros (ex.: títulos repetidos na mesma prateleira)"
 }
