@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.78",
-    "display_version": "v0.78",
-    "app_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.78\/tvaberta-app.apk",
-    "admin_apk_url": "https:\/\/github.com\/SalazarRj\/TvAbertaBrasil-Releases\/releases\/download\/v0.78\/tvaberta-admin.apk",
-    "notes": "v0.78 — Notas da versão:\n- ui: botões Alfa, Beta e Lançar no histórico de versões do Admin agora funcionam como liga\/desliga (toque no canal ativo com ✓ para remover) e textos dos botões de promoção ajustados para não cortar no celular",
-    "updated_at": 1795535112572
+    "version": "v0.79",
+    "display_version": "v0.79",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.79/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.79/tvaberta-admin.apk",
+    "notes": "v0.79 — Notas da versão:\n- feat: rotas curtas de download no Cloudflare Worker (/baixar, /baixar/beta, /baixar/alfa, /baixar/admin) que entregam o APK direto sem expor o link do GitHub\n- feat: card 'Enviar Link do APK (sem expor GitHub)' na aba Conexão do Admin com compartilhamento direto (WhatsApp/Telegram) e cópia em 1 toque",
+    "updated_at": 1795536005573
   },
   "beta": {
     "version": "",
