@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Ao Vivo",A&E FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81599.ts
-#EXTINF:-1 group-title="Ao Vivo",A&E
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13497.ts
+#EXTINF:-1 group-title="Ao Vivo",A&E FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23156.ts
 #EXTINF:-1 group-title="Ao Vivo",A&E HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35224.ts
 #EXTINF:-1 group-title="Ao Vivo",A&E HD ²
@@ -29,8 +29,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304491.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/67511.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND SP FHD  H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts
-#EXTINF:-1 group-title="Ao Vivo",BAND SP HD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts
+#EXTINF:-1 group-title="Ao Vivo",BAND SP FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND SP FHD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/43031.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND BAHIA FHD
@@ -41,6 +41,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20524.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20522.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND RS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/72575.ts
+#EXTINF:-1 group-title="Ao Vivo",BAND SPORTS FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81585.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND SPORTS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8662.ts
 #EXTINF:-1 group-title="Ao Vivo",BAND SPORTS HD ¹
@@ -55,8 +57,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1129618.ts
 https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8
 #EXTINF:-1 group-title="Ao Vivo",CARTOON NETWOORK FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125439.ts
-#EXTINF:-1 group-title="Ao Vivo",CARTOON NETWORK
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13504.ts
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+http://177.234.218.66:8084/play/a08p/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",CARTOON NETWOORK HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/38015.ts
 #EXTINF:-1 group-title="Ao Vivo",CARTOON NETWOORK HD ²
@@ -71,8 +73,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/92649.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107985.ts
 #EXTINF:-1 group-title="Ao Vivo",BIS FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8680.ts
-#EXTINF:-1 group-title="Ao Vivo",CINEMAX HD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8709.ts
+#EXTINF:-1 group-title="Ao Vivo",CINEMAX FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8708.ts
 #EXTINF:-1 group-title="Ao Vivo",CINEMAX HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35232.ts
 #EXTINF:-1 group-title="Ao Vivo",CINEMAX HD ²
@@ -131,8 +133,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21022.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/89852.ts
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/91396.ts
-#EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL FHD*
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131176.ts
+#EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8736.ts
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30148.ts
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY HOME & HEALTH FHD
@@ -141,8 +143,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8739.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/93902.ts
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY  HOME & HEALTH HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30149.ts
-#EXTINF:-1 group-title="Ao Vivo",DISCOVERY SCIENCE
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13509.ts
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://177.234.218.66:8084/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY SCIENCE HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/93903.ts
 #EXTINF:-1 group-title="Documentales",Discovery Theater
@@ -167,8 +169,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8743.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/38017.ts
 #EXTINF:-1 group-title="Ao Vivo",DISCOVERY KIDS HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/38018.ts
-#EXTINF:-1 group-title="Ao Vivo",ESPN FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts
 #EXTINF:-1 group-title="Deportes",ESPN 2
 http://45.173.231.22:8000/play/a08a/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",ESPN 2 HD ¹
@@ -181,8 +183,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30073.ts
 #EXTINF:-1 group-title="Ao Vivo",ESPN 3 HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30074.ts
-#EXTINF:-1 group-title="Ao Vivo",ESPN 4
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN 4 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts
 #EXTINF:-1 group-title="Ao Vivo",ESPN 4 HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts
 #EXTINF:-1 group-title="Ao Vivo",ESPN 4 HD ²
@@ -209,6 +211,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8807.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13522.ts
 #EXTINF:-1 group-title="Ao Vivo",FOOD NETWORK HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8810.ts
+#EXTINF:-1 group-title="Ao Vivo",GNT FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107984.ts
 #EXTINF:-1 group-title="Ao Vivo",GNT FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8891.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO NEWS FHD H.265
@@ -221,8 +225,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30168.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30169.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOOBINHO
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69036.ts
-#EXTINF:-1 group-title="Ao Vivo",HISTORY FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304494.ts
+#EXTINF:-1 group-title="Ao Vivo",HISTORY HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304496.ts
 #EXTINF:-1 group-title="Ao Vivo",HISTORY 2 FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304499.ts
 #EXTINF:-1 group-title="Ao Vivo",HBO HD
@@ -235,8 +239,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/31863.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/31859.ts
 #EXTINF:-1 group-title="Ao Vivo",HBO 2 HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/93899.ts
-#EXTINF:-1 group-title="Ao Vivo",HBO FAMILY
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13530.ts
+#EXTINF:-1 group-title="Ao Vivo",HBO FAMILY HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8900.ts
 #EXTINF:-1 group-title="Ao Vivo",HBO FAMILY HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/31860.ts
 #EXTINF:-1 group-title="Ao Vivo",HBO FAMILY HD ²
@@ -281,8 +285,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304506.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8996.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE CLUBES FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts
-#EXTINF:-1 group-title="Ao Vivo",PREMIERE CLUBES FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9037.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE CLUBES HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94194.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE CLUBES FHD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/54902.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE 2 FHD H.265
@@ -293,8 +297,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69028.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13576.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE 3 FHD H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81583.ts
-#EXTINF:-1 group-title="Ao Vivo",PREMIERE 3 FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13577.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 3 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69031.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE 3 HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30051.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE 3 HD ²
@@ -323,8 +327,12 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108308.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108313.ts
 #EXTINF:-1 group-title="Ao Vivo",PREMIERE 7 FHD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108317.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD SP FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/82755.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD SP HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/12888.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD HD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35842.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD GOIAS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/106097.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD MINAS HD
@@ -341,8 +349,10 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/12988.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/241179.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD NSC SANTA CATARINA HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/291659.ts
-#EXTINF:-1 group-title="Ao Vivo",RECORD RS FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/160052.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD SANTA CATARINA HD¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/291660.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD RS HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9065.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD RS HD ¹
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/160053.ts
 #EXTINF:-1 group-title="Ao Vivo",RECORD TROPICAL FHD
@@ -367,6 +377,10 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 http://46.151.196.223:14244
 #EXTINF:-1 group-title="Ao Vivo",SBT HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9084.ts
+#EXTINF:-1 group-title="Ao Vivo",SBT HD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30120.ts
+#EXTINF:-1 group-title="Ao Vivo",SBT FHD ²
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81610.ts
 #EXTINF:-1 group-title="Ao Vivo",SBT RJ FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131563.ts
 #EXTINF:-1 group-title="Ao Vivo",SBT JANGADEIRO FHD
@@ -377,6 +391,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131432.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108770.ts
 #EXTINF:-1 group-title="Ao Vivo",SBT RS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/91907.ts
+#EXTINF:-1 group-title="Ao Vivo",SBT PARANA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/88432.ts
 #EXTINF:-1 group-title="Ao Vivo",SONY
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13584.ts
 #EXTINF:-1 group-title="Ao Vivo",SONY HD ¹
@@ -401,6 +417,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35247.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts
 #EXTINF:-1 group-title="Ao Vivo",SPORTV
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69096.ts
+#EXTINF:-1 group-title="Ao Vivo",SPORTV HD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts
 #EXTINF:-1 group-title="Ao Vivo",SPORTV 2
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13586.ts
 #EXTINF:-1 group-title="Ao Vivo",SPORTV 2 HD ²
@@ -445,6 +463,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24534.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94377.ts
 #EXTINF:-1 group-title="Ao Vivo",TELECINE FUN
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24535.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE PIPOCA FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94378.ts
 #EXTINF:-1 group-title="Ao Vivo",TELECINE PIPOCA
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24536.ts
 #EXTINF:-1 group-title="Ao Vivo",TELECINE PREMIUM
@@ -471,8 +491,8 @@ http://186.219.52.187/gazeta/index.m3u8
 http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",TV DIÁRIO HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69243.ts
-#EXTINF:-1 group-title="Ao Vivo",TV CÂMARA
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69905.ts
+#EXTINF:-1 group-title="Legislative",TV Camara (Brazil) (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 group-title="Undefined",TV Justica (720p)
 http://170.83.16.50/TV_JUSTICA/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",UNIVERSAL CHANNEL FHD H.265
@@ -483,8 +503,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21682.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35256.ts
 #EXTINF:-1 group-title="Ao Vivo",UNIVERSAL CHANNEL HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35257.ts
-#EXTINF:-1 group-title="Ao Vivo",NOVELAS GLOBOPLAY
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13496.ts
+#EXTINF:-1 group-title="Ao Vivo",NOVELAS GLOBOPLAY FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9215.ts
 #EXTINF:-1 group-title="Ao Vivo",NOVELAS GLOBOPLAY ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/43930.ts
 #EXTINF:-1 group-title="Ao Vivo",MEGAPIX FHD H.265
@@ -501,6 +521,8 @@ http://186.219.52.187/novo_tempo/index.m3u8
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107981.ts
 #EXTINF:-1 group-title="Ao Vivo",WARNER FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9219.ts
+#EXTINF:-1 group-title="Ao Vivo",WARNER HD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35258.ts
 #EXTINF:-1 group-title="Ao Vivo",WARNER HD ²
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/35259.ts
 #EXTINF:-1 group-title="Undefined",WooHoo (720p)
@@ -565,6 +587,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594656.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594659.ts
 #EXTINF:-1 group-title="Ao Vivo",RADIO Farroupilha FM/AM
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594661.ts
+#EXTINF:-1 group-title="Ao Vivo",RADIO Jovem Pan FM
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594670.ts
 #EXTINF:-1 group-title="Ao Vivo",Rádio Góspel Campinas
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594679.ts
 #EXTINF:-1 group-title="Ao Vivo",Rádio gaúcha AM 600
@@ -659,6 +683,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594827.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594829.ts
 #EXTINF:-1 group-title="Ao Vivo",FLAMENGO X ATLÉTICO - MG 02 ÁS: 20:00
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594008.ts
+#EXTINF:-1 group-title="Ao Vivo",X SPORTS HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/631630.ts
 #EXTINF:-1 group-title="Religious",TV Pai Eterno (720p)
 http://186.219.52.187/pai_eterno/index.m3u8
 #EXTINF:-1 group-title="Ao Vivo",GLOBO SP FHD
@@ -681,14 +707,14 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168931.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168932.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO EPTV SUL DE MINAS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168934.ts
-#EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV GRANDE MINAS FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168935.ts
-#EXTINF:-1 group-title="Ao Vivo",GLOBO MINAS FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV GRANDE MINAS HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168936.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO MINAS HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168939.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO NORDESTE HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168943.ts
-#EXTINF:-1 group-title="Ao Vivo",GLOBO TV ANHANGUERA GOIÂNIA FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168944.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV ANHANGUERA GOIÂNIA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168946.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV BELÉM FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168947.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV BRASÍLIA FHD
@@ -705,8 +731,12 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168957.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168959.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO AMAZONICA RO H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168961.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO AMAZÔNICA CRUZEIRO ACRE H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168962.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO BAHIA SANTA CRUZ H.265
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168963.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO BAHIA VDC H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168964.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO CENTRO AMERICA HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168968.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO DIVINÓPOLIS HD
@@ -723,6 +753,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168975.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168976.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO INTER PT HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168978.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV CORONEL FABRICIANO HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168979.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV COSTA BRANCA HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168980.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV DOS VALES HD
@@ -743,8 +775,12 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168993.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168995.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO RBS SANTA CRUZ FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168996.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV CRUZ ALTA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168999.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV ERECHIM HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169000.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV PELOTAS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169001.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV PORTO ALEGRE FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169002.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV URUGUAIANA HD
@@ -769,6 +805,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169022.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169023.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV ALVORADA DO SUL HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169024.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV ASA BRANCA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169026.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV BAHIA HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169028.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV CLUBE PIAUÍ FHD
@@ -777,6 +815,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169030.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169032.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV DIÁRIO MOGI DAS CRUZES HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169033.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV FRONTEIRA PAULISTA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169034.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV GAZETA ES HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169035.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV GUAJARÁ MIRIM HD
@@ -787,6 +827,8 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169038.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169039.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV INTEGRAÇÃO JUIZ DE FORA MG HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169041.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV INTEGRAÇÃO UBERABA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169042.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV INTEGRAÇÃO UBERLANDIA FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169043.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV ITACOTIARA HD
@@ -797,10 +839,14 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169048.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169049.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV LIBERAL PARAUABEBAS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169050.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV LIBERAL REDENÇÃO HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169051.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV MIRANTE COCAIS HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169054.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV MIRANTE IMPERATRIZ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169055.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV MIRANTE SÃO LUIS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169056.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV MORENA CORUMBÁ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169058.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV MORENA FHD
@@ -814,7 +860,7 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169065.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV RBS BAGÉ HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169066.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV RIO SUL HD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169069.ts
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169070.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV SERGIPE FHD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169071.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV SERRA MAR HD
@@ -833,18 +879,32 @@ http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169081.ts
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169083.ts
 #EXTINF:-1 group-title="Ao Vivo",GLOBO TV VERDES MARES CARIRI HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169084.ts
-#EXTINF:-1 group-title="Ao Vivo",GLOBO TV VERDES MARES CE FHD
-http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169085.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV VERDES MARES CE HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169087.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV VILHENA HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169088.ts
 #EXTINF:-1 group-title="Ao Vivo",TV RIO SUL HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169091.ts
 #EXTINF:-1 group-title="Ao Vivo",TV TEM BAURU HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169093.ts
+#EXTINF:-1 group-title="Ao Vivo",DISNEY + 02 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169096.ts
+#EXTINF:-1 group-title="Ao Vivo",DISNEY + 03 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169097.ts
+#EXTINF:-1 group-title="Ao Vivo",DISNEY + 04 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169098.ts
+#EXTINF:-1 group-title="Ao Vivo",DISNEY + 06 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169100.ts
+#EXTINF:-1 group-title="Ao Vivo",DISNEY + 08 HD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169102.ts
 #EXTINF:-1 group-title="Ao Vivo",DISNEY + 09 HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169103.ts
 #EXTINF:-1 group-title="Ao Vivo",DISNEY + 10 HD
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169104.ts
 #EXTINF:-1 group-title="Ao Vivo",UFC FIGHT 02
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2403506.ts
+#EXTINF:-1 group-title="Ao Vivo",A FAZENDA 18 MOSAICO
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2470067.ts
 #EXTINF:-1 group-title="Ao Vivo",A FAZENDA 18 01
 http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2470061.ts
 #EXTINF:-1 group-title="Ao Vivo",A FAZENDA 18 02
@@ -971,6 +1031,8 @@ https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 #EXTINF:-1 group-title="Movies",Cine Terror BR
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
+#EXTINF:-1 group-title="General",Cinturao Verde
+https://play.redecinturaoverde.com.br/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Classique TV (360p)
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 group-title="News",CNN Portugal (720p)
@@ -1087,6 +1149,8 @@ https://jmp2.uk/plu-63eb9dc84e83e70008abea92.m3u8
 https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
 #EXTINF:-1 group-title="Series",MasterChef
 https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 group-title="General",MBC Brasil TV
+https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 group-title="General",MKK Web TV (720p) [Not 24/7]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 #EXTINF:-1 group-title="Series",MTV Are you the One?
@@ -1379,6 +1443,8 @@ https://jmp2.uk/plu-5fd1419a3b4f4b000773ba85.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="Education",Televisao Academica (576i)
+https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
 #EXTINF:-1 group-title="Family",The Pet Collective Brazil (720p)
 https://jmp2.uk/plu-5f515ebac01c0f00080e8439.m3u8
 #EXTINF:-1 group-title="News",Times Brasil (720p)
