@@ -1,6 +1,6 @@
 {
-  "checked_at": 1795635144647,
-  "last_checked_brt": "25/11/2026 16:32 BRT",
+  "checked_at": 1795641524276,
+  "last_checked_brt": "25/11/2026 18:18 BRT",
   "total_watched": 1,
   "updated_count": 0,
   "auto_triggered_catalog": false,
@@ -26,6 +26,16 @@
           "list_kind": "vod",
           "item_count": 0,
           "content_hash": "",
+          "channels_count": 0,
+          "movies_count": 0,
+          "series_count": 0,
+          "is_first_list_scan": true,
+          "new_channels_count": 0,
+          "new_channels_sample": [],
+          "new_movies_count": 0,
+          "new_movies_sample": [],
+          "new_series_count": 0,
+          "new_series_sample": [],
           "changed_delta": ""
         },
         {
@@ -36,6 +46,16 @@
           "list_kind": "live",
           "item_count": 0,
           "content_hash": "",
+          "channels_count": 0,
+          "movies_count": 0,
+          "series_count": 0,
+          "is_first_list_scan": true,
+          "new_channels_count": 0,
+          "new_channels_sample": [],
+          "new_movies_count": 0,
+          "new_movies_sample": [],
+          "new_series_count": 0,
+          "new_series_sample": [],
           "changed_delta": ""
         }
       ],
@@ -47,17 +67,28 @@
         "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/Filmes%20e%20S%C3%A9ries.m3u": {
           "item_count": 0,
           "content_hash": "",
-          "list_kind": "vod"
+          "list_kind": "vod",
+          "url_hashes": []
         },
         "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u": {
           "item_count": 0,
           "content_hash": "",
-          "list_kind": "live"
+          "list_kind": "live",
+          "url_hashes": []
         }
       }
     }
   ],
   "history": [
+    {
+      "date_brt": "25/11 18:18 BRT",
+      "status": "ok",
+      "updated_count": 0,
+      "added_total": 0,
+      "added_titles": [],
+      "errors": [],
+      "summary": "1 fonte(s) verificada(s) • sem novidades"
+    },
     {
       "date_brt": "25/11 16:32 BRT",
       "status": "ok",
