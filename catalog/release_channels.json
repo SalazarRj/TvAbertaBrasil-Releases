@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.92",
-    "display_version": "v0.92",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.92/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.92/tvaberta-admin.apk",
-    "notes": "feat: novo Robô Deploy Cloudflare Worker (deploy-worker.yml + wrangler.toml) que publica automaticamente worker.js e sincroniza GITHUB_TOKEN na Cloudflare\nfeat: botão \"Configurar\" na Central de Robôs do Admin com passo a passo interativo e links diretos para Cloudflare API Tokens, Account ID, GitHub Secrets e Actions",
-    "updated_at": 1795569606324
+    "version": "v0.94",
+    "display_version": "v0.94",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.94/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.94/tvaberta-admin.apk",
+    "notes": "feat: monitor ao vivo (🟢 OK / 🟡 Rodando / 🔴 Falhou) para todos os 9 robôs na Central de Robôs do Admin via GitHub Actions API\nfeat: botão \"Ver / Copiar Log da Última Execução\" em cada robô (incluindo Build APK) com etapas detalhadas, log do erro, cópia em 1 toque e botão Re-rodar",
+    "updated_at": 1795571020610
   },
   "beta": {
     "version": "",
