@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795640664299,
+      "date_utc": "25/11 21:03 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 8,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 140,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795640364363,
       "date_utc": "25/11 20:58 UTC",
       "mode": "Feed RSS Oficial",
@@ -327,26 +347,6 @@
       "total_online": 15,
       "scheduled_lives": 1,
       "active_lives": 1
-    },
-    {
-      "timestamp": 1795610969565,
-      "date_utc": "25/11 12:49 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 15,
-      "added_sample": [
-        "Patrulha Canina",
-        "Patrulha Canina",
-        "Patrulha Canina",
-        "Rubble",
-        "Rubble",
-        "Blaze",
-        "Patrulha Canina",
-        "Patrulha Canina: Através do Zumaverso! 🪐🐾"
-      ],
-      "removed_count": 0,
-      "total_online": 15,
-      "scheduled_lives": 4,
-      "active_lives": 0
     }
   ]
 }
