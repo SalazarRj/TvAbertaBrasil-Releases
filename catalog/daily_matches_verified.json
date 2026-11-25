@@ -1,8 +1,419 @@
 {
-  "updated_at": 1795629088369,
+  "updated_at": 1795630426632,
   "date_brt": "2026-11-25",
   "total_espn_today": 10,
-  "verified_count": 0,
-  "summary": "Hoje (2026-11-25): 0 jogo(s) com canais online validados de 10 partidas do dia.",
-  "matches": []
+  "verified_count": 10,
+  "summary": "Hoje (2026-11-25): 10 jogo(s) com canais online validados de 10 partidas do dia.",
+  "matches": [
+    {
+      "title": "Sabah x Barcelona",
+      "time": "28'",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "0 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Slavia Prague x Villarreal",
+      "time": "28'",
+      "league": "Champions League",
+      "channel_hint": "SPACE / Space / SPACE HD",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "0 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "verified_channels": [
+        {
+          "name": "SPACE",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+        },
+        {
+          "name": "Space",
+          "category": "Cine",
+          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
+        },
+        {
+          "name": "SPACE HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9102.ts"
+        }
+      ]
+    },
+    {
+      "title": "Atlético x Viking FK",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Club Brugge x Liverpool",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Inter Milan x Stuttgart",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Lille x Bayern",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "SPACE / Space / SPACE HD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "verified_channels": [
+        {
+          "name": "SPACE",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+        },
+        {
+          "name": "Space",
+          "category": "Cine",
+          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
+        },
+        {
+          "name": "SPACE HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9102.ts"
+        }
+      ]
+    },
+    {
+      "title": "PSG x AS Roma",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Shakhtar x Fenerbahce",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Sporting x Man Utd",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "TNT NOVELAS FHD .265 / TNT NOVELAS / TNT NOVELAS FHD",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "verified_channels": [
+        {
+          "name": "TNT NOVELAS FHD .265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275102.ts"
+        },
+        {
+          "name": "TNT NOVELAS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275101.ts"
+        },
+        {
+          "name": "TNT NOVELAS FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275103.ts"
+        },
+        {
+          "name": "TNT NOVELAS HD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/275104.ts"
+        },
+        {
+          "name": "TNT SÉRIES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts"
+        },
+        {
+          "name": "TNT SÉRIES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts"
+        }
+      ]
+    },
+    {
+      "title": "Atlético-MG x Corinthians",
+      "time": "20:00",
+      "league": "Brasileirão Série A",
+      "channel_hint": "PREMIERE CLUBES FHD H.265 / PREMIERE CLUBES FHD / PREMIERE CLUBES FHD ²",
+      "is_live_now": false,
+      "kickoff_minutes": 1200,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "verified_channels": [
+        {
+          "name": "PREMIERE CLUBES FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts"
+        },
+        {
+          "name": "PREMIERE CLUBES FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9037.ts"
+        },
+        {
+          "name": "PREMIERE CLUBES FHD ²",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/54902.ts"
+        },
+        {
+          "name": "PREMIERE 2 FHD H.265",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
+        },
+        {
+          "name": "PREMIERE 2 FHD",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9022.ts"
+        },
+        {
+          "name": "PREMIERE 2 FHD ¹",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13576.ts"
+        }
+      ]
+    }
+  ]
 }
