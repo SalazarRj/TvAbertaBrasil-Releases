@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.112",
-    "display_version": "v0.112",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.112/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.112/tvaberta-admin.apk",
-    "notes": "- Jogos do Dia agora exibem corretamente todas as partidas de hoje com canais brasileiros disponíveis.\n- Playlists importadas como séries agora exibem o nome real da série em vez do link do YouTube.",
-    "client_notes": "- Jogos do Dia agora exibem corretamente todas as partidas de hoje com canais brasileiros disponíveis.\n- Playlists importadas como séries agora exibem o nome real da série em vez do link do YouTube.",
-    "admin_notes": "fix(robot): Validador de Jogos do Dia agora lê catalog/live_ready.m3u + live_youtube.m3u, filtra emissoras brasileiras da ESPN e protege contra falso offline por bloqueio geográfico dos EUA\nfix(robot): Curador YouTube agora extrai automaticamente o título real da playlist e corrige retroativamente episódios já importados com URL no nome\nfeat(admin): adicionada edição do Nome da Série/Canal no diálogo ✏️ e busca automática do título real ao anexar playlists",
-    "updated_at": 1795629827420
+    "version": "v0.115",
+    "display_version": "v0.115",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.115/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.115/tvaberta-admin.apk",
+    "notes": "- Melhorias internas de desempenho e organização do catálogo.",
+    "client_notes": "- Melhorias internas de desempenho e organização do catálogo.",
+    "admin_notes": "feat(admin): Central do Curador YouTube redesenhada com 3 cards dinâmicos (Canais ao Vivo, Filmes agrupados em sub-cards por fonte e Séries com botões de Temporada T1/T2/+ Temporada)\nfix(admin): remoção de fonte/playlist/série agora apaga em 1 toque tanto o cadastro quanto todos os vídeos e episódios importados dela",
+    "updated_at": 1795631190766
   },
   "beta": {
     "version": "",
