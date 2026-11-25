@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.102",
-    "display_version": "v0.102",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.102/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.102/tvaberta-admin.apk",
-    "notes": "feat: botão \"Puxar vídeos dos canais agora\" no Curador YouTube fica travado com progresso ao vivo acompanhando a execução no GitHub e recarrega a lista automaticamente ao concluir\nfeat: robô Curador YouTube (youtube-curator.yml) agora dispara automaticamente o Construtor de Catálogo SQLite (update-catalog.yml) sempre que houver novos vídeos ou alterações",
-    "updated_at": 1795611736770
+    "version": "v0.103",
+    "display_version": "v0.103",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.103/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.103/tvaberta-admin.apk",
+    "notes": "fix: corrige tela preta no YouTubeView usando loadUrl direto com Referer, ThirdPartyCookies, aceleração de hardware, indicador de carregamento e botão fallback \"Abrir no YouTube\"\nfix: evita que falhas temporárias de rede travem capas vazias no cache de memória e adiciona miniatura HD oficial do YouTube (i.ytimg.com) como fallback automático nos cards",
+    "updated_at": 1795612788576
   },
   "beta": {
     "version": "",
