@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.123",
-    "display_version": "v0.123",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.123/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.123/tvaberta-admin.apk",
-    "notes": "- Importação automática de canais inteiros de séries/doramas do YouTube, separando cada playlist em sua própria série sem trailers ou prévias.",
-    "client_notes": "- Importação automática de canais inteiros de séries/doramas do YouTube, separando cada playlist em sua própria série sem trailers ou prévias.",
-    "admin_notes": "feat(robot): Curador YouTube agora lê a aba /playlists de um @canal cadastrado como Série (ex: @WeTVPortuguese) e cria automaticamente uma série separada para cada playlist, filtrando trailers e previews",
-    "updated_at": 1795638992260
+    "version": "v0.124",
+    "display_version": "v0.124",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.124/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.124/tvaberta-admin.apk",
+    "notes": "- Atualização automática mais rápida do catálogo após novas importações.",
+    "client_notes": "- Atualização automática mais rápida do catálogo após novas importações.",
+    "admin_notes": "fix(robots): adicionado gatilho nativo workflow_run no Construtor de Catálogo para rodar automaticamente assim que o Curador YouTube terminar (sem depender de permissão workflow no RELEASES_TOKEN)\nfeat(admin): adicionado botão 'Publicar no Cliente Agora' e disparo automático do Construtor na Central do Curador YouTube\nfix(admin): corrigido contador de canais ao vivo (live_ok) exibido no card Construtor de Catálogo dentro de Monitores",
+    "updated_at": 1795642158379
   },
   "beta": {
     "version": "",
