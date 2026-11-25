@@ -1,8 +1,8 @@
 {
-  "version": "v0.100",
-  "display_version": "v0.100",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.100/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.100/tvaberta-admin.apk",
-  "notes": "feat: Curador YouTube Híbrido (Feed RSS oficial + YOUTUBE_API_KEY opcional) aceitando vídeos avulsos, @canais (ex: @nickjrportugues) e playlists com filtro de duração, palavras bloqueadas, limpeza de títulos TMDB e histórico acumulativo\nfeat: novo 12o robô Janela de Jogos Ao Vivo (youtube-live-window.yml) que pré-agenda jogos do dia (CazéTV/GOAT) e só consulta o YouTube 1h antes do jogo, exibindo os jogos pré-estabelecidos na prateleira Jogos do Dia da Home\nui: Passo 4 opcional (YOUTUBE_API_KEY) com link direto para o Google Cloud na tela Configurar da Central de Robôs",
-  "updated_at": 1795608894571
+  "version": "v0.101",
+  "display_version": "v0.101",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.101/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.101/tvaberta-admin.apk",
+  "notes": "feat: integração completa de Pix Dinâmico Automático via Mercado Pago no Cloudflare Worker (/pix/create, /pix/status, /pix/webhook) com renovação automática de validade em users.json\nfeat: tela de Pagamento no cliente confirma o Pix automaticamente em ~4s, atualiza a validade do VIP na hora e mantém fallback para Pix estático caso MP_ACCESS_TOKEN não esteja configurado\nfeat: 9o robô (deploy-worker.yml) sincroniza automaticamente MP_ACCESS_TOKEN no Worker e tela Configurar do Admin ganha Passo 5 com link direto para o Mercado Pago",
+  "updated_at": 1795610130059
 }
