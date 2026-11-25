@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795631851423,
+  "updated_at": 1795631860960,
   "items": [
     {
       "video_id": "BVO3zi2NKS4",
@@ -146,27 +146,11 @@
       "online": true
     },
     {
-      "video_id": "RUEyHsvfqLI",
-      "url": "https:\/\/www.youtube.com\/watch?v=RUEyHsvfqLI",
-      "title": "AO VIVO: PALMEIRAS EMBARCA PARA A FINAL DA LIBERTADORES 2026!",
-      "category": "Esportes",
-      "source_channel": "@getv",
-      "online": true
-    },
-    {
       "video_id": "wpBaB5NN3Nk",
       "url": "https:\/\/www.youtube.com\/watch?v=wpBaB5NN3Nk",
       "title": "ATLÉTICO-GO X VILA NOVA",
       "category": "Esportes",
       "source_channel": "@canalgoatbr",
-      "online": true
-    },
-    {
-      "video_id": "42GHbtbIH4k",
-      "url": "https:\/\/www.youtube.com\/watch?v=42GHbtbIH4k",
-      "title": "BOTAFOGO X BAHIA",
-      "category": "Esportes",
-      "source_channel": "@getv",
       "online": true
     },
     {
@@ -186,27 +170,11 @@
       "online": true
     },
     {
-      "video_id": "6CGvrkkUAU8",
-      "url": "https:\/\/www.youtube.com\/watch?v=6CGvrkkUAU8",
-      "title": "DENILSON SHOW DÁ BRONCA EM NEYMAR APÓS DERROTA DO SANTOS PRO GRÊMIO!",
-      "category": "Esportes",
-      "source_channel": "@getv",
-      "online": true
-    },
-    {
       "video_id": "tdSdyhKR6lw",
       "url": "https:\/\/www.youtube.com\/watch?v=tdSdyhKR6lw",
       "title": "DIA DE RODADA DUPLA NA SAUDI PRO LEAGUE! #futebol #splnogoat",
       "category": "Esportes",
       "source_channel": "@canalgoatbr",
-      "online": true
-    },
-    {
-      "video_id": "bZ9PESPG8BY",
-      "url": "https:\/\/www.youtube.com\/watch?v=bZ9PESPG8BY",
-      "title": "ELIMINARAM CORINTHIANS E FLAMENGO! RETROSPECTO DO ESTUDIANTES NA LIBERTA!",
-      "category": "Esportes",
-      "source_channel": "@getv",
       "online": true
     },
     {
@@ -223,14 +191,6 @@
       "title": "EM NOITE DOS GOLEIROS, CLÁSSICO GOIANO TERMINA EMPATADO PELO JOGO DE IDA DOS PLAY-OFFS DA SÉRIE B!",
       "category": "Esportes",
       "source_channel": "@canalgoatbr",
-      "online": true
-    },
-    {
-      "video_id": "MSajlBZ4TFA",
-      "url": "https:\/\/www.youtube.com\/watch?v=MSajlBZ4TFA",
-      "title": "FLUMINENSE X CRUZEIRO",
-      "category": "Esportes",
-      "source_channel": "@getv",
       "online": true
     },
     {
@@ -255,30 +215,6 @@
       "title": "PALMEIRAS X ESTUDIANTES",
       "category": "Esportes",
       "source_channel": "@canalgoatbr",
-      "online": true
-    },
-    {
-      "video_id": "rqcTAfvyPeY",
-      "url": "https:\/\/www.youtube.com\/watch?v=rqcTAfvyPeY",
-      "title": "PALMEIRAS X FLUMINENSE: REVEJA A CONQUISTA DA VAGA NA FINAL DA LIBERTADORES!",
-      "category": "Esportes",
-      "source_channel": "@getv",
-      "online": true
-    },
-    {
-      "video_id": "0rtS9g2n4bU",
-      "url": "https:\/\/www.youtube.com\/watch?v=0rtS9g2n4bU",
-      "title": "PRO RAFAEL O FLAMENGO NÃO É DECACAMPEÃO! Panela sportv",
-      "category": "Esportes",
-      "source_channel": "@getv",
-      "online": true
-    },
-    {
-      "video_id": "wCrFcSZu5Ps",
-      "url": "https:\/\/www.youtube.com\/watch?v=wCrFcSZu5Ps",
-      "title": "QUEM VAI VENCER: ATLÉTICO-MG OU CORINTHIANS?",
-      "category": "Esportes",
-      "source_channel": "@getv",
       "online": true
     },
     {
@@ -384,18 +320,6 @@
       "monitor_live": true,
       "vod_enabled": false,
       "channel_id": "UCP-vp1zdHOa9k2hN_nMT9TA",
-      "content_type": "movies",
-      "season_number": 1
-    },
-    {
-      "name": "@getv",
-      "url": "https:\/\/www.youtube.com\/@getv",
-      "category": "Esportes",
-      "min_minutes": 5,
-      "blocked_words": "trailer,corte,melhores momentos,#shorts",
-      "monitor_live": true,
-      "vod_enabled": true,
-      "channel_id": "UCgCKagVhzGnZcuP9bSMgMCg",
       "content_type": "movies",
       "season_number": 1
     },
