@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795640235516,
+  "updated_at": 1795640252208,
   "items": [
     {
       "video_id": "BVO3zi2NKS4",
@@ -377,6 +377,18 @@
       "vod_enabled": true,
       "channel_id": "UCK5RRQ3TdwAbbCWrtnXsN3Q",
       "content_type": "movies",
+      "season_number": 1
+    },
+    {
+      "name": "@WeTVPortuguese",
+      "url": "https:\/\/www.youtube.com\/@WeTVPortuguese",
+      "category": "Dorama",
+      "min_minutes": 0,
+      "blocked_words": "",
+      "monitor_live": false,
+      "vod_enabled": true,
+      "channel_id": "",
+      "content_type": "series",
       "season_number": 1
     }
   ]
