@@ -1,9 +1,9 @@
 {
-  "checked_at": 1795631382296,
-  "last_checked_brt": "25/11/2026 15:29 BRT",
+  "checked_at": 1795635097427,
+  "last_checked_brt": "25/11/2026 16:31 BRT",
   "total_watched": 1,
-  "updated_count": 0,
-  "auto_triggered_catalog": false,
+  "updated_count": 1,
+  "auto_triggered_catalog": true,
   "sources": [
     {
       "id": "src_496639",
@@ -11,31 +11,65 @@
       "url": "https://github.com/xKzin/IPTV-Brazuka",
       "type": "github",
       "auto_rebuild": true,
-      "status": "first_scan",
+      "status": "updated",
       "total_items": 2,
       "added_count": 2,
-      "removed_count": 0,
-      "summary": "1ª varredura concluída: 2 itens catalogados (último push: 2026-11-16).",
-      "last_changed_at": 1795631382296,
+      "removed_count": 2,
+      "summary": "Atualizou: +2 novo(s), -2 removido(s) (último push: 2026-11-16).",
+      "last_changed_at": 1795635097427,
       "new_items": [
         {
           "name": "Filmes e Séries.m3u",
           "category": "GitHub",
-          "url": "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/Filmes%20e%20S%C3%A9ries.m3u"
+          "url": "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/Filmes%20e%20S%C3%A9ries.m3u",
+          "is_m3u_file": true,
+          "list_kind": "vod",
+          "item_count": 0,
+          "content_hash": "",
+          "changed_delta": ""
         },
         {
           "name": "IPTV-Brazuka.m3u",
           "category": "GitHub",
-          "url": "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u"
+          "url": "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u",
+          "is_m3u_file": true,
+          "list_kind": "live",
+          "item_count": 0,
+          "content_hash": "",
+          "changed_delta": ""
         }
       ],
       "known_hashes": [
-        "42ae6d926228",
-        "88d37d9d2907"
-      ]
+        "697602db658d",
+        "3665a1067320"
+      ],
+      "sub_lists_meta": {
+        "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/Filmes%20e%20S%C3%A9ries.m3u": {
+          "item_count": 0,
+          "content_hash": "",
+          "list_kind": "vod"
+        },
+        "https://raw.githubusercontent.com/xKzin/IPTV-Brazuka/main/IPTV-Brazuka.m3u": {
+          "item_count": 0,
+          "content_hash": "",
+          "list_kind": "live"
+        }
+      }
     }
   ],
   "history": [
+    {
+      "date_brt": "25/11 16:31 BRT",
+      "status": "ok",
+      "updated_count": 1,
+      "added_total": 2,
+      "added_titles": [
+        "xKzin: Filmes e Séries.m3u",
+        "xKzin: IPTV-Brazuka.m3u"
+      ],
+      "errors": [],
+      "summary": "+2 adicionado(s) em 1 fonte(s)"
+    },
     {
       "date_brt": "25/11 15:29 BRT",
       "status": "ok",
