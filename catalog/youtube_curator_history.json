@@ -1,0 +1,24 @@
+{
+  "runs": [
+    {
+      "timestamp": 1795610969565,
+      "date_utc": "25/11 12:49 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 15,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Rubble",
+        "Blaze",
+        "Patrulha Canina",
+        "Patrulha Canina: Através do Zumaverso! 🪐🐾"
+      ],
+      "removed_count": 0,
+      "total_online": 15,
+      "scheduled_lives": 4,
+      "active_lives": 0
+    }
+  ]
+}

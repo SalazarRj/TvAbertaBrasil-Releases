@@ -1,15 +1,176 @@
 {
-  "items": [],
+  "items": [
+    {
+      "video_id": "hhXwL2q4dPs",
+      "url": "https://www.youtube.com/watch?v=hhXwL2q4dPs",
+      "title": "Blaze",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "Z5FWQGi7Wxw",
+      "url": "https://www.youtube.com/watch?v=Z5FWQGi7Wxw",
+      "title": "Dora",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "K9uXezUQ3hs",
+      "url": "https://www.youtube.com/watch?v=K9uXezUQ3hs",
+      "title": "Dora Celebra Dias Especiais com a Família! 🎁 30 Minutos",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "5aaeSw-Awvs",
+      "url": "https://www.youtube.com/watch?v=5aaeSw-Awvs",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "HPdq8TyXmcM",
+      "url": "https://www.youtube.com/watch?v=HPdq8TyXmcM",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "-NNSWA88RrU",
+      "url": "https://www.youtube.com/watch?v=-NNSWA88RrU",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "iuVdelKKK-U",
+      "url": "https://www.youtube.com/watch?v=iuVdelKKK-U",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "IHw0U5rLnpY",
+      "url": "https://www.youtube.com/watch?v=IHw0U5rLnpY",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "8e4G6G-DUdM",
+      "url": "https://www.youtube.com/watch?v=8e4G6G-DUdM",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "V-LkTaMkqOA",
+      "url": "https://www.youtube.com/watch?v=V-LkTaMkqOA",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "fQMvNuxP4Cg",
+      "url": "https://www.youtube.com/watch?v=fQMvNuxP4Cg",
+      "title": "Patrulha Canina",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "Bmbil4NpoD8",
+      "url": "https://www.youtube.com/watch?v=Bmbil4NpoD8",
+      "title": "Patrulha Canina: Através do Zumaverso! 🪐🐾",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "e9e3Y12ItcY",
+      "url": "https://www.youtube.com/watch?v=e9e3Y12ItcY",
+      "title": "Rubble",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "rbvrCbjZQc0",
+      "url": "https://www.youtube.com/watch?v=rbvrCbjZQc0",
+      "title": "Rubble",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    },
+    {
+      "video_id": "KXVz145X2lo",
+      "url": "https://www.youtube.com/watch?v=KXVz145X2lo",
+      "title": "TEENY MUTANT NINJA TURTLES",
+      "category": "Infantil",
+      "source_channel": "@nickjrportugues",
+      "online": true
+    }
+  ],
   "channels": [
     {
       "name": "@nickjrportugues",
-      "url": "https:\/\/youtube.com\/@nickjrportugues?feature=shared",
+      "url": "https://youtube.com/@nickjrportugues?feature=shared",
       "category": "Infantil",
       "min_minutes": 5,
       "blocked_words": "trailer,corte,melhores momentos,#shorts",
       "monitor_live": false,
       "vod_enabled": true,
-      "channel_id": ""
+      "channel_id": "UCxmK61Geo08axWQP_BPdvlw"
+    },
+    {
+      "name": "@CazeTV",
+      "url": "https://www.youtube.com/@CazeTV",
+      "category": "Esportes",
+      "min_minutes": 0,
+      "blocked_words": "corte,shorts,trailer,melhores momentos",
+      "monitor_live": true,
+      "vod_enabled": false,
+      "channel_id": "UCZiYbVptd3PVPf4f6eR6UaQ"
+    },
+    {
+      "name": "@cazetvdois",
+      "url": "https://www.youtube.com/@cazetvdois",
+      "category": "Esportes",
+      "min_minutes": 0,
+      "blocked_words": "corte,shorts,trailer,melhores momentos",
+      "monitor_live": true,
+      "vod_enabled": false,
+      "channel_id": "UCP-vp1zdHOa9k2hN_nMT9TA"
+    },
+    {
+      "name": "@canalgoatbr",
+      "url": "https://www.youtube.com/@canalgoatbr",
+      "category": "Esportes",
+      "min_minutes": 0,
+      "blocked_words": "corte,shorts,trailer,melhores momentos",
+      "monitor_live": true,
+      "vod_enabled": false,
+      "channel_id": "UC_oToDrJ6uca7d1dFVBmLtg"
+    },
+    {
+      "name": "@getv",
+      "url": "https://www.youtube.com/@getv",
+      "category": "Esportes",
+      "min_minutes": 0,
+      "blocked_words": "corte,shorts,trailer,melhores momentos",
+      "monitor_live": true,
+      "vod_enabled": false,
+      "channel_id": "UCgCKagVhzGnZcuP9bSMgMCg"
     }
   ]
 }
