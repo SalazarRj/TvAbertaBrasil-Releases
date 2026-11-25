@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795628912459,
+      "date_utc": "25/11 17:48 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 26,
+      "added_sample": [
+        "Patrulha Canina",
+        "O Rubble está APAVORADO com Aranhas! 😱🕷️",
+        "AO VIVO: PALMEIRAS EMBARCA PARA A FINAL DA LIBERTADORES 2026!",
+        "DENILSON SHOW DÁ BRONCA EM NEYMAR APÓS DERROTA DO SANTOS PRO GRÊMIO!",
+        "ELIMINARAM CORINTHIANS E FLAMENGO! RETROSPECTO DO ESTUDIANTES NA LIBERTA!",
+        "PRO RAFAEL O FLAMENGO NÃO É DECACAMPEÃO! Panela sportv",
+        "VAI SUBIR? CONFIRA A TÁTICA QUE GEROU O GOL DO VILA NOVA! I VISÃO DE JOGO",
+        "DIA DE RODADA DUPLA NA SAUDI PRO LEAGUE! #futebol #splnogoat"
+      ],
+      "removed_count": 0,
+      "total_online": 69,
+      "scheduled_lives": 1,
+      "active_lives": 1
+    },
+    {
       "timestamp": 1795621321264,
       "date_utc": "25/11 15:41 UTC",
       "mode": "Feed RSS Oficial",
