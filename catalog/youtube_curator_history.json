@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795633269211,
+      "date_utc": "25/11 19:00 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 10,
+      "added_sample": [
+        "O Rubble está APAVORADO com Aranhas! 😱🕷️",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 35,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795633241808,
       "date_utc": "25/11 19:00 UTC",
       "mode": "Feed RSS Oficial",
