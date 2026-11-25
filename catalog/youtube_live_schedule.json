@@ -1,17 +1,4 @@
 {
-  "updated_at": 1795628912459,
-  "events": [
-    {
-      "video_id": "ki_yeNW3q6o",
-      "url": "https://www.youtube.com/watch?v=ki_yeNW3q6o",
-      "title": "PALMEIRAS X ESTUDIANTES | FINAL | NARRAÇÃO AO VIVO | CONMEBOL LIBERTADORES",
-      "channel_name": "@canalgoatbr",
-      "channel_url": "https://www.youtube.com/@canalgoatbr",
-      "channel_id": "UC_oToDrJ6uca7d1dFVBmLtg",
-      "category": "Esportes",
-      "scheduled_start_ms": 0,
-      "time_brt": "AO VIVO",
-      "is_live": true
-    }
-  ]
+  "updated_at": 1795631543785,
+  "events": []
 }
