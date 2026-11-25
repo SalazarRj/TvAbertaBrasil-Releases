@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.106",
-    "display_version": "v0.106",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.106/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.106/tvaberta-admin.apk",
-    "notes": "- Corrigido erro 152-4 na reprodução de vídeos do YouTube dentro do player do aplicativo.\n- Vídeos bloqueados para reprodução externa agora são filtrados automaticamente do catálogo.",
-    "client_notes": "- Corrigido erro 152-4 na reprodução de vídeos do YouTube dentro do player do aplicativo.\n- Vídeos bloqueados para reprodução externa agora são filtrados automaticamente do catálogo.",
-    "admin_notes": "fix(player): corrigido erro YouTube 152-4 usando origem oficial do app (https://com.exemplo.tvaberta), strict-origin-when-cross-origin, youtube-nocookie e remoção de '; wv' do User-Agent\nfix(robot): Curador YouTube agora filtra automaticamente vídeos marcados como playableInEmbed=false",
-    "updated_at": 1795617792842
+    "version": "v0.107",
+    "display_version": "v0.107",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.107/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.107/tvaberta-admin.apk",
+    "notes": "- Removido botão sobreposto do player do YouTube para exibir legendas e controles sem obstrução.",
+    "client_notes": "- Removido botão sobreposto do player do YouTube para exibir legendas e controles sem obstrução.",
+    "admin_notes": "ui(player): removido botão 'Abrir no YouTube' sobreposto no player interno\nui(admin): adicionados botões Expandir/Recolher separados para Canais Monitorados e Vídeos no Acervo\nfix(robot): Curador YouTube reforçado com cookies/UA de navegador, JSON raw_decode e fallback /live para extrair o título real das transmissões",
+    "updated_at": 1795620089111
   },
   "beta": {
     "version": "",
