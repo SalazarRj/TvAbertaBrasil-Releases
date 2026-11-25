@@ -1,8 +1,8 @@
 {
-  "version": "v0.99",
-  "display_version": "v0.99",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.99/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.99/tvaberta-admin.apk",
-  "notes": "feat: novo 11o robô Curador YouTube (youtube-curator.yml) que valida links via oEmbed, remove vídeos indisponíveis e gera catalog/vod_youtube.m3u por categoria\nfeat: card Curador YouTube no Admin para colar links do YouTube, puxar o título automaticamente da URL, escolher a categoria e publicar direto no catálogo",
-  "updated_at": 1795607115928
+  "version": "v0.100",
+  "display_version": "v0.100",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.100/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.100/tvaberta-admin.apk",
+  "notes": "feat: Curador YouTube Híbrido (Feed RSS oficial + YOUTUBE_API_KEY opcional) aceitando vídeos avulsos, @canais (ex: @nickjrportugues) e playlists com filtro de duração, palavras bloqueadas, limpeza de títulos TMDB e histórico acumulativo\nfeat: novo 12o robô Janela de Jogos Ao Vivo (youtube-live-window.yml) que pré-agenda jogos do dia (CazéTV/GOAT) e só consulta o YouTube 1h antes do jogo, exibindo os jogos pré-estabelecidos na prateleira Jogos do Dia da Home\nui: Passo 4 opcional (YOUTUBE_API_KEY) com link direto para o Google Cloud na tela Configurar da Central de Robôs",
+  "updated_at": 1795608894571
 }
