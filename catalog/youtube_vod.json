@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795631860960,
+  "updated_at": 1795631884856,
   "items": [
     {
       "video_id": "BVO3zi2NKS4",
@@ -363,6 +363,18 @@
       "name": "@SBTRJ",
       "url": "https:\/\/www.youtube.com\/@SBTRJ",
       "category": "Aberta",
+      "min_minutes": 0,
+      "blocked_words": "trailer,corte,melhores momentos,#shorts",
+      "monitor_live": true,
+      "vod_enabled": false,
+      "channel_id": "",
+      "content_type": "live",
+      "season_number": 1
+    },
+    {
+      "name": "@getv",
+      "url": "https:\/\/www.youtube.com\/@getv",
+      "category": "Esportes",
       "min_minutes": 0,
       "blocked_words": "trailer,corte,melhores momentos,#shorts",
       "monitor_live": true,
