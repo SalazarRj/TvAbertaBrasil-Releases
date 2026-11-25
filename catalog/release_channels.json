@@ -7,7 +7,7 @@
     "notes": "- Corrigido erro 152-4 na reprodução de vídeos do YouTube dentro do player do aplicativo.\n- Vídeos bloqueados para reprodução externa agora são filtrados automaticamente do catálogo.",
     "client_notes": "- Corrigido erro 152-4 na reprodução de vídeos do YouTube dentro do player do aplicativo.\n- Vídeos bloqueados para reprodução externa agora são filtrados automaticamente do catálogo.",
     "admin_notes": "fix(player): corrigido erro YouTube 152-4 usando origem oficial do app (https://com.exemplo.tvaberta), strict-origin-when-cross-origin, youtube-nocookie e remoção de '; wv' do User-Agent\nfix(robot): Curador YouTube agora filtra automaticamente vídeos marcados como playableInEmbed=false",
-    "updated_at": 1795617458035
+    "updated_at": 1795617792842
   },
   "beta": {
     "version": "",
