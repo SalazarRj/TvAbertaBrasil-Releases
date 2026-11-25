@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795637662736,
+      "date_utc": "25/11 20:14 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 11,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 3,
+      "total_online": 35,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795633269211,
       "date_utc": "25/11 19:00 UTC",
       "mode": "Feed RSS Oficial",
