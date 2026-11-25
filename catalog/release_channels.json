@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.125",
-    "display_version": "v0.125",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.125/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.125/tvaberta-admin.apk",
-    "notes": "- Novos filmes e séries baixados em segundo plano agora aparecem imediatamente na busca e nas prateleiras sem precisar reiniciar o app.\n- Lista única oficial de gêneros entre Admin e Cliente (categorias não reconhecidas caem automaticamente em 'Outros').\n- Títulos de séries/doramas importados do YouTube mais limpos para exibir as capas corretas.",
-    "client_notes": "- Novos filmes e séries baixados em segundo plano agora aparecem imediatamente na busca e nas prateleiras sem precisar reiniciar o app.\n- Lista única oficial de gêneros entre Admin e Cliente (categorias não reconhecidas caem automaticamente em 'Outros').\n- Títulos de séries/doramas importados do YouTube mais limpos para exibir as capas corretas.",
-    "admin_notes": "fix(sync): incrementado vodDbVersion += 1 ao concluir a sincronização silenciosa em segundo plano\nfeat(genres): unificada a lista oficial de 21 gêneros aceitos entre Admin (Curador YouTube), Construtor (update-catalog.yml) e Cliente (CatalogDb.kt), com fallback automático para 'Outros'\nfix(robot): Curador YouTube agora filtra Prévia/Destaque/Bastidores em português e limpa títulos antes de '|'",
-    "updated_at": 1795644368935
+    "version": "v0.126",
+    "display_version": "v0.126",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.126/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.126/tvaberta-admin.apk",
+    "notes": "- Corrigidas as capas de séries vindas do YouTube (limpeza do título para busca no TMDB + miniatura HD automática do YouTube quando não houver pôster no TMDB).",
+    "client_notes": "- Corrigidas as capas de séries vindas do YouTube (limpeza do título para busca no TMDB + miniatura HD automática do YouTube quando não houver pôster no TMDB).",
+    "admin_notes": "fix(series): SeriesPosterCard, SeriesDetailsDialog e prateleiras de Séries agora limpam '|' e '【...】' antes de buscar no TMDB e usam miniatura HD do YouTube como fallback\nfix(robots): encadeamento nativo workflow_run no update-catalog.yml para Curador YouTube e Monitor de Fontes, além de limpeza retroativa de Prévias/Destaques no acervo YouTube",
+    "updated_at": 1795645659529
   },
   "beta": {
     "version": "",
