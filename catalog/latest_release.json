@@ -1,10 +1,10 @@
 {
-  "version": "v0.121",
-  "display_version": "v0.121",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.121/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.121/tvaberta-admin.apk",
-  "notes": "- Bloqueio de capas adultas nas buscas automáticas de pôsteres do TMDB.\n- Prateleiras curtas (com menos de 4 títulos) agora não exibem mais o botão redundante 'Ver todos'.",
-  "client_notes": "- Bloqueio de capas adultas nas buscas automáticas de pôsteres do TMDB.\n- Prateleiras curtas (com menos de 4 títulos) agora não exibem mais o botão redundante 'Ver todos'.",
-  "admin_notes": "fix(build): restaurado nome addWatchedSourceQuick em AdminSourceWatcher.kt para compilação do Admin\nfix(tmdb): adicionado include_adult=false e filtro adult=true no app cliente e no robô metadata-sync.yml para evitar capas adultas indevidas\nui(client): ocultado card redondo 'Ver todos' em prateleiras de Filmes e Séries com menos de 4 itens",
-  "updated_at": 1795634966352
+  "version": "v0.122",
+  "display_version": "v0.122",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.122/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.122/tvaberta-admin.apk",
+  "notes": "- Corrigida a contagem real de temporadas exibida na lista e busca de Séries (ex: '5 temps • 53 eps' em vez de '1 temp').",
+  "client_notes": "- Corrigida a contagem real de temporadas exibida na lista e busca de Séries (ex: '5 temps • 53 eps' em vez de '1 temp').",
+  "admin_notes": "fix(series): corrigido contador de temporadas na lista/busca de Séries usando COUNT(DISTINCT season) no CatalogDb.kt\nfeat(admin): Radar de Fontes agora detalha em cada lista quantos canais, filmes e séries foram encontrados e exibe os nomes exatos dos itens novos\nfeat(robot): source-watcher.yml compara hashes internos por item e separa novidades por canais, filmes e séries",
+  "updated_at": 1795636852063
 }
