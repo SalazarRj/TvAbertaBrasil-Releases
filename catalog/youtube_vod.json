@@ -415,6 +415,16 @@
       "monitor_live": true,
       "vod_enabled": true,
       "channel_id": "UC_oToDrJ6uca7d1dFVBmLtg"
+    },
+    {
+      "name": "@SBTRJ",
+      "url": "https:\/\/www.youtube.com\/@SBTRJ",
+      "category": "Notícias",
+      "min_minutes": 5,
+      "blocked_words": "trailer,corte,melhores momentos,#shorts",
+      "monitor_live": true,
+      "vod_enabled": true,
+      "channel_id": ""
     }
   ]
 }
