@@ -1,10 +1,10 @@
 {
-  "version": "v0.115",
-  "display_version": "v0.115",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.115/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.115/tvaberta-admin.apk",
-  "notes": "- Melhorias internas de desempenho e organização do catálogo.",
-  "client_notes": "- Melhorias internas de desempenho e organização do catálogo.",
-  "admin_notes": "feat(admin): Central do Curador YouTube redesenhada com 3 cards dinâmicos (Canais ao Vivo, Filmes agrupados em sub-cards por fonte e Séries com botões de Temporada T1/T2/+ Temporada)\nfix(admin): remoção de fonte/playlist/série agora apaga em 1 toque tanto o cadastro quanto todos os vídeos e episódios importados dela",
-  "updated_at": 1795631190766
+  "version": "v0.121",
+  "display_version": "v0.121",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.121/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.121/tvaberta-admin.apk",
+  "notes": "- Bloqueio de capas adultas nas buscas automáticas de pôsteres do TMDB.\n- Prateleiras curtas (com menos de 4 títulos) agora não exibem mais o botão redundante 'Ver todos'.",
+  "client_notes": "- Bloqueio de capas adultas nas buscas automáticas de pôsteres do TMDB.\n- Prateleiras curtas (com menos de 4 títulos) agora não exibem mais o botão redundante 'Ver todos'.",
+  "admin_notes": "fix(build): restaurado nome addWatchedSourceQuick em AdminSourceWatcher.kt para compilação do Admin\nfix(tmdb): adicionado include_adult=false e filtro adult=true no app cliente e no robô metadata-sync.yml para evitar capas adultas indevidas\nui(client): ocultado card redondo 'Ver todos' em prateleiras de Filmes e Séries com menos de 4 itens",
+  "updated_at": 1795634966352
 }
