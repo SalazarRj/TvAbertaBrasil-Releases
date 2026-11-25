@@ -1,0 +1,12 @@
+{
+  "sources": [
+    {
+      "id": "src_496639",
+      "name": "xKzin",
+      "url": "https:\/\/github.com\/xKzin\/IPTV-Brazuka",
+      "type": "auto",
+      "auto_rebuild": true,
+      "active": true
+    }
+  ]
+}
