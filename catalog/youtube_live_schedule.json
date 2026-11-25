@@ -1,53 +1,17 @@
 {
-  "updated_at": 1795610969565,
+  "updated_at": 1795620274112,
   "events": [
     {
-      "video_id": "",
-      "url": "https://www.youtube.com/@CazeTV/live",
-      "title": "Transmissão @CazeTV",
-      "channel_name": "@CazeTV",
-      "channel_url": "https://www.youtube.com/@CazeTV",
-      "channel_id": "UCZiYbVptd3PVPf4f6eR6UaQ",
-      "category": "Esportes",
-      "scheduled_start_ms": 0,
-      "time_brt": "Ao Vivo",
-      "is_live": false
-    },
-    {
-      "video_id": "",
-      "url": "https://www.youtube.com/@cazetvdois/live",
-      "title": "Transmissão @cazetvdois",
-      "channel_name": "@cazetvdois",
-      "channel_url": "https://www.youtube.com/@cazetvdois",
-      "channel_id": "UCP-vp1zdHOa9k2hN_nMT9TA",
-      "category": "Esportes",
-      "scheduled_start_ms": 0,
-      "time_brt": "Ao Vivo",
-      "is_live": false
-    },
-    {
-      "video_id": "",
-      "url": "https://www.youtube.com/@canalgoatbr/live",
-      "title": "Transmissão @canalgoatbr",
+      "video_id": "ki_yeNW3q6o",
+      "url": "https://www.youtube.com/watch?v=ki_yeNW3q6o",
+      "title": "PALMEIRAS X ESTUDIANTES | FINAL | NARRAÇÃO AO VIVO | CONMEBOL LIBERTADORES",
       "channel_name": "@canalgoatbr",
       "channel_url": "https://www.youtube.com/@canalgoatbr",
       "channel_id": "UC_oToDrJ6uca7d1dFVBmLtg",
       "category": "Esportes",
       "scheduled_start_ms": 0,
-      "time_brt": "Ao Vivo",
-      "is_live": false
-    },
-    {
-      "video_id": "",
-      "url": "https://www.youtube.com/@getv/live",
-      "title": "Transmissão @getv",
-      "channel_name": "@getv",
-      "channel_url": "https://www.youtube.com/@getv",
-      "channel_id": "UCgCKagVhzGnZcuP9bSMgMCg",
-      "category": "Esportes",
-      "scheduled_start_ms": 0,
-      "time_brt": "Ao Vivo",
-      "is_live": false
+      "time_brt": "AO VIVO",
+      "is_live": true
     }
   ]
 }
