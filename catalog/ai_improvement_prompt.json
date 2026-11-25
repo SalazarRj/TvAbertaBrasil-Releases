@@ -1,0 +1,9 @@
+{
+  "generated_at": 1795569985223,
+  "generated_label": "25/11/2026 01:26 UTC",
+  "crashes_count": 0,
+  "unique_crashes": 0,
+  "feedbacks_count": 0,
+  "healed_channels": 0,
+  "prompt": "Analise o relatório automático do HarpiaPlay (25/11/2026 01:26 UTC) e proponha/implemente as correções e melhorias prioritárias:\n\n## 1. Erros e Fechamentos Reportados (0 registros, 0 grupos únicos)\n- Nenhum crash registrado até o momento.\n\n## 2. Feedbacks e Pedidos dos Clientes (0 registros)\n- Nenhum feedback recebido ainda.\n\n## 3. Saúde dos Canais e Catálogo\n- Sentinela: 0/0 canais online | 0 recuperados via backup | 0 duplicados removidos.\n- Catálogo: 19536 filmes, 8427 séries, 500 canais reprovados no último build.\n\n## 4. Contas e Vencimentos\n- Usuários ativos: 0/0 | Vencem hoje: 0 | Em 3 dias: 0\n\nCom base nisso, corrija primeiro qualquer crash acima, depois aplique as melhorias pedidas nos feedbacks e gere a próxima versão do TvAbertaBrasil.zip."
+}
