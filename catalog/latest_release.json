@@ -1,8 +1,8 @@
 {
-  "version": "v0.89",
-  "display_version": "v0.89",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.89/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.89/tvaberta-admin.apk",
-  "notes": "feat: nova tela inicial moderna no Admin separada em 4 módulos (Cadastro, Financeiro, Ferramenta de Filmes e Sistema & Conexão) exibindo apenas as abas de cada área\nfeat: novo Perfil VIP no cliente (cartão VIP, banners Renovar/Convidar, atalhos Favoritos/Histórico/Atualizar/Meus Pedidos e Outras Funções)\nfeat: tela completa de Planos VIP (TV+Mobile e Mobile + Promo Code/Cupons) e Checkout Pix com geração automática de Copia e Cola EMVCo\nfeat: módulo Financeiro no Admin para configurar chave Pix, WhatsApp, preços, prazos, telas e cupons em catalog/plans.json",
-  "updated_at": 1795566706848
+  "version": "v0.92",
+  "display_version": "v0.92",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.92/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.92/tvaberta-admin.apk",
+  "notes": "feat: novo Robô Deploy Cloudflare Worker (deploy-worker.yml + wrangler.toml) que publica automaticamente worker.js e sincroniza GITHUB_TOKEN na Cloudflare\nfeat: botão \"Configurar\" na Central de Robôs do Admin com passo a passo interativo e links diretos para Cloudflare API Tokens, Account ID, GitHub Secrets e Actions",
+  "updated_at": 1795569606324
 }
