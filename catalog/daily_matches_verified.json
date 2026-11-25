@@ -1,342 +1,15 @@
 {
-  "updated_at": 1795637116143,
+  "updated_at": 1795647494886,
   "date_brt": "2026-11-25",
   "total_espn_today": 10,
-  "verified_count": 10,
-  "summary": "Hoje (2026-11-25): 10 jogo(s) com canais online validados de 10 partidas do dia.",
+  "verified_count": 3,
+  "summary": "Hoje (2026-11-25): 3 jogo(s) com canais online validados de 10 partidas do dia.",
   "matches": [
-    {
-      "title": "Atlético x Viking FK",
-      "time": "4'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/510.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Club Brugge x Liverpool",
-      "time": "3'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/570.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Inter Milan x Stuttgart",
-      "time": "5'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Lille x Bayern",
-      "time": "4'",
-      "league": "Champions League",
-      "channel_hint": "SPACE",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
-      "verified_channels": [
-        {
-          "name": "SPACE",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
-        }
-      ]
-    },
-    {
-      "title": "PSG x AS Roma",
-      "time": "3'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Shakhtar x Fenerbahce",
-      "time": "3'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/493.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/436.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Sporting x Man Utd",
-      "time": "4'",
-      "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2250.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
-      "verified_channels": [
-        {
-          "name": "TNT FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
-        },
-        {
-          "name": "TNT FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
-        },
-        {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
-        }
-      ]
-    },
-    {
-      "title": "Atlético-MG x Corinthians",
-      "time": "20:00",
-      "league": "Brasileirão Série A",
-      "channel_hint": "PREMIERE CLUBES FHD H.265 / PREMIERE CLUBES FHD / PREMIERE CLUBES FHD ²",
-      "is_live_now": false,
-      "kickoff_minutes": 1200,
-      "is_finished": false,
-      "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "verified_channels": [
-        {
-          "name": "PREMIERE CLUBES FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts"
-        },
-        {
-          "name": "PREMIERE CLUBES FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9037.ts"
-        },
-        {
-          "name": "PREMIERE CLUBES FHD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/54902.ts"
-        },
-        {
-          "name": "PREMIERE 2 FHD H.265",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
-        },
-        {
-          "name": "PREMIERE 2 FHD",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9022.ts"
-        },
-        {
-          "name": "PREMIERE 2 FHD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13576.ts"
-        }
-      ]
-    },
     {
       "title": "Sabah x Barcelona",
       "time": "14:45",
       "league": "Champions League",
-      "channel_hint": "TNT FHD H.265 / TNT FHD / TNT HD ¹",
+      "channel_hint": "TNT / TNT Sports Premium",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -345,34 +18,22 @@
       "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
       "verified_channels": [
         {
-          "name": "TNT FHD H.265",
+          "name": "TNT • Principal",
+          "brand": "TNT",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
         },
         {
-          "name": "TNT FHD",
+          "name": "TNT • Opção 2",
+          "brand": "TNT",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
         },
         {
-          "name": "TNT HD ¹",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594024.ts"
-        },
-        {
-          "name": "TNT HD ²",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594025.ts"
-        },
-        {
-          "name": "TNT (United States) West (720p) [Geo-blocked]",
-          "category": "General",
-          "url": "https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8"
-        },
-        {
-          "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
+          "name": "TNT Sports Premium • Principal",
+          "brand": "TNT Sports Premium",
+          "category": "Deportes",
+          "url": "http://190.60.46.228:8888/play/a026/index.m3u8"
         }
       ]
     },
@@ -380,7 +41,7 @@
       "title": "Slavia Prague x Villarreal",
       "time": "14:45",
       "league": "Champions League",
-      "channel_hint": "SPACE",
+      "channel_hint": "SPACE / Space",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -389,9 +50,42 @@
       "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
       "verified_channels": [
         {
-          "name": "SPACE",
+          "name": "SPACE • Principal",
+          "brand": "SPACE",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+        },
+        {
+          "name": "Space • Opção 2",
+          "brand": "Space",
+          "category": "Cine",
+          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Lille x Bayern",
+      "time": "17:00",
+      "league": "Champions League",
+      "channel_hint": "SPACE / Space",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "2 - 1",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "verified_channels": [
+        {
+          "name": "SPACE • Principal",
+          "brand": "SPACE",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+        },
+        {
+          "name": "Space • Opção 2",
+          "brand": "Space",
+          "category": "Cine",
+          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
         }
       ]
     }
