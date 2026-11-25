@@ -1,8 +1,8 @@
 {
-  "version": "v0.101",
-  "display_version": "v0.101",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.101/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.101/tvaberta-admin.apk",
-  "notes": "feat: integração completa de Pix Dinâmico Automático via Mercado Pago no Cloudflare Worker (/pix/create, /pix/status, /pix/webhook) com renovação automática de validade em users.json\nfeat: tela de Pagamento no cliente confirma o Pix automaticamente em ~4s, atualiza a validade do VIP na hora e mantém fallback para Pix estático caso MP_ACCESS_TOKEN não esteja configurado\nfeat: 9o robô (deploy-worker.yml) sincroniza automaticamente MP_ACCESS_TOKEN no Worker e tela Configurar do Admin ganha Passo 5 com link direto para o Mercado Pago",
-  "updated_at": 1795610130059
+  "version": "v0.102",
+  "display_version": "v0.102",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.102/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.102/tvaberta-admin.apk",
+  "notes": "feat: botão \"Puxar vídeos dos canais agora\" no Curador YouTube fica travado com progresso ao vivo acompanhando a execução no GitHub e recarrega a lista automaticamente ao concluir\nfeat: robô Curador YouTube (youtube-curator.yml) agora dispara automaticamente o Construtor de Catálogo SQLite (update-catalog.yml) sempre que houver novos vídeos ou alterações",
+  "updated_at": 1795611736770
 }
