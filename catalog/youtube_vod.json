@@ -1,0 +1,15 @@
+{
+  "items": [],
+  "channels": [
+    {
+      "name": "@nickjrportugues",
+      "url": "https:\/\/youtube.com\/@nickjrportugues?feature=shared",
+      "category": "Infantil",
+      "min_minutes": 5,
+      "blocked_words": "trailer,corte,melhores momentos,#shorts",
+      "monitor_live": false,
+      "vod_enabled": true,
+      "channel_id": ""
+    }
+  ]
+}
