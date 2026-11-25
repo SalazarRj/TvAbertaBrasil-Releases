@@ -1,11 +1,11 @@
 {
   "alpha": {
-    "version": "v0.94",
-    "display_version": "v0.94",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.94/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.94/tvaberta-admin.apk",
-    "notes": "feat: monitor ao vivo (🟢 OK / 🟡 Rodando / 🔴 Falhou) para todos os 9 robôs na Central de Robôs do Admin via GitHub Actions API\nfeat: botão \"Ver / Copiar Log da Última Execução\" em cada robô (incluindo Build APK) com etapas detalhadas, log do erro, cópia em 1 toque e botão Re-rodar",
-    "updated_at": 1795571020610
+    "version": "v0.99",
+    "display_version": "v0.99",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.99/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.99/tvaberta-admin.apk",
+    "notes": "feat: novo 11o robô Curador YouTube (youtube-curator.yml) que valida links via oEmbed, remove vídeos indisponíveis e gera catalog/vod_youtube.m3u por categoria\nfeat: card Curador YouTube no Admin para colar links do YouTube, puxar o título automaticamente da URL, escolher a categoria e publicar direto no catálogo",
+    "updated_at": 1795607115928
   },
   "beta": {
     "version": "",
