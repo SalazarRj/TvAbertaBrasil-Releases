@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795631688373,
+  "updated_at": 1795631713220,
   "items": [
     {
       "video_id": "BVO3zi2NKS4",
@@ -241,6 +241,18 @@
       "vod_enabled": true,
       "channel_id": "",
       "content_type": "series",
+      "season_number": 1
+    },
+    {
+      "name": "@nickjrportugues",
+      "url": "https:\/\/www.youtube.com\/@nickjrportugues",
+      "category": "Infantil",
+      "min_minutes": 5,
+      "blocked_words": "trailer,corte,melhores momentos,#shorts",
+      "monitor_live": false,
+      "vod_enabled": true,
+      "channel_id": "",
+      "content_type": "movies",
       "season_number": 1
     }
   ]
