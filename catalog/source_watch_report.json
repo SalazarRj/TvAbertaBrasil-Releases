@@ -1,9 +1,9 @@
 {
-  "checked_at": 1795635097427,
-  "last_checked_brt": "25/11/2026 16:31 BRT",
+  "checked_at": 1795635144647,
+  "last_checked_brt": "25/11/2026 16:32 BRT",
   "total_watched": 1,
-  "updated_count": 1,
-  "auto_triggered_catalog": true,
+  "updated_count": 0,
+  "auto_triggered_catalog": false,
   "sources": [
     {
       "id": "src_496639",
@@ -11,11 +11,11 @@
       "url": "https://github.com/xKzin/IPTV-Brazuka",
       "type": "github",
       "auto_rebuild": true,
-      "status": "updated",
+      "status": "unchanged",
       "total_items": 2,
-      "added_count": 2,
-      "removed_count": 2,
-      "summary": "Atualizou: +2 novo(s), -2 removido(s) (último push: 2026-11-16).",
+      "added_count": 0,
+      "removed_count": 0,
+      "summary": "Sem novidades (2 lista(s)/itens) (último push: 2026-11-16).",
       "last_changed_at": 1795635097427,
       "new_items": [
         {
@@ -58,6 +58,15 @@
     }
   ],
   "history": [
+    {
+      "date_brt": "25/11 16:32 BRT",
+      "status": "ok",
+      "updated_count": 0,
+      "added_total": 0,
+      "added_titles": [],
+      "errors": [],
+      "summary": "1 fonte(s) verificada(s) • sem novidades"
+    },
     {
       "date_brt": "25/11 16:31 BRT",
       "status": "ok",
