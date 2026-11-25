@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.122",
-    "display_version": "v0.122",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.122/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.122/tvaberta-admin.apk",
-    "notes": "- Corrigida a contagem real de temporadas exibida na lista e busca de Séries (ex: '5 temps • 53 eps' em vez de '1 temp').",
-    "client_notes": "- Corrigida a contagem real de temporadas exibida na lista e busca de Séries (ex: '5 temps • 53 eps' em vez de '1 temp').",
-    "admin_notes": "fix(series): corrigido contador de temporadas na lista/busca de Séries usando COUNT(DISTINCT season) no CatalogDb.kt\nfeat(admin): Radar de Fontes agora detalha em cada lista quantos canais, filmes e séries foram encontrados e exibe os nomes exatos dos itens novos\nfeat(robot): source-watcher.yml compara hashes internos por item e separa novidades por canais, filmes e séries",
-    "updated_at": 1795636852063
+    "version": "v0.123",
+    "display_version": "v0.123",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.123/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.123/tvaberta-admin.apk",
+    "notes": "- Importação automática de canais inteiros de séries/doramas do YouTube, separando cada playlist em sua própria série sem trailers ou prévias.",
+    "client_notes": "- Importação automática de canais inteiros de séries/doramas do YouTube, separando cada playlist em sua própria série sem trailers ou prévias.",
+    "admin_notes": "feat(robot): Curador YouTube agora lê a aba /playlists de um @canal cadastrado como Série (ex: @WeTVPortuguese) e cria automaticamente uma série separada para cada playlist, filtrando trailers e previews",
+    "updated_at": 1795638992260
   },
   "beta": {
     "version": "",
