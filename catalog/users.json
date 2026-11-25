@@ -11,7 +11,10 @@
       "expires_at": 1798130550676,
       "duration_hours": 720,
       "start_on_first_login": false,
-      "release_channel": "alpha"
+      "release_channel": "alpha",
+      "expiresAtMs": 1798204105160,
+      "startOnFirstLogin": false,
+      "lastOrderId": "HP044931"
     }
   ]
 }
