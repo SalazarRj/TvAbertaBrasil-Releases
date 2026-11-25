@@ -1,8 +1,8 @@
 {
-  "version": "v0.87",
-  "display_version": "v0.87",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.87/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.87/tvaberta-admin.apk",
-  "notes": "feat: ao trocar de fileira na TV (cima/baixo), o foco vai direto para o 1o card da fileira selecionada em 1 único clique\nfix: mantém altura padronizada em todos os cards e proteção de ciclo de vida para nunca travar quando o 1o card estiver fora da tela\nperf: navegação fluida nas 12 fileiras horizontais com resposta rápida do controle remoto (95 ms)",
-  "updated_at": 1795540681876
+  "version": "v0.89",
+  "display_version": "v0.89",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.89/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.89/tvaberta-admin.apk",
+  "notes": "feat: nova tela inicial moderna no Admin separada em 4 módulos (Cadastro, Financeiro, Ferramenta de Filmes e Sistema & Conexão) exibindo apenas as abas de cada área\nfeat: novo Perfil VIP no cliente (cartão VIP, banners Renovar/Convidar, atalhos Favoritos/Histórico/Atualizar/Meus Pedidos e Outras Funções)\nfeat: tela completa de Planos VIP (TV+Mobile e Mobile + Promo Code/Cupons) e Checkout Pix com geração automática de Copia e Cola EMVCo\nfeat: módulo Financeiro no Admin para configurar chave Pix, WhatsApp, preços, prazos, telas e cupons em catalog/plans.json",
+  "updated_at": 1795566706848
 }
