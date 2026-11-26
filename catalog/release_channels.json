@@ -2,13 +2,13 @@
   "alpha": {
     "version": "v0.141",
     "display_version": "v0.141",
-    "admin_version": "v0.140",
+    "admin_version": "v0.142",
     "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.141/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.141/tvaberta-admin.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.142/tvaberta-admin.apk",
     "notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
     "client_notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
-    "admin_notes": "v0.141 (cli 154)\n- perf(cli/tv): corrige travamentos e fechamentos (ANR/OOM) em Android TV, TV Box e Projetores — move filtragem de visibleDailyMatches para Dispatchers.Default (zero bloqueio da UI thread), corrige deteccao isLowRamAtBoot para LEANBACK/sem touchscreen, reduz uso de RAM de capas em 75% no modo TV (downsample 2x/4x + LRU 3MB + recuperacao de OutOfMemoryError), reduz buffer do ExoPlayer em baixa RAM para 10MB (inicio mais rapido em 2.5s) e libera cache de imagens ao iniciar reproducao de video.",
-    "updated_at": 1795709689405
+    "admin_notes": "v0.142 (adm 141)\n- feat(robots/adm): novo Robo Inspetor HLS (globocom/m3u8) em hls-inspector.yml e listado no Hub de Robos do Admin — audita manifestos .m3u8 reais do catalogo (resolucao real 1080p/720p, bitrate, segmentos, criptografia #EXT-X-KEY e canais falsos online) gerando catalog/hls_inspector_report.json e resumo no GitHub Actions.",
+    "updated_at": 1795710088697
   },
   "beta": {
     "version": "",
