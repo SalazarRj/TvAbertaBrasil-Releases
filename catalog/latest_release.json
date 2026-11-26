@@ -1,10 +1,10 @@
 {
-  "version": "v0.133",
-  "display_version": "v0.133",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.133/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.133/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.133:\n• Fluxo de conta mais intuitivo: ao sair da conta, o aplicativo leva direto para a tela de entrada para facilitar a troca de usuário.\n• Melhoria na tela de Perfil com botão direto para entrar na conta quando desconectado e proteção reforçada para assistir apenas com acesso ativo.",
-  "client_notes": "Novidades da versão 0.133:\n• Fluxo de conta mais intuitivo: ao sair da conta, o aplicativo leva direto para a tela de entrada para facilitar a troca de usuário.\n• Melhoria na tela de Perfil com botão direto para entrar na conta quando desconectado e proteção reforçada para assistir apenas com acesso ativo.",
-  "admin_notes": "v0.133 (cli 147 / adm 134)\n- fix(cli/auth): Sair agora interrompe a reproducao e redireciona sempre para a tela de Login; modo visitante bloqueado para reproducao de qualquer canal/filme/serie (fail-closed tambem em validateCredentials quando o servidor esta indisponivel).\n- feat(cli): quando desconectado no Perfil, exibe status \"DESCONECTADO\" com botao direto \"Entrar na minha conta\" e atalho \"Entrar\" em Outras Funcoes (em vez de \"ILIMITADO\").",
-  "updated_at": 1795683041053
+  "version": "v0.134",
+  "display_version": "v0.134",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.134/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.134/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.134:\n• Jogos do Dia ainda mais limpos: canais repetidos agora aparecem agrupados em uma única opção com o horário da transmissão e quantos sinais estão disponíveis.\n• Troca automática de sinal na TV ao Vivo: se um sinal ficar instável, o aplicativo tenta alternar automaticamente para outro sinal disponível do mesmo canal.\n• Melhoria na exibição de emissoras esportivas na agenda de jogos.",
+  "client_notes": "Novidades da versão 0.134:\n• Jogos do Dia ainda mais limpos: canais repetidos agora aparecem agrupados em uma única opção com o horário da transmissão e quantos sinais estão disponíveis.\n• Troca automática de sinal na TV ao Vivo: se um sinal ficar instável, o aplicativo tenta alternar automaticamente para outro sinal disponível do mesmo canal.\n• Melhoria na exibição de emissoras esportivas na agenda de jogos.",
+  "admin_notes": "v0.134 (cli 148 / adm 135)\n- perf(ci): build.yml paralelizado em 2 jobs independentes (build-app + build-admin) com trava releases-repo-push apenas na publicacao final; gradle.properties otimizado (-Xmx5g, configuration-cache, kotlin.caching) e R8 rapido (proguard-android.txt) para cair de ~11min para ~3min.\n- fix(cli/matches): corrige casamento de CazéTV (CAZÉ TV HD) ignorando espacos, bloqueia falsos positivos de Band (Band News / Band Sports / Radio) e canais estrangeiros.\n- feat(cli/matches): agrupa canais repetidos no modal de Jogos do Dia em 1 card limpo por emissora (ex: Band • 4 sinais, CazéTV • 2 sinais) com horario de abertura (\"Ao vivo às HH:MM\") e troca automatica de sinal (auto-failover) se um sinal cair no player.",
+  "updated_at": 1795685076911
 }
