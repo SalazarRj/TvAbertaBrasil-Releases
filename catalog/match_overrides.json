@@ -1,12 +1,6 @@
 {
-  "updated_at": 1795719366776,
-  "rules": [
-    {
-      "match_title": "Celta Vigo x Bournemouth",
-      "pinned_channel_filter": "CazéTV",
-      "hidden": false
-    }
-  ],
+  "updated_at": 1795720454654,
+  "rules": [],
   "base_sports_channels": [
     "Premiere",
     "Sportv",
