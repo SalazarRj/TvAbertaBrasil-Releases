@@ -1,0 +1,32 @@
+{
+  "updated_at": 1795719366776,
+  "rules": [
+    {
+      "match_title": "Celta Vigo x Bournemouth",
+      "pinned_channel_filter": "CazéTV",
+      "hidden": false
+    }
+  ],
+  "base_sports_channels": [
+    "Premiere",
+    "Sportv",
+    "ESPN",
+    "TNT",
+    "Space",
+    "SBT",
+    "Globo",
+    "Band",
+    "CazéTV",
+    "CazéTV 2",
+    "GeTV",
+    "Canal GOAT",
+    "Paramount",
+    "Max",
+    "Prime",
+    "DAZN",
+    "Combate",
+    "BandSports",
+    "NSports",
+    "Nosso Futebol"
+  ]
+}
