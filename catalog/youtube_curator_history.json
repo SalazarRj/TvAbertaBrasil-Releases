@@ -1,6 +1,25 @@
 {
   "runs": [
     {
+      "timestamp": 1795732854769,
+      "date_utc": "26/11 22:40 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 7,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 82,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795731291164,
       "date_utc": "26/11 22:14 UTC",
       "mode": "Feed RSS Oficial",
@@ -340,26 +359,6 @@
       "mode": "Feed RSS Oficial",
       "added_count": 0,
       "added_sample": [],
-      "removed_count": 0,
-      "total_online": 23,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795620861674,
-      "date_utc": "25/11 15:34 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 8,
-      "added_sample": [
-        "PALMEIRAS X FLUMINENSE: REVEJA A CONQUISTA DA VAGA NA FINAL DA LIBERTADORES!",
-        "QUEM VAI VENCER: ATLÉTICO-MG OU CORINTHIANS?",
-        "SE RENATO GAÚCHO SALVAR O GRÊMIO E SER CAMPEÃO, MERECE MAIS UMA ESTÁTUA!",
-        "AO VIVO! PALMEIRAS RUMO AO TETRA DA LIBERTADORES",
-        "BRASIL 0 X 1 PORTUGAL",
-        "ELEGEMOS O CRAQUE DO FLAMENGO EM 2026!",
-        "JOGO COMPLETO: BRASÍLIA X PINHEIROS",
-        "QUEM SERÁ O HERÓI DO PALMEIRAS NA LIBERTADORES?"
-      ],
       "removed_count": 0,
       "total_online": 23,
       "scheduled_lives": 1,
