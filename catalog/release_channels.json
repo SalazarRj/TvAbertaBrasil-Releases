@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.136",
-    "display_version": "v0.136",
-    "admin_version": "v0.136",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.136/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.136/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.136:\n• Novo visual para as janelas de saída e renovação de acesso, com navegação mais rápida no controle remoto (foco automático no botão principal) e atalho direto para renovar via Pix.",
-    "client_notes": "Novidades da versão 0.136:\n• Novo visual para as janelas de saída e renovação de acesso, com navegação mais rápida no controle remoto (foco automático no botão principal) e atalho direto para renovar via Pix.",
-    "admin_notes": "v0.136 (cli 150)\n- feat(cli/ui): redesenho dos modais \"Sair do HarpiaPlay?\" e \"Renove seu acesso\" com tema escuro/dourado, icone de destaque, botoes em pilula, renovacao direta via Pix no modal e foco inicial automatico (FocusRequester) para controle remoto de TV.",
-    "updated_at": 1795696132686
+    "version": "v0.137",
+    "display_version": "v0.137",
+    "admin_version": "v0.137",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.137/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.137/tvaberta-admin.apk",
+    "notes": "Novidades da versão 0.137:\n• Lembrete de Jogos do Dia: partidas que ainda vão começar agora mostram a contagem regressiva, onde vão passar e um botão para receber notificação 15 minutos antes do apito inicial (ocultando os botões de reprodução até perto do horário).\n• Ajustes internos de estabilidade e melhorias no sistema de atualizações.",
+    "client_notes": "Novidades da versão 0.137:\n• Lembrete de Jogos do Dia: partidas que ainda vão começar agora mostram a contagem regressiva, onde vão passar e um botão para receber notificação 15 minutos antes do apito inicial (ocultando os botões de reprodução até perto do horário).\n• Ajustes internos de estabilidade e melhorias no sistema de atualizações.",
+    "admin_notes": "v0.137 (cli 151 / adm 137)\n- fix(adm/ci): elimina loop de atualizacao do Admin — checkAdminRelease agora verifica admin_version em catalog/latest_release.json (independente da versao do Cliente) e build.yml grava APP_VER e ADM_VER separadamente.\n- feat(cli/matches): jogos futuros (>30 min antes do inicio) ocultam os botoes de play por padrao e exibem card \"Transmissao programada\" com contagem regressiva, emissoras previstas e notificacao local (WorkManager) \"Lembrar-me 15 min antes\".",
+    "updated_at": 1795698069286
   },
   "beta": {
     "version": "",
