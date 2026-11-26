@@ -1,11 +1,11 @@
 {
   "version": "v0.152",
   "display_version": "v0.152",
-  "admin_version": "v0.144",
+  "admin_version": "v0.145",
   "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.152/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.152/tvaberta-admin.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.145/tvaberta-admin.apk",
   "notes": "Novidades da versão 0.152:\n• Correção definitiva da imagem em transmissões ao vivo (sem tela preta).\n• Menu superior da TV reorganizado e mais limpo, sem opções repetidas.\n• Liberação controlada de novos recursos por canal de atualização.",
   "client_notes": "Novidades da versão 0.152:\n• Correção definitiva da imagem em transmissões ao vivo (sem tela preta).\n• Menu superior da TV reorganizado e mais limpo, sem opções repetidas.\n• Liberação controlada de novos recursos por canal de atualização.",
-  "admin_notes": "v0.152 (cli 164) / Admin v0.144 (adm 143)\n- fix(cli/player): remove overrides de position/width/height em #player-container-id e <video> no HARPIA_TV_CINEMA_JS (mantendo apenas ocultacao da topbar/area abaixo do player), eliminando de vez a tela preta com som no WebView.\n- feat(cli/adm): cria Feature Flag remota live_matches_release_stage em catalog/sources.json (padrao \"alpha\": somente Alfa carrega Jogos ao Vivo; Beta e Oficial nao carregam nem exibem) com card \"Lancamento da Feature - Jogos ao Vivo\" (So Alfa / Alfa + Beta / Lancar Jogos ao Vivo) no AdminMatchManager.\n- fix(cli/tv): reorganiza barra superior da TV removendo aba \"Perfil\" redundante ao lado do icone de perfil.",
-  "updated_at": 1795729098044
+  "admin_notes": "v0.152 (cli 164) / Admin v0.145 (adm 144)\n- feat(adm/yt): permite digitar @canal na aba Serie do Curador YouTube para listar e importar em lote todas as playlists publicas do canal (suporta lockupViewModel + gridPlaylistRenderer).\n- feat(adm/yt): adiciona visao \"Por Canal\" no Curador YouTube (cards expansiveis por canal mostrando filmes e series dentro de cada canal com botao Play direto, filtro e busca).\n- ui(adm/lab): reorganiza a aba \"1. Raspar\" do Laboratorio em 4 modos limpos (URL/M3U, GitHub, Por Nome, Fontes Prontas), eliminando empilhamento confuso de cards.",
+  "updated_at": 1795732072099
 }
