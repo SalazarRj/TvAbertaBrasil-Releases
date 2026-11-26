@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.150",
-    "display_version": "v0.150",
+    "version": "v0.151",
+    "display_version": "v0.151",
     "admin_version": "v0.143",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.150/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.151/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.147/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.150:\n• Visual de TV limpa em tela cheia nas transmissões ao vivo: tela de ponta a ponta sem menus extras por cima da imagem e botão discreto para ativar o som quando necessário.",
-    "client_notes": "Novidades da versão 0.150:\n• Visual de TV limpa em tela cheia nas transmissões ao vivo: tela de ponta a ponta sem menus extras por cima da imagem e botão discreto para ativar o som quando necessário.",
+    "notes": "Novidades da versão 0.151:\n• Correção na exibição de vídeo em tela cheia nas transmissões ao vivo, garantindo imagem e som sincronizados desde o primeiro instante.",
+    "client_notes": "Novidades da versão 0.151:\n• Correção na exibição de vídeo em tela cheia nas transmissões ao vivo, garantindo imagem e som sincronizados desde o primeiro instante.",
     "admin_notes": "v0.147 (cli 159)\n- feat(live/robots): unifica youtube-live-window.yml + match-channel-linker.yml em um unico Robo Central de Jogos Ao Vivo com Centralizador de Canais Esportivos (catalog/sports_channels_hub.json), validacao real de segmento HLS (.m3u8 + 1o bloco de video, eliminando links travados em 85%) e youtube-curator.yml focado apenas em VOD sem sobrescrever lives.\n- fix(cli/matches): corrige ordenacao no MatchDetailsDialog para transmissao oficial da CazeTV / Canal GOAT sempre ter prioridade sobre links IPTV \"FHD\" de fornecedores externos.",
-    "updated_at": 1795726899670
+    "updated_at": 1795727705122
   },
   "beta": {
     "version": "",
