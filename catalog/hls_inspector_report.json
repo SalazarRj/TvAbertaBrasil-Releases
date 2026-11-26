@@ -1,0 +1,197 @@
+{
+  "updated_at": 1795710213841,
+  "library": "globocom/m3u8",
+  "total_catalog_live": 801,
+  "inspected": 120,
+  "ok_total": 42,
+  "hls_master": 13,
+  "hls_media": 0,
+  "direct_stream": 29,
+  "real_fhd_or_4k": 1,
+  "real_hd_720p": 2,
+  "encrypted_hls": 0,
+  "empty_or_invalid": 0,
+  "offline": 78,
+  "samples_master": [
+    {
+      "name": "SBT News (720p)",
+      "res": "1280x720",
+      "mbps": 3.13,
+      "detail": "Master HLS (3 qualidades)"
+    },
+    {
+      "name": "CNN Brasil (1080p)",
+      "res": "1920x1080",
+      "mbps": 3.97,
+      "detail": "Master HLS (4 qualidades)"
+    },
+    {
+      "name": "Canal do Boi (720p)",
+      "res": "1280x720",
+      "mbps": 3.51,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "Discovery Science",
+      "res": "",
+      "mbps": 9.59,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "Discovery Theater",
+      "res": "",
+      "mbps": 4.37,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "Discovery Turbo",
+      "res": "",
+      "mbps": 5.61,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "Discovery World",
+      "res": "",
+      "mbps": 4.18,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "ESPN (Brazil) (1080p)",
+      "res": "",
+      "mbps": 3.23,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "ESPN 6",
+      "res": "",
+      "mbps": 2.08,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "HBO",
+      "res": "",
+      "mbps": 3.14,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "HBO 2",
+      "res": "",
+      "mbps": 2.85,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "HBO Plus",
+      "res": "",
+      "mbps": 3.19,
+      "detail": "Master HLS (1 qualidades)"
+    },
+    {
+      "name": "HBO Xtreme",
+      "res": "",
+      "mbps": 2.84,
+      "detail": "Master HLS (1 qualidades)"
+    }
+  ],
+  "samples_problem": [
+    {
+      "name": "A&E FHD H.265",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "A&E",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "AXN HD ¹",
+      "status": "offline",
+      "detail": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "AMC",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "AMC HD ²",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "ANIMAL PLANET FHD H.265",
+      "status": "offline",
+      "detail": "HTTP Error 503: Service Temporarily Unavailable"
+    },
+    {
+      "name": "ARTE 1 HD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "BAND SP HD",
+      "status": "offline",
+      "detail": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "BAND BAHIA FHD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "BAND RJ",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "BAND CAMPINAS HD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "BAND SPORTS FHD H.265",
+      "status": "offline",
+      "detail": "HTTP Error 404: Not Found"
+    },
+    {
+      "name": "BAND NEWS HD ²",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CARTOON NETWORK",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CARTOONITO HD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CARTOONITO HD ²",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "BIS",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CINEMAX FHD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CINEMAX HD ²",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    },
+    {
+      "name": "CANAL BRASIL FHD",
+      "status": "offline",
+      "detail": "HTTP Error 502: Bad Gateway"
+    }
+  ]
+}
