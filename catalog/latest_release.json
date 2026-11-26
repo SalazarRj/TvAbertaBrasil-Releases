@@ -1,11 +1,11 @@
 {
-  "version": "v0.146",
-  "display_version": "v0.146",
+  "version": "v0.147",
+  "display_version": "v0.147",
   "admin_version": "v0.143",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.146/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.147/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.143/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.146:\n• Correção nos Jogos do Dia: ao tocar em uma partida, todos os canais disponíveis (como CazéTV, Band, ESPN e Premiere) aparecem organizados para você escolher com um toque.",
-  "client_notes": "Novidades da versão 0.146:\n• Correção nos Jogos do Dia: ao tocar em uma partida, todos os canais disponíveis (como CazéTV, Band, ESPN e Premiere) aparecem organizados para você escolher com um toque.",
+  "notes": "Novidades da versão 0.147:\n• Jogos ao Vivo ainda mais rápidos e estáveis: validação reforçada dos sinais antes da exibição e prioridade automática para a melhor transmissão disponível em cada partida.",
+  "client_notes": "Novidades da versão 0.147:\n• Jogos ao Vivo ainda mais rápidos e estáveis: validação reforçada dos sinais antes da exibição e prioridade automática para a melhor transmissão disponível em cada partida.",
   "admin_notes": "v0.143 (cli 155 / adm 142)\n- perf(cli/tv): Carregamento Progressivo em Ondas na Home da TV (Onda 1: Destaques + Ao Vivo + Jogos + 1 fileira; Onda 2 em background apos 900ms; Onda 3+ sob demanda ao descer o controle) + invalidacao automatica do cache da Home ao atualizar o catalogo.\n- feat(cli/catalog): filmes e Destaques (carrossel principal) agora ordenados do lancamento mais recente para o mais antigo (ano DESC + id DESC).\n- feat(robots): Robo Inspetor HLS agendado diariamente de madrugada (04:30 BRT) em hls-inspector.yml.",
-  "updated_at": 1795719979549
+  "updated_at": 1795721469044
 }
