@@ -1,11 +1,11 @@
 {
-  "version": "v0.138",
-  "display_version": "v0.138",
-  "admin_version": "v0.138",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.138/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.138/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
-  "client_notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
-  "admin_notes": "v0.138 (cli 152 / adm 138)\n- feat(adm/worker/cli): mensagens de convite passo a passo separadas para Celular (Android), TV (Android TV / TV Box / Fire TV via Downloader) e Completo (Celular + TV), com aviso de compatibilidade futura Samsung/LG/iPhone.\n- feat(adm/worker): campo \"Codigo Downloader (TV)\" salvo em private_data/users.json com atalho para go.aftvnews.com, exibido automaticamente na pagina publica /convite e no botao \"Convidar amigos\" simplificado do cliente.",
-  "updated_at": 1795706012840
+  "version": "v0.141",
+  "display_version": "v0.141",
+  "admin_version": "v0.140",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.141/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.141/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
+  "client_notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
+  "admin_notes": "v0.141 (cli 154)\n- perf(cli/tv): corrige travamentos e fechamentos (ANR/OOM) em Android TV, TV Box e Projetores — move filtragem de visibleDailyMatches para Dispatchers.Default (zero bloqueio da UI thread), corrige deteccao isLowRamAtBoot para LEANBACK/sem touchscreen, reduz uso de RAM de capas em 75% no modo TV (downsample 2x/4x + LRU 3MB + recuperacao de OutOfMemoryError), reduz buffer do ExoPlayer em baixa RAM para 10MB (inicio mais rapido em 2.5s) e libera cache de imagens ao iniciar reproducao de video.",
+  "updated_at": 1795709689405
 }
