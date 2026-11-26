@@ -1,11 +1,11 @@
 {
-  "version": "v0.144",
-  "display_version": "v0.144",
+  "version": "v0.145",
+  "display_version": "v0.145",
   "admin_version": "v0.143",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.144/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.145/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.143/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.144:\n• Otimização profunda de desempenho e memória para Android TV, TV Box e celulares: reprodução mais fluida sem travamentos, rolagem mais leve nas listas de filmes e séries, e consumo de memória bem menor.",
-  "client_notes": "Novidades da versão 0.144:\n• Otimização profunda de desempenho e memória para Android TV, TV Box e celulares: reprodução mais fluida sem travamentos, rolagem mais leve nas listas de filmes e séries, e consumo de memória bem menor.",
+  "notes": "Novidades da versão 0.145:\n• Correção completa nos Jogos ao Vivo: partidas em andamento agora aparecem imediatamente na tela inicial e na TV, com carregamento rápido e modo alternativo automático caso algum sinal esteja restrito.",
+  "client_notes": "Novidades da versão 0.145:\n• Correção completa nos Jogos ao Vivo: partidas em andamento agora aparecem imediatamente na tela inicial e na TV, com carregamento rápido e modo alternativo automático caso algum sinal esteja restrito.",
   "admin_notes": "v0.143 (cli 155 / adm 142)\n- perf(cli/tv): Carregamento Progressivo em Ondas na Home da TV (Onda 1: Destaques + Ao Vivo + Jogos + 1 fileira; Onda 2 em background apos 900ms; Onda 3+ sob demanda ao descer o controle) + invalidacao automatica do cache da Home ao atualizar o catalogo.\n- feat(cli/catalog): filmes e Destaques (carrossel principal) agora ordenados do lancamento mais recente para o mais antigo (ano DESC + id DESC).\n- feat(robots): Robo Inspetor HLS agendado diariamente de madrugada (04:30 BRT) em hls-inspector.yml.",
-  "updated_at": 1795716469324
+  "updated_at": 1795718487326
 }
