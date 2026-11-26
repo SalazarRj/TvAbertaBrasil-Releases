@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795644912871,
+  "updated_at": 1795714776144,
   "count": 8,
   "items": [
     {
@@ -26,7 +26,7 @@
       "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66640.mp4",
       "category": "Outros",
       "year": "2026",
-      "rating": "7.2",
+      "rating": "7.5",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
     },
     {
@@ -48,15 +48,6 @@
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg"
     },
     {
-      "title": "Buddy",
-      "name": "Buddy [L]",
-      "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66734.mp4",
-      "category": "Outros",
-      "year": "2026",
-      "rating": "6.8",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
-    },
-    {
       "title": "Obsessão",
       "name": "Obsessão",
       "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/45478.mp4",
@@ -64,6 +55,15 @@
       "year": "2026",
       "rating": "8.2",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg"
+    },
+    {
+      "title": "Buddy",
+      "name": "Buddy [L]",
+      "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66734.mp4",
+      "category": "Outros",
+      "year": "2026",
+      "rating": "6.8",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
     },
     {
       "title": "Kalki 2898 A.D. (Hindi)",
