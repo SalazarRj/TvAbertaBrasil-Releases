@@ -1,13 +1,9 @@
 {
-  "updated_at": 1795661250811,
+  "updated_at": 1795723173931,
   "storage": "private_repo",
   "total_users": 1,
   "active_users": 1,
   "expiring_today": [],
-  "expiring_in_3_days": [
-    {
-      "expires_at": "29/11/2026"
-    }
-  ],
+  "expiring_in_3_days": [],
   "newly_deactivated_count": 0
 }
