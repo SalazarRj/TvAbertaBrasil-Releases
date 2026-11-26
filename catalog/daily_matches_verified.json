@@ -1,97 +1,729 @@
 {
-  "updated_at": 1795655541207,
-  "date_brt": "2026-11-25",
-  "total_espn_today": 10,
-  "verified_count": 3,
-  "summary": "Hoje (2026-11-25): 3 jogo(s) com canais online validados de 10 partidas do dia.",
+  "updated_at": 1795719131165,
+  "date_brt": "2026-11-26",
+  "total_espn_today": 19,
+  "verified_count": 19,
+  "summary": "Hoje (2026-11-26): 19 jogo(s) com canais online validados de 19 partidas do dia.",
   "matches": [
     {
-      "title": "Sabah x Barcelona",
-      "time": "14:45",
-      "league": "Champions League",
-      "channel_hint": "TNT / TNT Brazil",
-      "is_live_now": false,
+      "title": "Besiktas x Hapoel Be'er",
+      "time": "33'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
       "kickoff_minutes": 885,
-      "is_finished": true,
-      "score_text": "1 - 4",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21922.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png",
+      "is_finished": false,
+      "score_text": "0 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1895.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/13083.png",
       "verified_channels": [
         {
-          "name": "TNT • Principal",
-          "brand": "TNT",
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
         },
         {
-          "name": "TNT • Opção 2",
-          "brand": "TNT",
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
         },
         {
-          "name": "TNT Brazil • Principal",
-          "brand": "TNT Brazil",
-          "category": "Undefined",
-          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
         },
         {
-          "name": "TNT Sports Premium • Principal",
-          "brand": "TNT Sports Premium",
-          "category": "Deportes",
-          "url": "http://190.60.46.228:8888/play/a026/index.m3u8"
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
         }
       ]
     },
     {
-      "title": "Slavia Prague x Villarreal",
-      "time": "14:45",
-      "league": "Champions League",
-      "channel_hint": "SPACE / Space",
-      "is_live_now": false,
+      "title": "Celta Vigo x Bournemouth",
+      "time": "48'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
       "kickoff_minutes": 885,
-      "is_finished": true,
-      "score_text": "0 - 1",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/494.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png",
+      "is_finished": false,
+      "score_text": "1 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
       "verified_channels": [
         {
-          "name": "SPACE • Principal",
-          "brand": "SPACE",
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
         },
         {
-          "name": "Space • Opção 2",
-          "brand": "Space",
-          "category": "Cine",
-          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
         }
       ]
     },
     {
-      "title": "Lille x Bayern",
+      "title": "Dinamo Zagreb x Leverkusen",
+      "time": "48'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "0 - 2",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/597.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/131.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Marseille x Levski Sofia",
+      "time": "48'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "1 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/490.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Olympiacos x Milan",
+      "time": "48'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "1 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/435.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "RB Salzburg x Ararat-Armenia",
+      "time": "50'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "1 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Union SG x Lech Poznan",
+      "time": "47'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "0 - 2",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/5807.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2990.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Viktoria Plzen x Benfica",
+      "time": "48'",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": true,
+      "kickoff_minutes": 885,
+      "is_finished": false,
+      "score_text": "4 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/11706.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1929.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "C Palace x Real Sociedad",
       "time": "17:00",
-      "league": "Champions League",
-      "channel_hint": "SPACE / Space",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": false,
       "kickoff_minutes": 1020,
-      "is_finished": true,
-      "score_text": "2 - 1",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
       "verified_channels": [
         {
-          "name": "SPACE • Principal",
-          "brand": "SPACE",
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13585.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
         },
         {
-          "name": "Space • Opção 2",
-          "brand": "Space",
-          "category": "Cine",
-          "url": "http://177.234.218.66:8084/play/a09e/index.m3u8"
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Ferencvaros x NK Celje",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/622.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3362.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Juventus x Omonia",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/617.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Lyon x Lillestrom",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "NEC x Rennes",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/147.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "OFI Crete x Anderlecht",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Sparta x AZ Alkmaar",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/433.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/140.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Sunderland x Jagiellonia ",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/11505.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Torreense x Celtic",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "Hoffenheim x Sturm Graz",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "BAND SP / BAND BAHIA",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
+      "verified_channels": [
+        {
+          "name": "BAND SP • Principal",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+        },
+        {
+          "name": "BAND SP • Opção 2",
+          "brand": "BAND SP",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
+        },
+        {
+          "name": "BAND BAHIA • Principal",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
+        },
+        {
+          "name": "BAND BAHIA • Opção 2",
+          "brand": "BAND BAHIA",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+        }
+      ]
+    },
+    {
+      "title": "São Paulo x Remo",
+      "time": "20:00",
+      "league": "Brasileirão Série A",
+      "channel_hint": "PREMIERE CLUBES / PREMIERE 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1200,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+      "verified_channels": [
+        {
+          "name": "PREMIERE CLUBES • Principal",
+          "brand": "PREMIERE CLUBES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts"
+        },
+        {
+          "name": "PREMIERE CLUBES • Opção 2",
+          "brand": "PREMIERE CLUBES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9037.ts"
+        },
+        {
+          "name": "PREMIERE 2 • Principal",
+          "brand": "PREMIERE 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
+        },
+        {
+          "name": "PREMIERE 2 • Opção 2",
+          "brand": "PREMIERE 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9022.ts"
         }
       ]
     }
