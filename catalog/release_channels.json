@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.148",
-    "display_version": "v0.148",
+    "version": "v0.149",
+    "display_version": "v0.149",
     "admin_version": "v0.143",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.148/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.149/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.147/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.148:\n• Correção definitiva nos Jogos ao Vivo: seleção automática do melhor sinal oficial nas partidas em andamento, carregamento imediato sem travar em 85% e nova opção de abrir no Player Externo com um toque na TV ou celular.",
-    "client_notes": "Novidades da versão 0.148:\n• Correção definitiva nos Jogos ao Vivo: seleção automática do melhor sinal oficial nas partidas em andamento, carregamento imediato sem travar em 85% e nova opção de abrir no Player Externo com um toque na TV ou celular.",
+    "notes": "Novidades da versão 0.149:\n• Adicionado botão rápido para copiar o link da transmissão em exibição diretamente no player.",
+    "client_notes": "Novidades da versão 0.149:\n• Adicionado botão rápido para copiar o link da transmissão em exibição diretamente no player.",
     "admin_notes": "v0.147 (cli 159)\n- feat(live/robots): unifica youtube-live-window.yml + match-channel-linker.yml em um unico Robo Central de Jogos Ao Vivo com Centralizador de Canais Esportivos (catalog/sports_channels_hub.json), validacao real de segmento HLS (.m3u8 + 1o bloco de video, eliminando links travados em 85%) e youtube-curator.yml focado apenas em VOD sem sobrescrever lives.\n- fix(cli/matches): corrige ordenacao no MatchDetailsDialog para transmissao oficial da CazeTV / Canal GOAT sempre ter prioridade sobre links IPTV \"FHD\" de fornecedores externos.",
-    "updated_at": 1795724086465
+    "updated_at": 1795725424092
   },
   "beta": {
     "version": "",
