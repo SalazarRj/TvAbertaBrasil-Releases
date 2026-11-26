@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.131",
-    "display_version": "v0.131",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.131/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.131/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.131:\n• Painel de assinatura mais completo no Perfil: agora você vê o status da conta, quantos dias e horas restam, a data e o horário exatos do vencimento e uma barra visual de acompanhamento.\n• Atualização instantânea da validade ao abrir o Perfil ou tocar no botão de atualizar no cartão da sua conta.\n• Ajustes visuais na tela de Perfil para deixar os atalhos ainda mais limpos.",
-    "client_notes": "Novidades da versão 0.131:\n• Painel de assinatura mais completo no Perfil: agora você vê o status da conta, quantos dias e horas restam, a data e o horário exatos do vencimento e uma barra visual de acompanhamento.\n• Atualização instantânea da validade ao abrir o Perfil ou tocar no botão de atualizar no cartão da sua conta.\n• Ajustes visuais na tela de Perfil para deixar os atalhos ainda mais limpos.",
-    "admin_notes": "v0.131 (cli 145 / adm 132)\n- fix(auth/worker/admin): corrige atualizacao imediata da data de vencimento — ProfileScreen agora recarrega validade ao abrir e tem botao manual de atualizar; /auth/verify com cache-busting (cacheTtl: 0); expires_at fixo tem prioridade sobre start_on_first_login; saveUsersToGitHub busca SHA fresco antes de gravar private_data/users.json.\n- feat(cli): novo card detalhado de assinatura no Perfil com selo de status (VIP Ativo / Vence em Breve / Teste / Expirado), contagem regressiva (dias e horas), data/dia da semana/hora exatos do vencimento e barra visual de tempo restante; ajuste visual do rotulo \"Ajustes\".",
-    "updated_at": 1795660632024
+    "version": "v0.133",
+    "display_version": "v0.133",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.133/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.133/tvaberta-admin.apk",
+    "notes": "Novidades da versão 0.133:\n• Fluxo de conta mais intuitivo: ao sair da conta, o aplicativo leva direto para a tela de entrada para facilitar a troca de usuário.\n• Melhoria na tela de Perfil com botão direto para entrar na conta quando desconectado e proteção reforçada para assistir apenas com acesso ativo.",
+    "client_notes": "Novidades da versão 0.133:\n• Fluxo de conta mais intuitivo: ao sair da conta, o aplicativo leva direto para a tela de entrada para facilitar a troca de usuário.\n• Melhoria na tela de Perfil com botão direto para entrar na conta quando desconectado e proteção reforçada para assistir apenas com acesso ativo.",
+    "admin_notes": "v0.133 (cli 147 / adm 134)\n- fix(cli/auth): Sair agora interrompe a reproducao e redireciona sempre para a tela de Login; modo visitante bloqueado para reproducao de qualquer canal/filme/serie (fail-closed tambem em validateCredentials quando o servidor esta indisponivel).\n- feat(cli): quando desconectado no Perfil, exibe status \"DESCONECTADO\" com botao direto \"Entrar na minha conta\" e atalho \"Entrar\" em Outras Funcoes (em vez de \"ILIMITADO\").",
+    "updated_at": 1795683041053
   },
   "beta": {
     "version": "",
