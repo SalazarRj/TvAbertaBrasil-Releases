@@ -1,13 +1,13 @@
 {
   "alpha": {
-    "version": "v0.129",
-    "display_version": "v0.129",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.129/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.129/tvaberta-admin.apk",
-    "notes": "- Reforço na segurança e privacidade da autenticação da sua conta.",
-    "client_notes": "- Reforço na segurança e privacidade da autenticação da sua conta.",
-    "admin_notes": "feat(security): migração automática de catalog/users.json do repo público para private_data/users.json no repo privado (via billing-cron.yml)\nfeat(worker): removida rota pública /users.json e criada rota segura POST /auth/verify que retorna apenas a conta autenticada + Pix apontado para base privada\nfeat(auth): cli e adm migrados para autenticação/gestão na base privada (com fallback seguro durante a transição)",
-    "updated_at": 1795652928204
+    "version": "v0.130",
+    "display_version": "v0.130",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.130/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.130/tvaberta-admin.apk",
+    "notes": "Novidades da versão 0.130:\n• Aviso inteligente de vencimento: agora o aplicativo avisa na tela inicial quando faltam poucos dias para o seu acesso vencer, com renovação rápida em poucos toques.\n• Troca rápida de sinal na TV ao Vivo: alterne entre os sinais disponíveis do canal diretamente dentro do player, sem precisar sair da tela cheia.\n• Novo link de convite oficial: ao convidar amigos pelo perfil, o link agora abre uma página oficial de boas-vindas com download direto do aplicativo.\n• Catálogo ainda mais limpo e organizado, com atualização das capas de filmes e séries.",
+    "client_notes": "Novidades da versão 0.130:\n• Aviso inteligente de vencimento: agora o aplicativo avisa na tela inicial quando faltam poucos dias para o seu acesso vencer, com renovação rápida em poucos toques.\n• Troca rápida de sinal na TV ao Vivo: alterne entre os sinais disponíveis do canal diretamente dentro do player, sem precisar sair da tela cheia.\n• Novo link de convite oficial: ao convidar amigos pelo perfil, o link agora abre uma página oficial de boas-vindas com download direto do aplicativo.\n• Catálogo ainda mais limpo e organizado, com atualização das capas de filmes e séries.",
+    "admin_notes": "v0.130 (cli 144 / adm 131)\n- feat(cli): banner discreto de aviso de renovacao na Home quando faltam <= 3 dias para vencer, com atalho direto para planos e Pix.\n- feat(cli): botao rapido \"Trocar sinal\" no player Ao Vivo (barra inferior e tela de erro) com seletor instantaneo de sinais alternativos sem sair da tela cheia.\n- feat(worker/cli): nova pagina oficial de convite (/convite?ref=ID) com preview OpenGraph e download direto (/baixar com fallback inteligente entre canais).\n- fix(catalog): filtro de bloqueio de conteudo adulto na ingestao VOD e TMDB (include_adult=false) + invalidacao unica do cache antigo de capas (schema v2) no app e em posters_home.json.",
+    "updated_at": 1795657106437
   },
   "beta": {
     "version": "",
