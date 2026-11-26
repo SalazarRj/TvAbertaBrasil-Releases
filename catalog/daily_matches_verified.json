@@ -1,13 +1,13 @@
 {
-  "updated_at": 1795719250702,
+  "updated_at": 1795719393586,
   "date_brt": "2026-11-26",
   "total_espn_today": 19,
-  "verified_count": 19,
-  "summary": "Hoje (2026-11-26): 19 jogo(s) com canais online validados de 19 partidas do dia.",
+  "verified_count": 18,
+  "summary": "Hoje (2026-11-26): 18 jogo(s) com canais online validados de 19 partidas do dia.",
   "matches": [
     {
       "title": "Besiktas x Hapoel Be'er",
-      "time": "35'",
+      "time": "38'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
@@ -44,46 +44,8 @@
       ]
     },
     {
-      "title": "Celta Vigo x Bournemouth",
-      "time": "50'",
-      "league": "Europa League",
-      "channel_hint": "BAND SP / BAND BAHIA",
-      "is_live_now": true,
-      "kickoff_minutes": 885,
-      "is_finished": false,
-      "score_text": "1 - 1",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png",
-      "verified_channels": [
-        {
-          "name": "BAND SP • Principal",
-          "brand": "BAND SP",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "BAND SP • Opção 2",
-          "brand": "BAND SP",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts"
-        },
-        {
-          "name": "BAND BAHIA • Principal",
-          "brand": "BAND BAHIA",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts"
-        },
-        {
-          "name": "BAND BAHIA • Opção 2",
-          "brand": "BAND BAHIA",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
-        }
-      ]
-    },
-    {
       "title": "Dinamo Zagreb x Leverkusen",
-      "time": "50'",
+      "time": "52'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
@@ -121,7 +83,7 @@
     },
     {
       "title": "Marseille x Levski Sofia",
-      "time": "50'",
+      "time": "52'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
@@ -159,7 +121,7 @@
     },
     {
       "title": "Olympiacos x Milan",
-      "time": "50'",
+      "time": "53'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
@@ -197,13 +159,13 @@
     },
     {
       "title": "RB Salzburg x Ararat-Armenia",
-      "time": "52'",
+      "time": "54'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
       "kickoff_minutes": 885,
       "is_finished": false,
-      "score_text": "1 - 0",
+      "score_text": "2 - 0",
       "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2790.png",
       "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/20024.png",
       "verified_channels": [
@@ -235,7 +197,7 @@
     },
     {
       "title": "Union SG x Lech Poznan",
-      "time": "49'",
+      "time": "51'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
@@ -273,7 +235,7 @@
     },
     {
       "title": "Viktoria Plzen x Benfica",
-      "time": "50'",
+      "time": "53'",
       "league": "Europa League",
       "channel_hint": "BAND SP / BAND BAHIA",
       "is_live_now": true,
