@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.141",
-    "display_version": "v0.141",
-    "admin_version": "v0.142",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.141/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.142/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
-    "client_notes": "Novidades da versão 0.141:\n• Grande otimização para Android TV, TV Box e Projetores: navegação muito mais leve e fluida, abertura mais rápida dos canais e proteção reforçada contra travamentos e fechamentos inesperados.",
-    "admin_notes": "v0.142 (adm 141)\n- feat(robots/adm): novo Robo Inspetor HLS (globocom/m3u8) em hls-inspector.yml e listado no Hub de Robos do Admin — audita manifestos .m3u8 reais do catalogo (resolucao real 1080p/720p, bitrate, segmentos, criptografia #EXT-X-KEY e canais falsos online) gerando catalog/hls_inspector_report.json e resumo no GitHub Actions.",
-    "updated_at": 1795710088697
+    "version": "v0.143",
+    "display_version": "v0.143",
+    "admin_version": "v0.143",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.143/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.143/tvaberta-admin.apk",
+    "notes": "Novidades da versão 0.143:\n• Abertura ainda mais rápida na TV: a tela inicial agora carrega primeiro o que está visível e vai liberando as demais prateleiras suavemente conforme você navega.\n• Lançamentos sempre no topo: tanto o carrossel de Destaques quanto as listas de Filmes agora são ordenados dos títulos mais recentes para os mais antigos.\n• Atualização inteligente de cache sempre que o catálogo recebe novidades.",
+    "client_notes": "Novidades da versão 0.143:\n• Abertura ainda mais rápida na TV: a tela inicial agora carrega primeiro o que está visível e vai liberando as demais prateleiras suavemente conforme você navega.\n• Lançamentos sempre no topo: tanto o carrossel de Destaques quanto as listas de Filmes agora são ordenados dos títulos mais recentes para os mais antigos.\n• Atualização inteligente de cache sempre que o catálogo recebe novidades.",
+    "admin_notes": "v0.143 (cli 155 / adm 142)\n- perf(cli/tv): Carregamento Progressivo em Ondas na Home da TV (Onda 1: Destaques + Ao Vivo + Jogos + 1 fileira; Onda 2 em background apos 900ms; Onda 3+ sob demanda ao descer o controle) + invalidacao automatica do cache da Home ao atualizar o catalogo.\n- feat(cli/catalog): filmes e Destaques (carrossel principal) agora ordenados do lancamento mais recente para o mais antigo (ano DESC + id DESC).\n- feat(robots): Robo Inspetor HLS agendado diariamente de madrugada (04:30 BRT) em hls-inspector.yml.",
+    "updated_at": 1795712808708
   },
   "beta": {
     "version": "",
