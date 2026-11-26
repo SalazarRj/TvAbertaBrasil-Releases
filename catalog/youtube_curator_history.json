@@ -1,6 +1,25 @@
 {
   "runs": [
     {
+      "timestamp": 1795731291164,
+      "date_utc": "26/11 22:14 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 7,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 82,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795716626579,
       "date_utc": "26/11 18:10 UTC",
       "mode": "Feed RSS Oficial",
@@ -343,17 +362,6 @@
       ],
       "removed_count": 0,
       "total_online": 23,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795620497963,
-      "date_utc": "25/11 15:28 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 0,
-      "added_sample": [],
-      "removed_count": 0,
-      "total_online": 15,
       "scheduled_lives": 1,
       "active_lives": 1
     }
