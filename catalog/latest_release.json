@@ -7,5 +7,5 @@
   "notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
   "client_notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
   "admin_notes": "v0.137 (cli 151 / adm 137)\n- fix(adm/ci): elimina loop de atualizacao do Admin — checkAdminRelease agora verifica admin_version em catalog/latest_release.json (independente da versao do Cliente) e build.yml grava APP_VER e ADM_VER separadamente.\n- feat(cli/matches): jogos futuros (>30 min antes do inicio) ocultam os botoes de play por padrao e exibem card \"Transmissao programada\" com contagem regressiva, emissoras previstas e notificacao local (WorkManager) \"Lembrar-me 15 min antes\".",
-  "updated_at": 1795705194537
+  "updated_at": 1795705901533
 }
