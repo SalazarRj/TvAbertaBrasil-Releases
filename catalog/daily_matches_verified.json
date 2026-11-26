@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795647494886,
+  "updated_at": 1795655541207,
   "date_brt": "2026-11-25",
   "total_espn_today": 10,
   "verified_count": 3,
@@ -9,7 +9,7 @@
       "title": "Sabah x Barcelona",
       "time": "14:45",
       "league": "Champions League",
-      "channel_hint": "TNT / TNT Sports Premium",
+      "channel_hint": "TNT / TNT Brazil",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -28,6 +28,12 @@
           "brand": "TNT",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts"
+        },
+        {
+          "name": "TNT Brazil • Principal",
+          "brand": "TNT Brazil",
+          "category": "Undefined",
+          "url": "http://15.204.246.24:8080/TNTHD/index.m3u8"
         },
         {
           "name": "TNT Sports Premium • Principal",
