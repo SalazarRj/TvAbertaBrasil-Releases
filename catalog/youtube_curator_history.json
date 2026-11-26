@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795716626579,
+      "date_utc": "26/11 18:10 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 9,
+      "added_sample": [
+        "Patrulha Canina",
+        "#HitPause Challenge",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 60,
+      "total_online": 82,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795640664299,
       "date_utc": "25/11 21:03 UTC",
       "mode": "Feed RSS Oficial",
@@ -329,17 +349,6 @@
     {
       "timestamp": 1795620497963,
       "date_utc": "25/11 15:28 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 0,
-      "added_sample": [],
-      "removed_count": 0,
-      "total_online": 15,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795620274112,
-      "date_utc": "25/11 15:24 UTC",
       "mode": "Feed RSS Oficial",
       "added_count": 0,
       "added_sample": [],

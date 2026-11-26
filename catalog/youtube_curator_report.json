@@ -1,12 +1,12 @@
 {
-  "checked_at": 1795640664299,
+  "checked_at": 1795716626579,
   "mode": "Feed RSS Oficial",
-  "total": 148,
-  "online": 140,
-  "added": 8,
-  "removed": 0,
+  "total": 149,
+  "online": 82,
+  "added": 9,
+  "removed": 60,
   "categories_count": 3,
-  "channels_count": 9,
+  "channels_count": 8,
   "scheduled_lives": 0,
   "active_lives": 0
 }
