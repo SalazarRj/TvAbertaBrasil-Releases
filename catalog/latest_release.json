@@ -1,10 +1,11 @@
 {
-  "version": "v0.134",
-  "display_version": "v0.134",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.134/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.134/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.134:\n• Jogos do Dia ainda mais limpos: canais repetidos agora aparecem agrupados em uma única opção com o horário da transmissão e quantos sinais estão disponíveis.\n• Troca automática de sinal na TV ao Vivo: se um sinal ficar instável, o aplicativo tenta alternar automaticamente para outro sinal disponível do mesmo canal.\n• Melhoria na exibição de emissoras esportivas na agenda de jogos.",
-  "client_notes": "Novidades da versão 0.134:\n• Jogos do Dia ainda mais limpos: canais repetidos agora aparecem agrupados em uma única opção com o horário da transmissão e quantos sinais estão disponíveis.\n• Troca automática de sinal na TV ao Vivo: se um sinal ficar instável, o aplicativo tenta alternar automaticamente para outro sinal disponível do mesmo canal.\n• Melhoria na exibição de emissoras esportivas na agenda de jogos.",
-  "admin_notes": "v0.134 (cli 148 / adm 135)\n- perf(ci): build.yml paralelizado em 2 jobs independentes (build-app + build-admin) com trava releases-repo-push apenas na publicacao final; gradle.properties otimizado (-Xmx5g, configuration-cache, kotlin.caching) e R8 rapido (proguard-android.txt) para cair de ~11min para ~3min.\n- fix(cli/matches): corrige casamento de CazéTV (CAZÉ TV HD) ignorando espacos, bloqueia falsos positivos de Band (Band News / Band Sports / Radio) e canais estrangeiros.\n- feat(cli/matches): agrupa canais repetidos no modal de Jogos do Dia em 1 card limpo por emissora (ex: Band • 4 sinais, CazéTV • 2 sinais) com horario de abertura (\"Ao vivo às HH:MM\") e troca automatica de sinal (auto-failover) se um sinal cair no player.",
-  "updated_at": 1795692972380
+  "version": "v0.136",
+  "display_version": "v0.136",
+  "admin_version": "v0.136",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.136/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.136/tvaberta-admin.apk",
+  "notes": "Novidades da versão 0.136:\n• Novo visual para as janelas de saída e renovação de acesso, com navegação mais rápida no controle remoto (foco automático no botão principal) e atalho direto para renovar via Pix.",
+  "client_notes": "Novidades da versão 0.136:\n• Novo visual para as janelas de saída e renovação de acesso, com navegação mais rápida no controle remoto (foco automático no botão principal) e atalho direto para renovar via Pix.",
+  "admin_notes": "v0.136 (cli 150)\n- feat(cli/ui): redesenho dos modais \"Sair do HarpiaPlay?\" e \"Renove seu acesso\" com tema escuro/dourado, icone de destaque, botoes em pilula, renovacao direta via Pix no modal e foco inicial automatico (FocusRequester) para controle remoto de TV.",
+  "updated_at": 1795696132686
 }
