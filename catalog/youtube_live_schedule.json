@@ -1,5 +1,17 @@
 {
-  "updated_at": 1795719228386,
+  "updated_at": 1795724251204,
   "date_brt": "2026-11-26",
-  "events": []
+  "events": [
+    {
+      "video_id": "CGoWQDnp6yA",
+      "url": "https://www.youtube.com/watch?v=CGoWQDnp6yA",
+      "title": "AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS? | PALMEIRAS X ESTUDIANTES VEM AÍ! | Panela Sportv",
+      "channel_name": "getv",
+      "channel_url": "https://www.youtube.com/@getv",
+      "category": "Esportes",
+      "scheduled_start_ms": 0,
+      "time_brt": "AO VIVO",
+      "is_live": true
+    }
+  ]
 }
