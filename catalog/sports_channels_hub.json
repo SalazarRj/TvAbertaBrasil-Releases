@@ -1,0 +1,16 @@
+{
+  "_doc": "Centralizador oficial de canais para Jogos ao Vivo. Edite brand_priority_urls para fixar links prioritarios ou blocked_url_patterns para bloquear fornecedores lentos.",
+  "sport_handles": [
+    "@CazeTV",
+    "@cazetvdois",
+    "@canalgoatbr"
+  ],
+  "youtube_official_brands": [
+    "cazetv",
+    "cazetv 2",
+    "canal goat",
+    "sbt"
+  ],
+  "brand_priority_urls": {},
+  "blocked_url_patterns": []
+}
