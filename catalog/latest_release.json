@@ -1,10 +1,10 @@
 {
-  "version": "v0.127",
-  "display_version": "v0.127",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.127/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.127/tvaberta-admin.apk",
-  "notes": "- Jogos do Dia atualizados com placar e tempo em tempo real.\n- Abertura direta da transmissão em 1 toque ao clicar no jogo, com nomes de canais mais limpos.\n- Melhoria no carregamento automático das capas de séries e filmes.",
-  "client_notes": "- Jogos do Dia atualizados com placar e tempo em tempo real.\n- Abertura direta da transmissão em 1 toque ao clicar no jogo, com nomes de canais mais limpos.\n- Melhoria no carregamento automático das capas de séries e filmes.",
-  "admin_notes": "feat(sports): Jogos do Dia agora sincronizam placar/minuto ao vivo em tempo real no cliente e abrem o player direto em 1 toque no sinal principal\nfix(robot): Validador de Jogos do Dia agora exige confirmação real (EPG, live ou fixação manual), bloqueia canais estrangeiros e exibe nomes limpos (máx. 2 opções por emissora)\nui(client): filtro de release notes blindado para nunca exibir termos técnicos ou nomes de fontes internas",
-  "updated_at": 1795647169440
+  "version": "v0.129",
+  "display_version": "v0.129",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.129/tvaberta-app.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.129/tvaberta-admin.apk",
+  "notes": "- Reforço na segurança e privacidade da autenticação da sua conta.",
+  "client_notes": "- Reforço na segurança e privacidade da autenticação da sua conta.",
+  "admin_notes": "feat(security): migração automática de catalog/users.json do repo público para private_data/users.json no repo privado (via billing-cron.yml)\nfeat(worker): removida rota pública /users.json e criada rota segura POST /auth/verify que retorna apenas a conta autenticada + Pix apontado para base privada\nfeat(auth): cli e adm migrados para autenticação/gestão na base privada (com fallback seguro durante a transição)",
+  "updated_at": 1795652928204
 }
