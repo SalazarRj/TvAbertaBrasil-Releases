@@ -3,9 +3,9 @@
   "display_version": "v0.147",
   "admin_version": "v0.143",
   "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.147/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.143/tvaberta-admin.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.147/tvaberta-admin.apk",
   "notes": "Novidades da versão 0.147:\n• Jogos ao Vivo ainda mais rápidos e estáveis: validação reforçada dos sinais antes da exibição e prioridade automática para a melhor transmissão disponível em cada partida.",
   "client_notes": "Novidades da versão 0.147:\n• Jogos ao Vivo ainda mais rápidos e estáveis: validação reforçada dos sinais antes da exibição e prioridade automática para a melhor transmissão disponível em cada partida.",
-  "admin_notes": "v0.143 (cli 155 / adm 142)\n- perf(cli/tv): Carregamento Progressivo em Ondas na Home da TV (Onda 1: Destaques + Ao Vivo + Jogos + 1 fileira; Onda 2 em background apos 900ms; Onda 3+ sob demanda ao descer o controle) + invalidacao automatica do cache da Home ao atualizar o catalogo.\n- feat(cli/catalog): filmes e Destaques (carrossel principal) agora ordenados do lancamento mais recente para o mais antigo (ano DESC + id DESC).\n- feat(robots): Robo Inspetor HLS agendado diariamente de madrugada (04:30 BRT) em hls-inspector.yml.",
-  "updated_at": 1795721469044
+  "admin_notes": "v0.147 (cli 159)\n- feat(live/robots): unifica youtube-live-window.yml + match-channel-linker.yml em um unico Robo Central de Jogos Ao Vivo com Centralizador de Canais Esportivos (catalog/sports_channels_hub.json), validacao real de segmento HLS (.m3u8 + 1o bloco de video, eliminando links travados em 85%) e youtube-curator.yml focado apenas em VOD sem sobrescrever lives.\n- fix(cli/matches): corrige ordenacao no MatchDetailsDialog para transmissao oficial da CazeTV / Canal GOAT sempre ter prioridade sobre links IPTV \"FHD\" de fornecedores externos.",
+  "updated_at": 1795722109206
 }
