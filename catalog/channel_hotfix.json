@@ -1,20 +1,13 @@
 {
-  "updated_at": 1795637099491,
-  "last_check_at": 1795637099491,
+  "updated_at": 1795662113904,
+  "last_check_at": 1795662113904,
   "updates": [
     {
-      "key": "arte 1",
-      "name": "ARTE 1 FHD",
+      "key": "amc",
+      "name": "AMC FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/67511.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/67512.ts"
-    },
-    {
-      "key": "band bahia",
-      "name": "BAND BAHIA",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166298.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1166299.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13498.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23687.ts"
     },
     {
       "key": "sbt news",
@@ -24,67 +17,32 @@
       "new_url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
     },
     {
-      "key": "cartoon network",
-      "name": "Cartoon Network",
-      "category": "Infantil",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13504.ts",
-      "new_url": "http://177.234.218.66:8084/play/a08p/index.m3u8"
-    },
-    {
-      "key": "cnn",
-      "name": "CNN BRASIL HD",
+      "key": "cartoonito",
+      "name": "CARTOONITO FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8711.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8712.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13503.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8687.ts"
     },
     {
-      "key": "discovery science",
-      "name": "Discovery Science",
+      "key": "discovery theater",
+      "name": "Discovery Theater",
       "category": "Documentales",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8746.ts",
-      "new_url": "http://177.234.218.66:8084/play/a09k/index.m3u8"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13510.ts",
+      "new_url": "http://38.87.224.19:2220/play/a03z/index.m3u8"
     },
     {
-      "key": "espn 2",
-      "name": "ESPN 2 FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
-    },
-    {
-      "key": "espn 3",
-      "name": "ESPN 3 FHD*",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13520.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
+      "key": "discovery world",
+      "name": "Discovery World",
+      "category": "Documentales",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13513.ts",
+      "new_url": "http://181.78.82.130:8000/play/a0s5/index.m3u8"
     },
     {
       "key": "espn 4",
-      "name": "ESPN 4 (Brazil) (1080p)",
-      "category": "Sports",
+      "name": "ESPN 4 FHD",
+      "category": "Ao Vivo",
       "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts",
-      "new_url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-    },
-    {
-      "key": "espn 6",
-      "name": "ESPN 6 FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8794.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131138.ts"
-    },
-    {
-      "key": "fish tv",
-      "name": "FISH TV FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8808.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8807.ts"
-    },
-    {
-      "key": "premiere 5",
-      "name": "PREMIERE 5 HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108301.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108303.ts"
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
     },
     {
       "key": "premiere 7",
@@ -94,46 +52,74 @@
       "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108315.ts"
     },
     {
-      "key": "record rs",
-      "name": "RECORD RS HD",
+      "key": "redetv",
+      "name": "REDETV HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/160052.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9065.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9074.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9073.ts"
     },
     {
-      "key": "record news",
-      "name": "RECORD NEWS HD",
+      "key": "sportv",
+      "name": "SPORTV HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9058.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9057.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9107.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9111.ts"
     },
     {
-      "key": "novelas globoplay",
-      "name": "NOVELAS GLOBOPLAY",
+      "key": "tnt series",
+      "name": "TNT SÉRIES HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9215.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13496.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24156.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9145.ts"
     },
     {
-      "key": "globo inter tv grande minas",
-      "name": "GLOBO INTER TV GRANDE MINAS HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168936.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168937.ts"
+      "key": "tnt",
+      "name": "TNT",
+      "category": "Cine",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts",
+      "new_url": "http://177.234.218.66:8084/play/a08o/index.m3u8"
     },
     {
-      "key": "globo minas",
-      "name": "GLOBO MINAS HD",
+      "key": "telecine action",
+      "name": "TELECINE ACTION HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168940.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24533.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9127.ts"
     },
     {
-      "key": "globo nordeste",
-      "name": "GLOBO NORDESTE HD",
+      "key": "telecine cult",
+      "name": "TELECINE CULT FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168941.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168942.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/24534.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/11770.ts"
+    },
+    {
+      "key": "novo tempo",
+      "name": "Novo Tempo (720p)",
+      "category": "Religious",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21019.ts",
+      "new_url": "http://186.219.52.187/novo_tempo/index.m3u8"
+    },
+    {
+      "key": "woohoo",
+      "name": "WooHoo (720p)",
+      "category": "Undefined",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9224.ts",
+      "new_url": "http://170.83.16.50/WOOHOO/index.m3u8"
+    },
+    {
+      "key": "rit tv",
+      "name": "RIT TV (1080p)",
+      "category": "Religious",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/124550.ts",
+      "new_url": "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+    },
+    {
+      "key": "globo rj",
+      "name": "GLOBO RJ HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168920.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168921.ts"
     },
     {
       "key": "globo tv brasilia",
@@ -143,46 +129,25 @@
       "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168950.ts"
     },
     {
-      "key": "globo tv liberal belem",
-      "name": "GLOBO TV LIBERAL BELÉM HD",
+      "key": "globo rpc ponta grossa",
+      "name": "GLOBO RPC PONTA GROSSA HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168955.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168956.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169019.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169018.ts"
     },
     {
-      "key": "globo centro america",
-      "name": "GLOBO CENTRO AMERICA HD",
+      "key": "globo tv bahia",
+      "name": "GLOBO TV BAHIA HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168968.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168967.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169027.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169029.ts"
     },
     {
-      "key": "globo nsc florianopolis",
-      "name": "GLOBO NSC FLORIANÓPOLIS FHD",
+      "key": "globo tv morena",
+      "name": "GLOBO TV MORENA HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168988.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168987.ts"
-    },
-    {
-      "key": "globo tv mirante cocais",
-      "name": "GLOBO TV MIRANTE COCAIS HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169053.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169054.ts"
-    },
-    {
-      "key": "globo tv tem sorocaba",
-      "name": "GLOBO TV TEM SOROCABA HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2408947.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169078.ts"
-    },
-    {
-      "key": "globo tv verdes mares ce",
-      "name": "GLOBO TV VERDES MARES CE HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169085.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169087.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169059.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169062.ts"
     },
     {
       "key": "trace brazuca",
@@ -194,8 +159,8 @@
   ],
   "stats": {
     "checked": 1268,
-    "online": 719,
-    "healed": 27,
-    "dedup_removed": 343
+    "online": 726,
+    "healed": 22,
+    "dedup_removed": 341
   }
 }
