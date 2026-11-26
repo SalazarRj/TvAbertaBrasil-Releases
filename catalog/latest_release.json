@@ -1,11 +1,11 @@
 {
-  "version": "v0.137",
-  "display_version": "v0.137",
+  "version": "v0.138",
+  "display_version": "v0.138",
   "admin_version": "v0.137",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.137/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.138/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.137/tvaberta-admin.apk",
-  "notes": "Novidades da versão 0.137:\n• Lembrete de Jogos do Dia: partidas que ainda vão começar agora mostram a contagem regressiva, onde vão passar e um botão para receber notificação 15 minutos antes do apito inicial (ocultando os botões de reprodução até perto do horário).\n• Ajustes internos de estabilidade e melhorias no sistema de atualizações.",
-  "client_notes": "Novidades da versão 0.137:\n• Lembrete de Jogos do Dia: partidas que ainda vão começar agora mostram a contagem regressiva, onde vão passar e um botão para receber notificação 15 minutos antes do apito inicial (ocultando os botões de reprodução até perto do horário).\n• Ajustes internos de estabilidade e melhorias no sistema de atualizações.",
+  "notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
+  "client_notes": "Novidades da versão 0.138:\n• Convite para amigos ainda mais simples: agora ao compartilhar o HarpiaPlay pelo Perfil, seus amigos recebem um passo a passo direto de como instalar no celular ou na TV.",
   "admin_notes": "v0.137 (cli 151 / adm 137)\n- fix(adm/ci): elimina loop de atualizacao do Admin — checkAdminRelease agora verifica admin_version em catalog/latest_release.json (independente da versao do Cliente) e build.yml grava APP_VER e ADM_VER separadamente.\n- feat(cli/matches): jogos futuros (>30 min antes do inicio) ocultam os botoes de play por padrao e exibem card \"Transmissao programada\" com contagem regressiva, emissoras previstas e notificacao local (WorkManager) \"Lembrar-me 15 min antes\".",
-  "updated_at": 1795698069286
+  "updated_at": 1795705194537
 }
