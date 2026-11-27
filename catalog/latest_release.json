@@ -1,11 +1,11 @@
 {
-  "version": "v0.165",
-  "display_version": "v0.165",
+  "version": "v0.166",
+  "display_version": "v0.166",
   "admin_version": "v0.152",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.165/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.166/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.152/tvaberta-admin.apk",
-  "notes": "HarpiaPlay v0.165\n- Catálogo organizado do lançamento mais recente para o mais antigo dentro de cada fileira de Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.\n- Navegação mais fluida nas prateleiras da tela inicial, Filmes e Séries.",
-  "client_notes": "HarpiaPlay v0.165\n- Catálogo organizado do lançamento mais recente para o mais antigo dentro de cada fileira de Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.\n- Navegação mais fluida nas prateleiras da tela inicial, Filmes e Séries.",
+  "notes": "HarpiaPlay v0.166\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar, sempre trazendo as novas fileiras sem ficar preso em dados antigos.\n- Catálogo organizado do lançamento mais recente para o mais antigo em Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.",
+  "client_notes": "HarpiaPlay v0.166\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar, sempre trazendo as novas fileiras sem ficar preso em dados antigos.\n- Catálogo organizado do lançamento mais recente para o mais antigo em Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.",
   "admin_notes": "HarpiaPlay v0.164 (cli 176) & Admin v0.152 (adm 151)\n\n- feat(admin): nova 4a aba 'Kids' no Curador YT (AdminYoutubeCurator.kt) + botoes '+ Filme Kids', '+ Serie/Desenho Kids' e chip 'Enviar esta fonte para Kids' na edicao de canais\n- feat(app): queryKidsCatalog em CatalogDb.kt carrega automaticamente todos os filmes e series/desenhos com categoria exata 'Kids' somados aos titulos manuais (kids_titles) em 0ms\n- feat(worker): adicionada categoria Kids nos seletores do /studio (Upload de MP4 / Link)",
-  "updated_at": 1795795718209
+  "updated_at": 1795798778851
 }
