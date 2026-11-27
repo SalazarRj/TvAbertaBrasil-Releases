@@ -1,90 +1,62 @@
 {
-  "updated_at": 1795729998456,
-  "last_check_at": 1795729998456,
+  "updated_at": 1795751895707,
+  "last_check_at": 1795751895707,
   "updates": [
     {
-      "key": "a e",
-      "name": "A&E HD",
+      "key": "animal planet",
+      "name": "ANIMAL PLANET HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13497.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23157.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304491.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304492.ts"
     },
     {
-      "key": "amc",
-      "name": "AMC HD",
+      "key": "discovery channel",
+      "name": "DISCOVERY CHANNEL FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13498.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23688.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131176.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8735.ts"
     },
     {
-      "key": "sbt news",
-      "name": "SBT News (720p)",
-      "category": "News",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1129619.ts",
-      "new_url": "https://dai.google.com/linear/hls/event/1XSOdtQ0SH2G8OEmEfGgjQ/master.m3u8"
+      "key": "discovery theater",
+      "name": "Discovery Theater",
+      "category": "Documentales",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8751.ts",
+      "new_url": "http://38.87.224.19:2220/play/a03z/index.m3u8"
     },
     {
-      "key": "cartoon network",
-      "name": "Cartoon Network",
-      "category": "Infantil",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8699.ts",
-      "new_url": "http://177.234.218.66:8084/play/a08p/index.m3u8"
+      "key": "discovery turbo",
+      "name": "Discovery Turbo",
+      "category": "Documentales",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8755.ts",
+      "new_url": "http://177.234.218.66:8084/play/a09r/index.m3u8"
     },
     {
-      "key": "cartoonito",
-      "name": "CARTOONITO FHD",
+      "key": "espn 2",
+      "name": "ESPN 2",
+      "category": "Deportes",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts",
+      "new_url": "http://45.173.231.22:8000/play/a08a/index.m3u8"
+    },
+    {
+      "key": "espn 5",
+      "name": "ESPN 5 FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8688.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8687.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20946.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8826.ts"
     },
     {
-      "key": "bis",
-      "name": "BIS FHD",
+      "key": "premiere 2",
+      "name": "PREMIERE 2 HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13502.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8680.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9022.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69028.ts"
     },
     {
-      "key": "cnn",
-      "name": "CNN BRASIL HD",
+      "key": "premiere 5",
+      "name": "PREMIERE 5 HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8711.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8712.ts"
-    },
-    {
-      "key": "discovery kids",
-      "name": "DISCOVERY KIDS FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8743.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8742.ts"
-    },
-    {
-      "key": "espn 4",
-      "name": "ESPN 4 FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
-    },
-    {
-      "key": "food network",
-      "name": "FOOD NETWORK HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8811.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8810.ts"
-    },
-    {
-      "key": "history",
-      "name": "HISTORY HD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304494.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304496.ts"
-    },
-    {
-      "key": "premiere 4",
-      "name": "PREMIERE 4 FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108297.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108295.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108301.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108303.ts"
     },
     {
       "key": "premiere 7",
@@ -94,109 +66,116 @@
       "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108315.ts"
     },
     {
+      "key": "record sp",
+      "name": "RECORD SP HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9068.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/12888.ts"
+    },
+    {
       "key": "record rs",
-      "name": "RECORD RS HD",
+      "name": "RECORD RS FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/160052.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9065.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9065.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/160052.ts"
     },
     {
-      "key": "rede vida",
-      "name": "REDE VIDA HD",
+      "key": "record news",
+      "name": "RECORD NEWS HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69259.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9076.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9058.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9057.ts"
     },
     {
-      "key": "sbt",
-      "name": "SBT",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9082.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/26722.ts"
-    },
-    {
-      "key": "sportv",
-      "name": "SPORTV FHD",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69096.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9107.ts"
-    },
-    {
-      "key": "sportv 2",
-      "name": "SPORTV 2",
-      "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30127.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13586.ts"
-    },
-    {
-      "key": "sportv 3",
-      "name": "SPORTV 3 HD",
-      "category": "Ao Vivo",
-      "old_url": "http://195.178.110.110/sportv3/index.m3u8",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9106.ts"
+      "key": "rede gospel",
+      "name": "Rede Gospel (1080p)",
+      "category": "Religious",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9069.ts",
+      "new_url": "https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8"
     },
     {
       "key": "tooncast",
       "name": "Tooncast (1080p)",
       "category": "Animation;Kids",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9150.ts",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125443.ts",
       "new_url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8"
     },
     {
-      "key": "novo tempo",
-      "name": "Novo Tempo (720p)",
-      "category": "Religious",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21019.ts",
-      "new_url": "http://186.219.52.187/novo_tempo/index.m3u8"
-    },
-    {
-      "key": "woohoo",
-      "name": "WooHoo (720p)",
-      "category": "Undefined",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9224.ts",
-      "new_url": "http://170.83.16.50/WOOHOO/index.m3u8"
-    },
-    {
-      "key": "globo nordeste",
-      "name": "GLOBO NORDESTE HD",
+      "key": "globo sp",
+      "name": "GLOBO SP HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168941.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168943.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168917.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168918.ts"
     },
     {
-      "key": "globo tv anhanguera goiania",
-      "name": "GLOBO TV ANHANGUERA GOIÂNIA HD",
+      "key": "globo inter tv grande minas",
+      "name": "GLOBO INTER TV GRANDE MINAS HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168944.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168946.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168935.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168937.ts"
     },
     {
-      "key": "globo centro america",
-      "name": "GLOBO CENTRO AMERICA HD",
+      "key": "globo minas",
+      "name": "GLOBO MINAS HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168967.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168968.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168940.ts"
+    },
+    {
+      "key": "globo tv liberal belem",
+      "name": "GLOBO TV LIBERAL BELÉM HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168955.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168956.ts"
+    },
+    {
+      "key": "globo nsc florianopolis",
+      "name": "GLOBO NSC FLORIANÓPOLIS HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168987.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168988.ts"
     },
     {
       "key": "globo rbs santa cruz",
-      "name": "GLOBO RBS SANTA CRUZ HD",
+      "name": "GLOBO RBS SANTA CRUZ FHD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168996.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168997.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168997.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168996.ts"
     },
     {
-      "key": "globo rpc curitiba",
-      "name": "GLOBO RPC CURITIBA HD",
+      "key": "globo rpc maringa",
+      "name": "GLOBO RPC MARINGÁ HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169008.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169010.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169014.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169015.ts"
     },
     {
-      "key": "globo tv tem sorocaba",
-      "name": "GLOBO TV TEM SOROCABA FHD",
+      "key": "globo tv integracao juiz de fora mg",
+      "name": "GLOBO TV INTEGRAÇÃO JUIZ DE FORA MG HD",
       "category": "Ao Vivo",
-      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169078.ts",
-      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2408947.ts"
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169040.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169041.ts"
+    },
+    {
+      "key": "globo tv morena",
+      "name": "GLOBO TV MORENA HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169059.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169062.ts"
+    },
+    {
+      "key": "globo tv verdes mares ce",
+      "name": "GLOBO TV VERDES MARES CE HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169085.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169087.ts"
+    },
+    {
+      "key": "tv tem bauru",
+      "name": "TV TEM BAURU HD",
+      "category": "Ao Vivo",
+      "old_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169092.ts",
+      "new_url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169093.ts"
     },
     {
       "key": "trace brazuca",
@@ -207,9 +186,9 @@
     }
   ],
   "stats": {
-    "checked": 1269,
-    "online": 709,
-    "healed": 29,
-    "dedup_removed": 341
+    "checked": 1565,
+    "online": 1002,
+    "healed": 26,
+    "dedup_removed": 773
   }
 }
