@@ -1,6 +1,25 @@
 {
   "runs": [
     {
+      "timestamp": 1795794588703,
+      "date_utc": "27/11 15:48 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 7,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 182,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795740573885,
       "date_utc": "27/11 00:48 UTC",
       "mode": "Feed RSS Oficial",
@@ -346,26 +365,6 @@
       "added_count": 1,
       "added_sample": [
         "SBT Ao Vivo"
-      ],
-      "removed_count": 0,
-      "total_online": 53,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795621076795,
-      "date_utc": "25/11 15:37 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 30,
-      "added_sample": [
-        "BUNDESLIGA: GOLS DA 10ª RODADA DO CAMPEONATO ALEMÃO!",
-        "PALMEIRAS X ESTUDIANTES",
-        "PALMEIRAS X ESTUDIANTES",
-        "WERDER BREMEN X HAMBURGO",
-        "ELVERSBERG X FREIBURG",
-        "FREIBURG EM 3º, BAYERN EMPATA E DORTMUND LÍDER! TUDO DA 10ª RODADA DA BUNDESLIGA",
-        "TOP 5 GOLS MAIS BONITOS DA SEMANA NO CANAL GOAT!",
-        "AL AHLI X AL NASSR"
       ],
       "removed_count": 0,
       "total_online": 53,
