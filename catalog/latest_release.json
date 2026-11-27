@@ -1,11 +1,11 @@
 {
-  "version": "v0.169",
-  "display_version": "v0.169",
+  "version": "v0.170",
+  "display_version": "v0.170",
   "admin_version": "v0.154",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.169/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.170/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.154/tvaberta-admin.apk",
-  "notes": "HarpiaPlay v0.169\n- Interface mais limpa em Filmes, Séries, Kids e Ao Vivo: botão de busca compacto em lupa que abre o campo ao tocar.\n- Reforço na validação de conta e atualização imediata do catálogo.\n- Catálogo organizado do lançamento mais recente para o mais antigo, priorizando categorias mais completas.",
-  "client_notes": "HarpiaPlay v0.169\n- Interface mais limpa em Filmes, Séries, Kids e Ao Vivo: botão de busca compacto em lupa que abre o campo ao tocar.\n- Reforço na validação de conta e atualização imediata do catálogo.\n- Catálogo organizado do lançamento mais recente para o mais antigo, priorizando categorias mais completas.",
+  "notes": "HarpiaPlay v0.170\n- Prateleiras de Filmes e Séries ainda mais organizadas: categorias específicas aparecem primeiro e \"Outros\" fica no final.\n- Interface mais limpa com busca em lupa expansível.\n- Reforço na validação de conta e atualização imediata do catálogo.",
+  "client_notes": "HarpiaPlay v0.170\n- Prateleiras de Filmes e Séries ainda mais organizadas: categorias específicas aparecem primeiro e \"Outros\" fica no final.\n- Interface mais limpa com busca em lupa expansível.\n- Reforço na validação de conta e atualização imediata do catálogo.",
   "admin_notes": "HarpiaPlay cli v0.169 (versionCode 181) | adm v0.154 (versionCode 153)\n- [Construtor / update-catalog.yml] Etapas visíveis ao vivo (python3 -u + ::group::), contador de canais a cada 250 testados, e raio-x completo no Resumo do GitHub Actions e robot_report.json (itens Kids encontrados, top categorias de Filmes/Séries/Ao Vivo e saúde por fonte/lista M3U).\n- [Admin :admin v0.154 / AdminActivity.kt] Novo KPI clicável 'Kids ▸' e abas '✨ Kids' e '📋 Fontes' na tela do Robô, mostrando exatamente quais desenhos/filmes Kids entraram e quantos itens cada lista entregou.",
-  "updated_at": 1795804732237
+  "updated_at": 1795806248721
 }
