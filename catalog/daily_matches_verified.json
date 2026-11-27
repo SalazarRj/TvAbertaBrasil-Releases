@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795730012480,
+  "updated_at": 1795746158169,
   "date_brt": "2026-11-26",
   "total_espn_today": 19,
   "active_yt_lives": 1,
@@ -7,202 +7,12 @@
   "summary": "Hoje (2026-11-26): 20 jogo(s) validados com vídeo real (1 live oficial ativa) de 19 partidas.",
   "matches": [
     {
-      "title": "C Palace x Real Sociedad",
-      "time": "90'+7'",
-      "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "2 - 1",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "Band • Principal",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "Band • Opção 2",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
-        }
-      ]
-    },
-    {
-      "title": "Lyon x Lillestrom",
-      "time": "90'+6'",
-      "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "0 - 0",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "Band • Principal",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "Band • Opção 2",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
-        }
-      ]
-    },
-    {
-      "title": "OFI Crete x Anderlecht",
-      "time": "90'+6'",
-      "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "1 - 2",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "Band • Principal",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "Band • Opção 2",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
-        }
-      ]
-    },
-    {
-      "title": "Torreense x Celtic",
-      "time": "90'+1'",
-      "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "1 - 2",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "Band • Principal",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "Band • Opção 2",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
-        }
-      ]
-    },
-    {
-      "title": "Hoffenheim x Sturm Graz",
-      "time": "90'+4'",
-      "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
-      "is_live_now": true,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "3 - 1",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "Band • Principal",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
-        },
-        {
-          "name": "Band • Opção 2",
-          "brand": "Band",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
-        }
-      ]
-    },
-    {
       "title": "AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS? | PALMEIRAS X ESTUDIANTES VEM AÍ! | Panela Sportv",
       "time": "AO VIVO",
       "league": "Ao Vivo • getv",
       "channel_hint": "getv",
       "is_live_now": true,
-      "kickoff_minutes": 1133,
+      "kickoff_minutes": 1402,
       "is_finished": false,
       "score_text": "",
       "home_logo_url": "",
@@ -217,60 +27,10 @@
       ]
     },
     {
-      "title": "São Paulo x Remo",
-      "time": "20:00",
-      "league": "Brasileirão Série A",
-      "channel_hint": "CazéTV / CazéTV 2 / PREMIERE CLUBES",
-      "is_live_now": false,
-      "kickoff_minutes": 1200,
-      "is_finished": false,
-      "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "verified_channels": [
-        {
-          "name": "CazéTV • Oficial",
-          "brand": "CazéTV",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@CazeTV/live"
-        },
-        {
-          "name": "CazéTV 2 • Oficial",
-          "brand": "CazéTV 2",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "PREMIERE CLUBES • Principal",
-          "brand": "PREMIERE CLUBES",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts"
-        },
-        {
-          "name": "PREMIERE CLUBES • Opção 2",
-          "brand": "PREMIERE CLUBES",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94194.ts"
-        },
-        {
-          "name": "PREMIERE 2 • Principal",
-          "brand": "PREMIERE 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
-        },
-        {
-          "name": "SPORTV • Principal",
-          "brand": "SPORTV",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
-        }
-      ]
-    },
-    {
       "title": "Besiktas x Hapoel Be'er",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -291,13 +51,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -308,7 +68,7 @@
       "title": "Celta Vigo x Bournemouth",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -329,13 +89,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -346,7 +106,7 @@
       "title": "Dinamo Zagreb x Leverkusen",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -367,13 +127,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -384,7 +144,7 @@
       "title": "Marseille x Levski Sofia",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -405,13 +165,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -422,7 +182,7 @@
       "title": "Olympiacos x Milan",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -443,13 +203,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -460,7 +220,7 @@
       "title": "RB Salzburg x Ararat-Armenia",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -481,13 +241,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -498,7 +258,7 @@
       "title": "Union SG x Lech Poznan",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -519,13 +279,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -536,7 +296,7 @@
       "title": "Viktoria Plzen x Benfica",
       "time": "14:45",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 885,
       "is_finished": true,
@@ -557,13 +317,51 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
           "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "C Palace x Real Sociedad",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "2 - 1",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -574,7 +372,7 @@
       "title": "Ferencvaros x NK Celje",
       "time": "17:00",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": true,
@@ -595,13 +393,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -612,7 +410,7 @@
       "title": "Juventus x Omonia",
       "time": "17:00",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": true,
@@ -633,13 +431,51 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
           "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "Lyon x Lillestrom",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "0 - 0",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/987.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -650,7 +486,7 @@
       "title": "NEC x Rennes",
       "time": "17:00",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": true,
@@ -671,13 +507,51 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
           "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "OFI Crete x Anderlecht",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "1 - 3",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1010.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/441.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -688,7 +562,7 @@
       "title": "Sparta x AZ Alkmaar",
       "time": "17:00",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": true,
@@ -709,13 +583,13 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "Band • Principal",
-          "brand": "Band",
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
@@ -726,7 +600,7 @@
       "title": "Sunderland x Jagiellonia ",
       "time": "17:00",
       "league": "Europa League",
-      "channel_hint": "CazéTV / CazéTV 2 / Band",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": true,
@@ -747,16 +621,142 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
           "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "Torreense x Celtic",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "1 - 2",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/21615.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/256.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
         },
         {
-          "name": "Band • Opção 2",
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "Band • Principal",
           "brand": "Band",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "Hoffenheim x Sturm Graz",
+      "time": "17:00",
+      "league": "Europa League",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": true,
+      "score_text": "3 - 1",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7911.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3746.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "Band • Principal",
+          "brand": "Band",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8660.ts"
+        }
+      ]
+    },
+    {
+      "title": "São Paulo x Remo",
+      "time": "20:00",
+      "league": "Brasileirão Série A",
+      "channel_hint": "CazéTV / CazéTV 2 / PREMIERE CLUBES",
+      "is_live_now": false,
+      "kickoff_minutes": 1200,
+      "is_finished": true,
+      "score_text": "3 - 1",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "PREMIERE CLUBES • Principal",
+          "brand": "PREMIERE CLUBES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/54902.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
+        },
+        {
+          "name": "SPORTV • Opção 2",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9107.ts"
+        },
+        {
+          "name": "GLOBO NEWS • Principal",
+          "brand": "GLOBO NEWS",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81598.ts"
         }
       ]
     }
