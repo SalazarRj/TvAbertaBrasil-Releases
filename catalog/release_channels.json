@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.162",
-    "display_version": "v0.162",
+    "version": "v0.163",
+    "display_version": "v0.163",
     "admin_version": "v0.151",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.162/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.163/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.151/tvaberta-admin.apk",
-    "notes": "HarpiaPlay v0.162\n\n- Seção Infantil pré-carregada no boot: abre instantaneamente, sem tela de carregamento e sem misturar filmes adultos\n- Novo Checkout Pix na TV em 2 colunas (sem formulário): gera o QR Code automaticamente na hora com resumo do plano, contagem regressiva e verificação em 1 clique",
-    "client_notes": "HarpiaPlay v0.162\n\n- Seção Infantil pré-carregada no boot: abre instantaneamente, sem tela de carregamento e sem misturar filmes adultos\n- Novo Checkout Pix na TV em 2 colunas (sem formulário): gera o QR Code automaticamente na hora com resumo do plano, contagem regressiva e verificação em 1 clique",
+    "notes": "HarpiaPlay v0.163\n\n- Nova identidade visual padronizada: ícone do aplicativo no celular e banner na TV atualizados com a nova águia dourada\n- Aba Infantil renomeada para Kids com seleção exclusiva e curada, mantendo abertura instantânea sem tela de carregamento",
+    "client_notes": "HarpiaPlay v0.163\n\n- Nova identidade visual padronizada: ícone do aplicativo no celular e banner na TV atualizados com a nova águia dourada\n- Aba Infantil renomeada para Kids com seleção exclusiva e curada, mantendo abertura instantânea sem tela de carregamento",
     "admin_notes": "HarpiaPlay v0.163 (cli 175) & Admin v0.151 (adm 150)\n\n- feat(branding): novos icones padronizados (launcher, round, adaptive foreground, topbar logo e tv_banner) com a nova aguia de asas abertas — dourada no Cliente e azul eletrico no Admin\n- feat(kids): renomeado Infantil para Kids no Cliente e adicionada sub-aba Catálogo -> Kids no Admin (AdminKidsTab.kt) salvando kids_titles no sources.json com curadoria manual 100% blindada",
-    "updated_at": 1795791908113
+    "updated_at": 1795791961142
   },
   "beta": {
     "version": "",
