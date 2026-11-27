@@ -1,12 +1,3 @@
 {
-  "codes": {
-    "339797": {
-      "createdAt": 1795779299204,
-      "authorized": true,
-      "email": "limajuliana115@yahoo.com",
-      "passHash": "dd58ff0b60d502c2fbe7e8bb8c32578de867910e37d256cd7ca7157aee8cc42c",
-      "expiryLabel": "Válido até 27/12/2026 06:19",
-      "releaseChannel": "alpha"
-    }
-  }
+  "codes": {}
 }
