@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.155",
-    "display_version": "v0.155",
+    "version": "v0.156",
+    "display_version": "v0.156",
     "admin_version": "v0.149",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.155/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.156/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.149/tvaberta-admin.apk",
-    "notes": "HarpiaPlay v0.155\n\n- Correção crítica na validação de login e reforço de segurança no acesso à conta\n- Novo visual cinema escuro com tela de login, detalhes em tela cheia e planos para 1, 2 ou 4 dispositivos\n- Melhorias de fluidez e navegação pelo controle remoto na TV",
-    "client_notes": "HarpiaPlay v0.155\n\n- Correção crítica na validação de login e reforço de segurança no acesso à conta\n- Novo visual cinema escuro com tela de login, detalhes em tela cheia e planos para 1, 2 ou 4 dispositivos\n- Melhorias de fluidez e navegação pelo controle remoto na TV",
+    "notes": "HarpiaPlay v0.156\n\n- Blindagem completa da autenticação de contas e validação rigorosa de e-mail e senha\n- Correção no envio pelo teclado no modo Primeiro Acesso\n- Melhorias de segurança e estabilidade geral",
+    "client_notes": "HarpiaPlay v0.156\n\n- Blindagem completa da autenticação de contas e validação rigorosa de e-mail e senha\n- Correção no envio pelo teclado no modo Primeiro Acesso\n- Melhorias de segurança e estabilidade geral",
     "admin_notes": "HarpiaPlay v0.154 (cli 166) & Admin v0.149 (adm 148)\n\n- feat(app): reformulacao visual cinema (#080B12/#111827), ModernLoginScreen TV+Mobile, ModernVodDetailsScreen tela cheia com foco D-pad nos relacionados e VipPlansDialog com seletor 1/2/4 dispositivos\n- feat(admin): reformulacao visual Admin 2.0 (#080B12/#111827), KpiCard e AdminHubModuleCard com bordas sutis, capas TMDB reais em AdminTrendingTab (LruCache + RGB_565) e novo modal AdminClientDialogs com limite de telas\n- fix(review): sanitizados textos white-label em TvCodeLoginDialog, repassado downloaderCode para AdminUserEditDialog, corrigido foco D-pad em RelatedMiniPosterCard e deduplicacao de variants\n- perf(ci): Admin sem R8/Minify, kotlin.daemon.jvmargs=-Xmx3g, cache cleanup, publicacao independente por APK e diff multi-commit",
-    "updated_at": 1795741542173
+    "updated_at": 1795770328403
   },
   "beta": {
     "version": "",
