@@ -1,6 +1,12 @@
 {
-  "updated_at": 1795720454654,
-  "rules": [],
+  "updated_at": 1795801746300,
+  "rules": [
+    {
+      "match_title": "AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS? | PALMEIRAS X ESTUDIANTES VEM AÍ! | Panela Sportv",
+      "pinned_channel_filter": "",
+      "hidden": true
+    }
+  ],
   "base_sports_channels": [
     "Premiere",
     "Sportv",
