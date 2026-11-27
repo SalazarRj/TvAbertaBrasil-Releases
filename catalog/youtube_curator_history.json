@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795801559282,
+      "date_utc": "27/11 17:44 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 15,
+      "added_sample": [
+        "Dora",
+        "Patrulha Canina",
+        "#HitPause Challenge",
+        "Patrulha Canina",
+        "O Rubble está APAVORADO com Aranhas! 😱🕷️",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina"
+      ],
+      "removed_count": 0,
+      "total_online": 182,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795794588703,
       "date_utc": "27/11 15:48 UTC",
       "mode": "Feed RSS Oficial",
@@ -353,19 +373,6 @@
       "mode": "Feed RSS Oficial",
       "added_count": 0,
       "added_sample": [],
-      "removed_count": 0,
-      "total_online": 53,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795621196807,
-      "date_utc": "25/11 15:39 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 1,
-      "added_sample": [
-        "SBT Ao Vivo"
-      ],
       "removed_count": 0,
       "total_online": 53,
       "scheduled_lives": 1,
