@@ -1,6 +1,26 @@
 {
   "runs": [
     {
+      "timestamp": 1795738468723,
+      "date_utc": "27/11 00:13 UTC",
+      "mode": "Feed RSS Oficial",
+      "added_count": 107,
+      "added_sample": [
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Rubble",
+        "Patrulha Canina",
+        "Patrulha Canina",
+        "Halloween 2"
+      ],
+      "removed_count": 0,
+      "total_online": 182,
+      "scheduled_lives": 0,
+      "active_lives": 0
+    },
+    {
       "timestamp": 1795732854769,
       "date_utc": "26/11 22:40 UTC",
       "mode": "Feed RSS Oficial",
@@ -350,17 +370,6 @@
       ],
       "removed_count": 0,
       "total_online": 38,
-      "scheduled_lives": 1,
-      "active_lives": 1
-    },
-    {
-      "timestamp": 1795620902293,
-      "date_utc": "25/11 15:34 UTC",
-      "mode": "Feed RSS Oficial",
-      "added_count": 0,
-      "added_sample": [],
-      "removed_count": 0,
-      "total_online": 23,
       "scheduled_lives": 1,
       "active_lives": 1
     }
