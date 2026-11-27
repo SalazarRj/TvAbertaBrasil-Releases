@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795794482249,
+  "updated_at": 1795794508608,
   "items": [
     {
       "video_id": "Xz4TDNhKx0k",
@@ -1496,18 +1496,6 @@
       "season_number": 1
     },
     {
-      "name": "@nickjrportugues",
-      "url": "https:\/\/www.youtube.com\/@nickjrportugues",
-      "category": "Kids",
-      "min_minutes": 5,
-      "blocked_words": "trailer,corte,melhores momentos,#shorts",
-      "monitor_live": false,
-      "vod_enabled": true,
-      "channel_id": "UCxmK61Geo08axWQP_BPdvlw",
-      "content_type": "movies",
-      "season_number": 1
-    },
-    {
       "name": "@SBTRJ",
       "url": "https:\/\/www.youtube.com\/@SBTRJ",
       "category": "Aberta",
@@ -1673,6 +1661,18 @@
       "vod_enabled": true,
       "channel_id": "@AnimeSatoOficial",
       "content_type": "series",
+      "season_number": 1
+    },
+    {
+      "name": "@nickjrportugues",
+      "url": "https:\/\/www.youtube.com\/@nickjrportugues",
+      "category": "Kids",
+      "min_minutes": 3,
+      "blocked_words": "trailer,corte,melhores momentos,#shorts",
+      "monitor_live": false,
+      "vod_enabled": true,
+      "channel_id": "",
+      "content_type": "movies",
       "season_number": 1
     }
   ]
