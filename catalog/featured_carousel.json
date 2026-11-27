@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795714776144,
+  "updated_at": 1795800185029,
   "count": 8,
   "items": [
     {
@@ -27,7 +27,7 @@
       "category": "Outros",
       "year": "2026",
       "rating": "7.5",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/l5gJE9xW1FFtub3gUezh1PjBbY5.jpg"
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/jUZPTTNTlom7VaSesvAZpnL4IGe.jpg"
     },
     {
       "title": "The Fix",
@@ -62,17 +62,17 @@
       "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/66734.mp4",
       "category": "Outros",
       "year": "2026",
-      "rating": "6.8",
+      "rating": "6.7",
       "backdrop_url": "https://image.tmdb.org/t/p/w1280/sMmG82PtjK8A9rVc34gwKQtCm3A.jpg"
     },
     {
-      "title": "Kalki 2898 A.D. (Hindi)",
-      "name": "Kalki 2898-AD [L]",
-      "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/76242.mp4",
+      "title": "Street Fighter",
+      "name": "Street Fighter",
+      "url": "http://dbonline.tech-cdn.top:80/movie/ke-vin-0928392083/PZjF6XATTZ/7396.mp4",
       "category": "Outros",
-      "year": "2024",
-      "rating": "6.4",
-      "backdrop_url": "https://image.tmdb.org/t/p/w1280/seAIZLEq2Il2psjMUREDbSdRmbu.jpg"
+      "year": "2026",
+      "rating": "6.2",
+      "backdrop_url": "https://image.tmdb.org/t/p/w1280/3BBjkQmdGacKYZtpmK2vIfuDmON.jpg"
     }
   ]
 }
