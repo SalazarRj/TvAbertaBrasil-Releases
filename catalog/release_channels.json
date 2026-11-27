@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.161",
-    "display_version": "v0.161",
+    "version": "v0.162",
+    "display_version": "v0.162",
     "admin_version": "v0.150",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.161/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.162/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.150/tvaberta-admin.apk",
-    "notes": "HarpiaPlay v0.161\n\n- Nova tela de abertura (Splash) fiel ao visual aprovado com águia dourada e totalmente silenciosa\n- Seção Infantil limpa exibindo exclusivamente títulos infantis em grade (sem subgêneros ou prateleiras adultas)\n- Tela de Planos VIP na TV em 1 única tela limpa sem rolagem\n- Destaques da Home sem cortes e com foco automático inicial no botão Assistir Agora\n- Detalhes de filmes e séries com imagem horizontal 16:9 no fundo",
-    "client_notes": "HarpiaPlay v0.161\n\n- Nova tela de abertura (Splash) fiel ao visual aprovado com águia dourada e totalmente silenciosa\n- Seção Infantil limpa exibindo exclusivamente títulos infantis em grade (sem subgêneros ou prateleiras adultas)\n- Tela de Planos VIP na TV em 1 única tela limpa sem rolagem\n- Destaques da Home sem cortes e com foco automático inicial no botão Assistir Agora\n- Detalhes de filmes e séries com imagem horizontal 16:9 no fundo",
+    "notes": "HarpiaPlay v0.162\n\n- Seção Infantil pré-carregada no boot: abre instantaneamente, sem tela de carregamento e sem misturar filmes adultos\n- Novo Checkout Pix na TV em 2 colunas (sem formulário): gera o QR Code automaticamente na hora com resumo do plano, contagem regressiva e verificação em 1 clique",
+    "client_notes": "HarpiaPlay v0.162\n\n- Seção Infantil pré-carregada no boot: abre instantaneamente, sem tela de carregamento e sem misturar filmes adultos\n- Novo Checkout Pix na TV em 2 colunas (sem formulário): gera o QR Code automaticamente na hora com resumo do plano, contagem regressiva e verificação em 1 clique",
     "admin_notes": "HarpiaPlay v0.157 (cli 169) & Admin v0.150 (adm 149)\n\n- feat(ui): implementacao completa das 12 telas aprovadas TV+Mobile (HarpiaThemeTokens, HarpiaNavigationBars, ModernLoginScreen com QR automatico na TV, ModernDiscoveryScreens, ModernProfileScreen, ModernVodDetailsScreen, ModernSeriesDetailsScreen com episodios 16:9, ModernLiveTvComponents)\n- fix(review): foco D-pad hasFocus em HarpiaThemeTokens, deteccao FEATURE_LEANBACK no Login TV, modifier repassado em ModernTvProfileDashboard e foco nos botoes de ModernChannelCard\n- fix(auth,worker): /auth/verify e AuthManager 100% fail-closed incluidos",
-    "updated_at": 1795788035780
+    "updated_at": 1795790254199
   },
   "beta": {
     "version": "",
