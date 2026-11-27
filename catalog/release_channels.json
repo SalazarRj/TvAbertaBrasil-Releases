@@ -8,7 +8,7 @@
     "notes": "HarpiaPlay v0.160\n\n- Tela de Planos VIP na TV totalmente redesenhada em 1 única tela limpa (sem rolagem), com seleção rápida de telas, destaque MAIS POPULAR e botão Pagar com Pix\n- Destaques da Home ajustados sem cortes e com foco automático inicial no botão Assistir Agora\n- Detalhes de filmes e séries com imagem horizontal 16:9 real no fundo\n- Tela de abertura (Splash) silenciosa com águia dourada de asas abertas no estilo aprovado",
     "client_notes": "HarpiaPlay v0.160\n\n- Tela de Planos VIP na TV totalmente redesenhada em 1 única tela limpa (sem rolagem), com seleção rápida de telas, destaque MAIS POPULAR e botão Pagar com Pix\n- Destaques da Home ajustados sem cortes e com foco automático inicial no botão Assistir Agora\n- Detalhes de filmes e séries com imagem horizontal 16:9 real no fundo\n- Tela de abertura (Splash) silenciosa com águia dourada de asas abertas no estilo aprovado",
     "admin_notes": "HarpiaPlay v0.157 (cli 169) & Admin v0.150 (adm 149)\n\n- feat(ui): implementacao completa das 12 telas aprovadas TV+Mobile (HarpiaThemeTokens, HarpiaNavigationBars, ModernLoginScreen com QR automatico na TV, ModernDiscoveryScreens, ModernProfileScreen, ModernVodDetailsScreen, ModernSeriesDetailsScreen com episodios 16:9, ModernLiveTvComponents)\n- fix(review): foco D-pad hasFocus em HarpiaThemeTokens, deteccao FEATURE_LEANBACK no Login TV, modifier repassado em ModernTvProfileDashboard e foco nos botoes de ModernChannelCard\n- fix(auth,worker): /auth/verify e AuthManager 100% fail-closed incluidos",
-    "updated_at": 1795785435482
+    "updated_at": 1795786422161
   },
   "beta": {
     "version": "",
