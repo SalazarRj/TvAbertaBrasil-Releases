@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.152",
-    "display_version": "v0.152",
-    "admin_version": "v0.145",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.152/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.145/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.152:\n• Correção definitiva da imagem em transmissões ao vivo (sem tela preta).\n• Menu superior da TV reorganizado e mais limpo, sem opções repetidas.\n• Liberação controlada de novos recursos por canal de atualização.",
-    "client_notes": "Novidades da versão 0.152:\n• Correção definitiva da imagem em transmissões ao vivo (sem tela preta).\n• Menu superior da TV reorganizado e mais limpo, sem opções repetidas.\n• Liberação controlada de novos recursos por canal de atualização.",
-    "admin_notes": "v0.152 (cli 164) / Admin v0.145 (adm 144)\n- feat(adm/yt): permite digitar @canal na aba Serie do Curador YouTube para listar e importar em lote todas as playlists publicas do canal (suporta lockupViewModel + gridPlaylistRenderer).\n- feat(adm/yt): adiciona visao \"Por Canal\" no Curador YouTube (cards expansiveis por canal mostrando filmes e series dentro de cada canal com botao Play direto, filtro e busca).\n- ui(adm/lab): reorganiza a aba \"1. Raspar\" do Laboratorio em 4 modos limpos (URL/M3U, GitHub, Por Nome, Fontes Prontas), eliminando empilhamento confuso de cards.",
-    "updated_at": 1795732072099
+    "version": "v0.153",
+    "display_version": "v0.153",
+    "admin_version": "v0.148",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.153/tvaberta-app.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.153/tvaberta-admin.apk",
+    "notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
+    "client_notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
+    "admin_notes": "HarpiaPlay Admin v0.148 (adm 147) & Cliente v0.153 (cli 165)\n\n- feat(admin): nova sessao Upload de MP4 no painel inicial abrindo /studio do Worker ja autenticado via X-Studio-Key com seletor nativo de MP4\n- feat(worker): nova rota /studio (UI dark + upload multipart em blocos de 5 MB para Cloudflare R2 + publicacao automatica em vod_custom.m3u) e streaming publico /media/<key> com suporte a Range 206\n- feat(workflows): novo robo archive-curator.yml (Curador Archive.org com antiduplicacao) listado nos 15 robos do Admin e sync automatico do secret STUDIO_KEY no deploy-worker.yml\n- fix(app): corrigida referencia ui na busca da TV em MainActivity.kt (TvApp v0.153 / cli 165)",
+    "updated_at": 1795738197238
   },
   "beta": {
     "version": "",
