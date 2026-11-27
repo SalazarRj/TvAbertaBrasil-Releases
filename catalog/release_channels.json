@@ -1,14 +1,14 @@
 {
   "alpha": {
-    "version": "v0.153",
-    "display_version": "v0.153",
+    "version": "v0.154",
+    "display_version": "v0.154",
     "admin_version": "v0.149",
-    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.153/tvaberta-app.apk",
+    "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.154/tvaberta-app.apk",
     "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.149/tvaberta-admin.apk",
-    "notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
-    "client_notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
+    "notes": "HarpiaPlay v0.154\n\n- Novo visual cinema escuro com acabamento moderno em todo o aplicativo\n- Nova tela de login adaptada para TV e celular, com acesso rápido por código na TV\n- Nova tela de detalhes de filmes e séries em tela cheia com sinopse, opções de reprodução e títulos relacionados\n- Nova seleção de planos com opções para 1, 2 ou 4 dispositivos\n- Melhorias de fluidez, navegação pelo controle remoto e desempenho em TVs",
+    "client_notes": "HarpiaPlay v0.154\n\n- Novo visual cinema escuro com acabamento moderno em todo o aplicativo\n- Nova tela de login adaptada para TV e celular, com acesso rápido por código na TV\n- Nova tela de detalhes de filmes e séries em tela cheia com sinopse, opções de reprodução e títulos relacionados\n- Nova seleção de planos com opções para 1, 2 ou 4 dispositivos\n- Melhorias de fluidez, navegação pelo controle remoto e desempenho em TVs",
     "admin_notes": "HarpiaPlay v0.154 (cli 166) & Admin v0.149 (adm 148)\n\n- feat(app): reformulacao visual cinema (#080B12/#111827), ModernLoginScreen TV+Mobile, ModernVodDetailsScreen tela cheia com foco D-pad nos relacionados e VipPlansDialog com seletor 1/2/4 dispositivos\n- feat(admin): reformulacao visual Admin 2.0 (#080B12/#111827), KpiCard e AdminHubModuleCard com bordas sutis, capas TMDB reais em AdminTrendingTab (LruCache + RGB_565) e novo modal AdminClientDialogs com limite de telas\n- fix(review): sanitizados textos white-label em TvCodeLoginDialog, repassado downloaderCode para AdminUserEditDialog, corrigido foco D-pad em RelatedMiniPosterCard e deduplicacao de variants\n- perf(ci): Admin sem R8/Minify, kotlin.daemon.jvmargs=-Xmx3g, cache cleanup, publicacao independente por APK e diff multi-commit",
-    "updated_at": 1795740141097
+    "updated_at": 1795740893076
   },
   "beta": {
     "version": "",
