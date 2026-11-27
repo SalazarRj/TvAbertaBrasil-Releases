@@ -1,11 +1,11 @@
 {
   "version": "v0.153",
   "display_version": "v0.153",
-  "admin_version": "v0.148",
+  "admin_version": "v0.149",
   "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.153/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.153/tvaberta-admin.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.149/tvaberta-admin.apk",
   "notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
   "client_notes": "Novidades da versão 0.153:\n• Visual renovado para TV e celular: tela de abertura cinema, destaque colorido para a seção Infantil e novo Perfil em 2 colunas na TV.\n• Navegação mais livre no controle remoto: busca pela lupa no topo e pesquisa inteligente a partir da 3ª letra.\n• Destaques da tela inicial atualizados com foco nos lançamentos mais recentes e foco automático no botão Sair.",
-  "admin_notes": "HarpiaPlay Admin v0.148 (adm 147) & Cliente v0.153 (cli 165)\n\n- feat(admin): nova sessao Upload de MP4 no painel inicial abrindo /studio do Worker ja autenticado via X-Studio-Key com seletor nativo de MP4\n- feat(worker): nova rota /studio (UI dark + upload multipart em blocos de 5 MB para Cloudflare R2 + publicacao automatica em vod_custom.m3u) e streaming publico /media/<key> com suporte a Range 206\n- feat(workflows): novo robo archive-curator.yml (Curador Archive.org com antiduplicacao) listado nos 15 robos do Admin e sync automatico do secret STUDIO_KEY no deploy-worker.yml\n- fix(app): corrigida referencia ui na busca da TV em MainActivity.kt (TvApp v0.153 / cli 165)",
-  "updated_at": 1795738197238
+  "admin_notes": "HarpiaPlay v0.154 (cli 166) & Admin v0.149 (adm 148)\n\n- feat(app): reformulacao visual cinema (#080B12/#111827), ModernLoginScreen TV+Mobile, ModernVodDetailsScreen tela cheia com foco D-pad nos relacionados e VipPlansDialog com seletor 1/2/4 dispositivos\n- feat(admin): reformulacao visual Admin 2.0 (#080B12/#111827), KpiCard e AdminHubModuleCard com bordas sutis, capas TMDB reais em AdminTrendingTab (LruCache + RGB_565) e novo modal AdminClientDialogs com limite de telas\n- fix(review): sanitizados textos white-label em TvCodeLoginDialog, repassado downloaderCode para AdminUserEditDialog, corrigido foco D-pad em RelatedMiniPosterCard e deduplicacao de variants\n- perf(ci): Admin sem R8/Minify, kotlin.daemon.jvmargs=-Xmx3g, cache cleanup, publicacao independente por APK e diff multi-commit",
+  "updated_at": 1795740141097
 }
