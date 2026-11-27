@@ -1,11 +1,11 @@
 {
-  "version": "v0.166",
-  "display_version": "v0.166",
+  "version": "v0.167",
+  "display_version": "v0.167",
   "admin_version": "v0.153",
-  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.166/tvaberta-app.apk",
+  "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.167/tvaberta-app.apk",
   "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.153/tvaberta-admin.apk",
-  "notes": "HarpiaPlay v0.166\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar, sempre trazendo as novas fileiras sem ficar preso em dados antigos.\n- Catálogo organizado do lançamento mais recente para o mais antigo em Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.",
-  "client_notes": "HarpiaPlay v0.166\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar, sempre trazendo as novas fileiras sem ficar preso em dados antigos.\n- Catálogo organizado do lançamento mais recente para o mais antigo em Filmes e Séries.\n- Categorias com mais títulos agora aparecem primeiro, mantendo Continuar Assistindo sempre no topo.",
+  "notes": "HarpiaPlay v0.167\n- Reforço na validação de conta e segurança no acesso ao aplicativo.\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar.\n- Catálogo organizado do lançamento mais recente para o mais antigo, priorizando categorias mais completas.",
+  "client_notes": "HarpiaPlay v0.167\n- Reforço na validação de conta e segurança no acesso ao aplicativo.\n- Atualização imediata do catálogo ao abrir o app ou tocar em atualizar.\n- Catálogo organizado do lançamento mais recente para o mais antigo, priorizando categorias mais completas.",
   "admin_notes": "HarpiaPlay cli v0.166 (versionCode 178) | adm v0.153 (versionCode 152)\n- [Backup Automático / billing-cron.yml] Trigger imediato sempre que private_data/users.json mudar + rotina diária 08:00 BRT: gera snapshots datados (30 dias em private_data/backups/), espelha automaticamente para o repo privado externo SalazarRj/TvAbertaBrasil-Data (60 dias, fora do alcance do GitSync) e auto-restaura private_data/users.json se sumir por acidente.\n- [Admin :admin v0.153 / AdminActivity.kt] Backup local automático no aparelho (users_backup_latest.json), botão Exportar Backup (compartilhar p/ Drive/WhatsApp), botão Restaurar 1-toque quando a nuvem estiver vazia, alerta vermelho de erro de leitura e trava no Salvar Base contra sobrescrita acidental com 0 contas.\n- [Cliente :app v0.166] Correção completa do cache do catálogo (instant_bundle.json) + ordenação do mais recente para o mais antigo e categorias maiores no topo.",
-  "updated_at": 1795798812644
+  "updated_at": 1795799929081
 }
