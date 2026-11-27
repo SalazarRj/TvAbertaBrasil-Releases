@@ -1,0 +1,737 @@
+#EXTM3U
+#EXTINF:-1 group-title="Movies",De Pelicula Latin America (1080p)
+http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
+#EXTINF:-1 group-title="Entertainment",Discovery World Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 group-title="Nacionales",TVN
+http://15.204.246.24:8080/TVNHD/index.m3u8
+#EXTINF:-1 group-title="Kids",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 group-title="Movies",Az Cinema (1080p)
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
+#EXTINF:-1 group-title="Undefined",TNT Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="SBTNacional.br@SD" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Undefined",SBT Nacional (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+#EXTINF:-1 group-title="Movies",Bollywood HD Russia (576p)
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 group-title="General",TELE 6 (1080p)
+https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
+#EXTINF:-1 group-title="News",CNN Brasil (1080p)
+https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Movies",De Pelicula Plus (1080p)
+http://200.115.120.1:8000/play/ca030/index.m3u8
+#EXTINF:-1 group-title="Movies",MovieSphere (1080p)
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Adultos",Brazzers TV
+http://200.115.120.1:8000/play/ca98/index.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax Hits (1080p)
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="Sports",DAZN 3 Portugal (720p)
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax Classics (1080p)
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",Paramount Network (United States) (1080p)
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Movies",IFC (1080p)
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax (United States) West (720p)
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 group-title="News",VEJA+ TV (1080p)
+https://gpa-vja.otteravision.com/gpa/vja/vja.m3u8
+#EXTINF:-1 group-title="Música",XITE Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 group-title="Música",XITE Just Chill
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 group-title="Movies",Movies Action (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Movies Thriller (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 group-title="Documentales",Discovery Channel
+http://138.59.177.78:9999/play/a09p/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",OuterSphere (1080p)
+https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
+#EXTINF:-1 group-title="News",Times Brasil (720p)
+https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
+#EXTINF:-1 group-title="General",COM Brasil (720p)
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasil.m3u8
+#EXTINF:-1 tvg-id="AratuOn.br@SD" tvg-logo="https://i.imgur.com/Ht4jCab.png" group-title="News",Aratu On (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Telecine Action (1080p)
+http://46.151.196.223:14326
+#EXTINF:-1 group-title="Música",XITE Nuevo Latino
+https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
+#EXTINF:-1 group-title="General",TV Arapuan (720p)
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Gravitas Movies (1080p)
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 group-title="Kids",BabyFirst (720p)
+https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+http://181.78.211.244:8005/play/a0b5/index.m3u8
+#EXTINF:-1 group-title="Infantil",Cartoon Network
+http://177.234.218.66:8084/play/a08p/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden Edge
+http://177.234.218.66:8084/play/a07x/index.m3u8
+#EXTINF:-1 group-title="Series",Universal TV
+http://177.234.218.66:8084/play/a082/index.m3u8
+#EXTINF:-1 group-title="Series",USA Network
+http://177.234.218.66:8084/play/a084/index.m3u8
+#EXTINF:-1 group-title="Series",Sony Channel
+http://177.234.218.66:8084/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Música",Telehit
+http://177.234.218.66:8084/play/a07s/index.m3u8
+#EXTINF:-1 group-title="Documentales",Discovery Turbo
+http://177.234.218.66:8084/play/a09r/index.m3u8
+#EXTINF:-1 group-title="Cine",Golden
+http://177.234.218.66:8084/play/a06x/index.m3u8
+#EXTINF:-1 group-title="Cine",Space
+http://177.234.218.66:8084/play/a09e/index.m3u8
+#EXTINF:-1 group-title="Música",Telehit Música
+http://177.234.218.66:8084/play/a071/index.m3u8
+#EXTINF:-1 group-title="Series",Adult Swim
+http://177.234.218.66:8084/play/a09g/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+http://181.78.12.119:16123/play/ch90/index.m3u8
+#EXTINF:-1 group-title="Cine",TNT
+http://177.234.218.66:8084/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN Latin America (1080p)
+http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports Premium
+http://190.60.46.228:8888/play/a026/index.m3u8
+#EXTINF:-1 group-title="Documentales",History Channel 2
+http://177.234.218.66:8084/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Movies",AMC Thrillers (1080p)
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Documentales",History Channel
+http://177.234.218.66:8084/play/a07k/index.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 7
+http://181.78.14.26:4000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Undefined",Nova Era TV (1080p) [Not 24/7]
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1 group-title="General",TV Passo Fundo (720p)
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Series",AXN
+http://177.234.218.66:8084/play/a07m/index.m3u8
+#EXTINF:-1 group-title="Undefined",TV A Critica (1080p)
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Cine",Warner Channel
+http://177.234.218.66:8084/play/a09t/index.m3u8
+#EXTINF:-1 group-title="Documentales",Investigation Discovery
+http://177.234.218.66:8084/play/a09p/index.m3u8
+#EXTINF:-1 tvg-id="TelevisaoAcademica.mz@SD" tvg-logo="https://i.imgur.com/YmxGoPW.png" group-title="Education",Televisao Academica (576i)
+https://stream-hls.castr-cdn.com/696393a1681ed8469d37aba8/live_9fb9b070eeea11f088034b4b9dd1fd84/index.m3u8
+#EXTINF:-1 group-title="Documentales",Love Nature
+http://181.78.14.26:4000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Música",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Música",XITE 80s Flashback
+https://d1n314cytqn9r3.cloudfront.net/XITE_80s_Flashback.m3u8
+#EXTINF:-1 group-title="Movies",CCTV-Storm Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="Documentales",Real Wild
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",CCTV-The First Theater (1080p)
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+#EXTINF:-1 group-title="Música",XITE Siempre Latino
+https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
+#EXTINF:-1 group-title="Movies",Hallmark Movies & More (1080p)
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 group-title="Documentales",Love Nature 4K
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+#EXTINF:-1 group-title="Música",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Culture;News",STZ TV (1080p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
+#EXTINF:-1 group-title="Música",XITE 90s Throwback
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8
+#EXTINF:-1 group-title="Series",TNT Series
+http://177.234.218.66:8084/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Cine",Sony Movies
+http://177.234.218.66:8084/play/a07l/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN Movies (720p)
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 group-title="Music",Trace Urban (1080p)
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Muzangala TV (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
+#EXTINF:-1 group-title="Documentales",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+#EXTINF:-1 group-title="Movies",MAX4 (1080p)
+http://141.94.193.53/MAX4_HD/index.m3u8
+#EXTINF:-1 group-title="Movies",MyTime Movie Network (United Kingdom) (1080p)
+https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Música",XITE Hits
+https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+#EXTINF:-1 group-title="Movies",B4U Movies (1080p)
+https://amg01408-amg01408c7-amgplt0747.playout.now3.amagi.tv/b4umo001/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Mais Marica (1080p)
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+#EXTINF:-1 group-title="Movies",B4U Kadak (1080p)
+https://amg01408-amg01408c6-amgplt0747.playout.now3.amagi.tv/b4ua001/playlist.m3u8
+#EXTINF:-1 group-title="News",TV Sim Cachoeiro (720p)
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 group-title="Movies;Series",HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+#EXTINF:-1 group-title="Movies",MyTime Movie Network East (1080p)
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Family;General;Movies",MCI Television (1080p)
+https://video.ejeserver.com/live/mcitelevision.m3u8
+#EXTINF:-1 group-title="Movies",MyTime Movie Network (Mexico) (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",TVN3
+https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="Cine",Cinecanal
+http://38.87.224.19:2220/play/a019/index.m3u8
+#EXTINF:-1 group-title="Movies",MovieSphere UK (1080p)
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",&TV International (1080p)
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Nile Drama (576p)
+http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 group-title="Movies",DUST (1080p)
+https://dqi7ayt2o24fn.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FILMBOX+ Emotion Hungary (1080p)
+http://88.212.15.50/live/test_filmbox_extra_hd_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FILMBOX+ Hits (576i)
+http://92.114.85.87:8008/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Movies",MyTime Movie Network (Spain) (1080p)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Novo Tempo (720p)
+http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 group-title="Religious",Rede Seculo 21 (720p)
+http://186.219.52.187/seculo21/index.m3u8
+#EXTINF:-1 group-title="Undefined",TV Gazeta (720p)
+http://186.219.52.187/gazeta/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="Entertainment",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 group-title="General",Rede TV! SD (720p)
+http://170.83.16.50/REDE_TV/index.m3u8
+#EXTINF:-1 group-title="Religious",TV Pai Eterno (720p)
+http://186.219.52.187/pai_eterno/index.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Tooncast Brazil (720p)
+http://170.83.16.50/TOONCAST/index.m3u8
+#EXTINF:-1 group-title="Religious",TV Evangelizar (720p)
+http://170.83.16.50/TV_EVANGELIZAR/index.m3u8
+#EXTINF:-1 group-title="Undefined",TV Senado (Brazil) (720p)
+http://170.83.16.50/TV_SENADO/index.m3u8
+#EXTINF:-1 group-title="Undefined",Canal do Boi (720p)
+http://170.83.16.50/CANAL_DO_BOI/index.m3u8
+#EXTINF:-1 group-title="Education",Canal Futura (720p)
+http://170.83.16.50/FUTURA/index.m3u8
+#EXTINF:-1 group-title="Undefined",WooHoo (720p)
+http://170.83.16.50/WOOHOO/index.m3u8
+#EXTINF:-1 group-title="Documentales",Discovery Science
+http://177.234.218.66:8084/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",NHK World Japan
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="Undefined",TV Bahia (1080i)
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 group-title="Movies",AXN (Brazil) (720p)
+http://170.83.16.50/AXN/index.m3u8
+#EXTINF:-1 group-title="Undefined",TV Justica (720p)
+http://170.83.16.50/TV_JUSTICA/index.m3u8
+#EXTINF:-1 group-title="Undefined",Studio Universal Latin America Brazil (720p)
+http://187.102.210.46/universo/index.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
+#EXTINF:-1 group-title="Deportes",RedBull TV World
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Movies",MyTime Movie Network (Brazil) (720p)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Eurosport 1
+http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
+#EXTINF:-1 group-title="Movies;Series",Ebony TV by Lionsgate (1080p)
+https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
+#EXTINF:-1 group-title="Movies;Music",Next HD (480p)
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+#EXTINF:-1 group-title="Music",Kuriakos Music (1080p)
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",Primer TV (1080p)
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1 group-title="Education;General",Canal FDR (1080p)
+https://v-us-01.wisestream.io/memfs/e4ade538-7924-4359-81ef-b9d4dd229e91.m3u8
+#EXTINF:-1 group-title="Outdoor;Sports",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Difusao (720p)
+https://tvdsoultv.acessaradios.com.br/tvdsoultv/tvdsoultv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movies",MovieSphere AU (1080p)
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FrightFlix (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
+#EXTINF:-1 group-title="Movies",Nashe Lubimoe Kino (576p)
+http://s7.merlive.am/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="Movies",Allo Cine (1080p)
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 group-title="Movies",ETV Cinema HD (1080p)
+https://d1z9okhs5q5o80.cloudfront.net/e8903f8e970841deb594cc7c7f11bc8a/etv6N316.m3u8
+#EXTINF:-1 group-title="Religious",SBN TV Global (720p)
+https://watch.sardius.media/channels/Ea867F3e1F56B06/site_8D363D13Eb/live.m3u8
+#EXTINF:-1 group-title="Movies",Emotion L (1080p)
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 group-title="General",Rede Brasil (1080p)
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",Pitaara (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
+#EXTINF:-1 group-title="Legislative",EbS+ (1080p)
+https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",Al Jazeera English
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="Movies",Aflam (1080p)
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Maanaim (720p) [Not 24/7]
+https://cpbr.appflux.com.br:2000/hls/maranatalive1/maranatalive1.m3u8
+#EXTINF:-1 group-title="Entertainment;Movies",KCM India (1080p) [Geo-blocked]
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Cinemaraton Plus (1080i)
+https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
+#EXTINF:-1 group-title="Legislative",EbS (1080p)
+https://streams.prd.commavservices.eu/live/ebs/index.m3u8
+#EXTINF:-1 group-title="Movies",Nostalgia TV (1080p)
+https://hls02ns.antenaplay.ro/hls/nostalgia-hd/index.m3u8
+#EXTINF:-1 group-title="Movies",FILMBOX+ Emotion (720p)
+http://92.114.85.87:8008/play/a008/index.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 group-title="Religious",IMPD TV Worldwide (1080p)
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Movies",MovieSphere Gold WFXT (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Kinosemja (576p)
+http://s7.merlive.am/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="Movies",MBC+ Drama (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
+#EXTINF:-1 group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+#EXTINF:-1 group-title="Undefined",TV Globo Brasilia (1080p)
+http://79.127.238.228:14173
+#EXTINF:-1 group-title="News",GloboNews (1080p)
+http://79.127.238.228:14093
+#EXTINF:-1 group-title="Undefined",Globoplay Novelas (1080p)
+http://79.127.238.228:14455
+#EXTINF:-1 group-title="Movies",Kinopremyera (1080p)
+http://s7.merlive.am/Kinopremera/index.m3u8
+#EXTINF:-1 group-title="News",TVideoNews (720p) [Not 24/7]
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Bollywood HD (576p)
+http://176.118.197.101/Bollywood_HD/index.m3u8
+#EXTINF:-1 group-title="Movies",Kino TV HD (1080p)
+http://176.118.197.101/KinoTvHD/playlist.m3u8
+#EXTINF:-1 group-title="General",SOU TV (720p)
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",RedBull TV Español
+https://freqsyndlin.redbull.com/957/rbtv/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Amazon Sat (1080p)
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 group-title="Movies",Action 24 (1080p) [Not 24/7]
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 group-title="General",Canal UOL (1080p)
+https://video24.mais.uol.com.br/live/6146.m3u8
+#EXTINF:-1 group-title="General",TVNBN (720p)
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1 tvg-id="PlenaTV.br@SD" tvg-logo="https://i.imgur.com/lH4RT7b.png" group-title="News",Plena TV (720p)
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br@SD" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="General",Adesso TV (720p)
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 group-title="Movies",FILMBOX+ Festival HD (1080p)
+https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
+#EXTINF:-1 group-title="Entertainment;News",TV Zoom (720p)
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Mana Brasil (1080p)
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV Vila Real (720p)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Tooncast (1080p)
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
+#EXTINF:-1 group-title="Movies",Dom kino (1080p)
+https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Entertainment",Rede NGT (1080p)
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 group-title="Movies",Kinopokaz (1080p)
+https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies",Nashe Novoe Kino (1080p)
+https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Religious",Mana Igreja Online (1080p) [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",KinoHit (1080p)
+https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies;Shop",Magnificent Movies Network
+https://mmn1.b-cdn.net/hls/MMN-HLS.m3u8
+#EXTINF:-1 group-title="Movies",B4U Bhojpuri (1080p)
+https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="Religious",TV Mana Mocambique (1080p)
+https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Mana 2 (1080p)
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religious",TV Mana 1 (1080p)
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",Canal 38 (720p)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment",Conecta Mais TV (720p)
+https://adylnet.streampool.net/10324/live/hls/Conecta/index.m3u8
+#EXTINF:-1 group-title="Culture;Education",Bem Mais TV (1080p)
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",TV Sul Bahia (320p)
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Despertar TV (720p)
+https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 group-title="Classic;Series",AWTV (1080p) [Geo-blocked]
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Animation;Kids;Religious",Kuriakos Kids (1080p)
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Kuriakos Cine (1080p)
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",NH Tamil Gold (1080p)
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 group-title="Movies",Mahua Play (1080p)
+https://cdn.ottlive.co.in/mahuaplay/index.m3u8
+#EXTINF:-1 group-title="Movies",Epic Bhojpuri (576p)
+https://fta.ektv.in/live/467/master.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Cartoon Network Western Europe Portugal (1080p)
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec
+#EXTINF:-1 group-title="Religious",RIT TV (1080p)
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 group-title="Kids",Nickelodeon (Portugal) (1080p)
+https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/398241518529a84217dd1f
+#EXTINF:-1 group-title="Culture;Education;Public",TV UFOP (1080p)
+https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 group-title="Music",Trace Brazuca HD (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Kinoteatr (1080p)
+https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="General",Catve FM (720p) [Not 24/7]
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Kuriakos TV (1080p)
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
+#EXTINF:-1 group-title="Documentales",13 Cultura
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 group-title="Movies",Kinosvidanie (1080p)
+https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="General",TV Guarapari (720p)
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 group-title="Religious",KK TV (1080p)
+https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
+#EXTINF:-1 group-title="News",TCM 10 HD (1080p)
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="Nacionales",CHV
+https://redirector.dps.live/hls/chv/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Golden Premier (1080p)
+http://200.57.28.141:8540/play/a0ln
+#EXTINF:-1 group-title="Movies",Cinema (Russia) (1080p)
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies",Golden Premier 2 (1080p)
+http://200.57.28.141:8540/play/a0lo
+#EXTINF:-1 group-title="Movies",Dorama (1080p)
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies",Indiyskoye Kino (1080p)
+https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Noticias internacionales",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="General",TV Zimbo (1080p)
+https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1 group-title="General",RedeTV! Parana (1080p)
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 group-title="Movies",CINDIE TV (1080p)
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 group-title="Movies",Epic Bhojpuri Digital (1080p)
+https://cc-8hy4a26pz2uos.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8hy4a26pz2uos/playlist.m3u8
+#EXTINF:-1 group-title="Religious",Plenitude TV (1080p)
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Jalsha Movies (1080p)
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movies",B4U Bhojpuri Plus (1080p)
+https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8
+#EXTINF:-1 group-title="Animation;Kids",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+#EXTINF:-1 group-title="Undefined",TVE Bahia (1080p)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Cinemax Asia Taiwan (1080p)
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 group-title="Movies;Series",AXN Asia Taiwan (1080p)
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 group-title="Movies",Cinecanal Pacific (1080p)
+http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 group-title="Movies",AXN Poland (1080p)
+http://92.114.85.87:8015/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Movies",Horoshee Kino (720p)
+https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBRICSPortuguese.br@SD" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS Portuguese (1080p)
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="Movies",iFilm Persian (1080p)
+https://ncdn.telewebion.ir/ifilm/live/playlist.m3u8
+#EXTINF:-1 group-title="General",Radio Sines (720p) [Geo-blocked]
+https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
+#EXTINF:-1 group-title="Culture;Education",TVE RS (1080p)
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="Ao Vivo",HBO FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8902.ts
+#EXTINF:-1 group-title="Movies",Asianet Cinema (576p)
+https://b-tr1.planetcast.in/asianet/master.m3u8
+#EXTINF:-1 group-title="Movies",American Horrors (480p)
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Muzhskoy HD (1080p)
+https://fonbet.mediacdn.ru/live/muzhskoi/playlist.m3u8
+#EXTINF:-1 group-title="Movies",Bollygold (1080p)
+https://jmp2.uk/stvp-IN4000600Q
+#EXTINF:-1 group-title="Ao Vivo",WARNER FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107981.ts
+#EXTINF:-1 group-title="Movies",NH BollyFlix (1080p)
+https://jmp2.uk/stvp-IN46000140Q
+#EXTINF:-1 group-title="Nacionales",Mega
+https://tr.live.clarovtrcdn.vtrplay.com/megahdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:-1 group-title="Movies",NEW K.MOVIES (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus
+#EXTINF:-1 group-title="Ao Vivo",SBT RJ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131563.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NEWS FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81598.ts
+#EXTINF:-1 group-title="Entertainment",TV GRANDE NATAL HDTV BRASIL (1080p)
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 group-title="Movies",HBO Asia Taiwan (1080p)
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 6 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108307.ts
+#EXTINF:-1 group-title="Movies",Cinemax Latin America (720p)
+https://streaming.onnethn.com/CINEMAX/playlist.m3u8
+#EXTINF:-1 group-title="Ao Vivo",HBO FAMILY FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8901.ts
+#EXTINF:-1 group-title="Ao Vivo",TV APARECIDA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/66680.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE FUN FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94377.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE CULT FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/11770.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE CULT FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94376.ts
+#EXTINF:-1 group-title="Ao Vivo",MEGAPIX FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8961.ts
+#EXTINF:-1 group-title="Legislative",TV Camara (Brazil) (1080p)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NSC TV CRICIÚMA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168993.ts
+#EXTINF:-1 group-title="Ao Vivo",SPORTV FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9107.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 4 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108295.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 6 FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/82753.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE ACTION FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9126.ts
+#EXTINF:-1,DISCOVERY TURBO FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8755.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE PIPOCA FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94378.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE FUN FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9129.ts
+#EXTINF:-1 group-title="Ao Vivo",UNIVERSAL CHANNEL FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108185.ts
+#EXTINF:-1 group-title="Ao Vivo",HBO XTREME FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13535.ts
+#EXTINF:-1 group-title="Ao Vivo",TNT FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594020.ts
+#EXTINF:-1 group-title="Ao Vivo",MEGAPIX FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107982.ts
+#EXTINF:-1 group-title="Ao Vivo",TV BRASIL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/43030.ts
+#EXTINF:-1 group-title="Ao Vivo",SONY FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9098.ts
+#EXTINF:-1,HISTORY FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304494.ts
+#EXTINF:-1 group-title="Ao Vivo",JOVEM PAN FHD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/167984.ts
+#EXTINF:-1 group-title="Ao Vivo",STUDIO UNIVERSAL FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108183.ts
+#EXTINF:-1 group-title="Ao Vivo",REDETV FHD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/29125.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE ACTION FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94375.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 5 FHD ²
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108305.ts
+#EXTINF:-1 group-title="Ao Vivo",BAND NEWS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108367.ts
+#EXTINF:-1 group-title="Ao Vivo",TNT SÉRIES FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9144.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 5 FHD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108302.ts
+#EXTINF:-1 group-title="Ao Vivo",SPACE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9101.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE PREMIUM FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9133.ts
+#EXTINF:-1 group-title="Ao Vivo",HBO 2 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8897.ts
+#EXTINF:-1,TELECINE TOUCH FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9135.ts
+#EXTINF:-1 group-title="Ao Vivo",TELECINE PIPOCA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9131.ts
+#EXTINF:-1 group-title="Ao Vivo",TNT FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/594019.ts
+#EXTINF:-1 group-title="Ao Vivo",ANIMAL PLANET FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304491.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RJ INTER TV ALTO LITORAL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168923.ts
+#EXTINF:-1 group-title="Ao Vivo",GNT FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8891.ts
+#EXTINF:-1 group-title="Ao Vivo",HBO POP FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/94386.ts
+#EXTINF:-1 group-title="Ao Vivo",UNIVERSAL CHANNEL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21682.ts
+#EXTINF:-1 group-title="Ao Vivo",A&E FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81599.ts
+#EXTINF:-1 group-title="Ao Vivo",HBO MUNDI FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8904.ts
+#EXTINF:-1 group-title="Ao Vivo",AMC FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23687.ts
+#EXTINF:-1,DISCOVERY KIDS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8742.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8739.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 7 FHD ²
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108317.ts
+#EXTINF:-1 group-title="Ao Vivo",ANIMAL PLANET FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304490.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RPC PONTA GROSSA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169017.ts
+#EXTINF:-1 group-title="Ao Vivo",CARTOON NETWORK FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8698.ts
+#EXTINF:-1 group-title="Ao Vivo",A&E FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/23156.ts
+#EXTINF:-1 group-title="Ao Vivo",CANAL BRASIL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8691.ts
+#EXTINF:-1 group-title="Ao Vivo",BIS FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107985.ts
+#EXTINF:-1 group-title="Ao Vivo",TNT SÉRIES FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108184.ts
+#EXTINF:-1 group-title="Ao Vivo",ARTE 1 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/67512.ts
+#EXTINF:-1,LIFETIME FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8943.ts
+#EXTINF:-1 group-title="Movies",ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RBS TV PELOTAS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169001.ts
+#EXTINF:-1,BIS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8680.ts
+#EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8735.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RPC CURITIBA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169008.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV SERGIPE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169071.ts
+#EXTINF:-1 group-title="Ao Vivo",DISCOVERY CHANNEL FHD*
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131176.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 2 FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN 3 FHD*
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV CLUBE PIAUÍ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169030.ts
+#EXTINF:-1,HISTORY 2 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/304498.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NORDESTE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168941.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV ANHANGUERA GOIÂNIA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168944.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO INTER CABUGI FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168975.ts
+#EXTINF:-1,DISCOVERY THEATER FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/91401.ts
+#EXTINF:-1 group-title="Ao Vivo",WARNER FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9219.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN 2 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO RBS SANTA CRUZ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168996.ts
+#EXTINF:-1 group-title="Ao Vivo",BAND SPORTS FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81585.ts
+#EXTINF:-1,CARTOON NETWOORK FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125439.ts
+#EXTINF:-1,E! FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8782.ts
+#EXTINF:-1,CAZE TV FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts
+#EXTINF:-1 group-title="Ao Vivo",SBT JANGADEIRO FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/595274.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO EPTV SUL DE MINAS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168933.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NSC TV JOINVILLE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168994.ts
+#EXTINF:-1 group-title="Ao Vivo",CNN BRASIL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8711.ts
+#EXTINF:-1 group-title="Ao Vivo",WOOHOO FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125448.ts
+#EXTINF:-1,DISCOVERY TLC FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8753.ts
+#EXTINF:-1 group-title="Ao Vivo",FOOD NETWORK FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8811.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV MIRANTE SÃO LUIS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169056.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 2 FHD ¹
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13576.ts
+#EXTINF:-1,GNT FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107984.ts
+#EXTINF:-1 group-title="Ao Vivo",NOVELAS GLOBOPLAY FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9215.ts
+#EXTINF:-1 group-title="Ao Vivo",REDETV FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9074.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NSC CENTRO OESTE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168986.ts
+#EXTINF:-1,REDE GOSPEL FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9069.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV MIRANTE COCAIS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169053.ts
+#EXTINF:-1,RECORD SP FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9068.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD SP FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/82755.ts
+#EXTINF:-1 group-title="Ao Vivo",JOVEM PAN NEWS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108191.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV BAHIA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169027.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV BRASÍLIA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168949.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV CABO BRANCO FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168951.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV TEM SOROCABA FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/2408947.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE 5 FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/108301.ts
+#EXTINF:-1,GLOBO RJ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168920.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO MINAS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168938.ts
+#EXTINF:-1 group-title="Ao Vivo",BAND SP FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20525.ts
+#EXTINF:-1 group-title="Ao Vivo",PREMIERE CLUBES FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NEWS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8853.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO NSC TV CHAPECÓ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168992.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO INTER TV DOS VALES FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1168981.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV VANGUARDA SJC FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169081.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD NEWS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9058.ts
+#EXTINF:-1 group-title="Ao Vivo",SBT NEWS FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1129619.ts
+#EXTINF:-1 group-title="Ao Vivo",GLOBO TV VERDES MARES CE FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/1169085.ts
+#EXTINF:-1 group-title="Ao Vivo",RECORD RJ FHD
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/71697.ts
+#EXTINF:-1 group-title="Ao Vivo",ESPN 6 FHD H.265
+http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81590.ts

@@ -1,197 +1,215 @@
 {
-  "updated_at": 1795710213841,
-  "library": "globocom/m3u8",
-  "total_catalog_live": 801,
-  "inspected": 120,
-  "ok_total": 42,
-  "hls_master": 13,
-  "hls_media": 0,
-  "direct_stream": 29,
-  "real_fhd_or_4k": 1,
-  "real_hd_720p": 2,
-  "encrypted_hls": 0,
-  "empty_or_invalid": 0,
-  "offline": 78,
-  "samples_master": [
+  "updated_at": 1795801152175,
+  "engine": "Python puro HLS Inspector (zero dependências externas)",
+  "applied_to_live_ready": false,
+  "total_discovered": 1885,
+  "youtube_preserved": 1,
+  "inspected": 1884,
+  "ok_total": 1192,
+  "fhd_count": 368,
+  "hd_count": 547,
+  "sd_count": 277,
+  "encrypted_drm": 2,
+  "broken_or_offline": 690,
+  "avg_latency_ms": 2206,
+  "generated_files": [
+    "catalog/live_hls_verified.m3u",
+    "catalog/live_hls_fhd.m3u",
+    "catalog/live_hls_hd.m3u",
+    "catalog/live_hls_broken.m3u"
+  ],
+  "top_fhd_samples": [
     {
-      "name": "SBT News (720p)",
-      "res": "1280x720",
-      "mbps": 3.13,
-      "detail": "Master HLS (3 qualidades)"
+      "name": "De Pelicula Latin America (1080p)",
+      "res": "1920x1080",
+      "mbps": 7.94,
+      "ms": 31
+    },
+    {
+      "name": "Discovery World Brazil (720p) [Geo-blocked]",
+      "res": "1920x1080",
+      "mbps": 2.05,
+      "ms": 32
+    },
+    {
+      "name": "TVN",
+      "res": "1920x1080",
+      "mbps": 3.98,
+      "ms": 32
+    },
+    {
+      "name": "Discovery Kids Latin America Brazil (720p) [Geo-blocked]",
+      "res": "1920x1080",
+      "mbps": 2.73,
+      "ms": 33
+    },
+    {
+      "name": "Disney Channel Latin America (1080p)",
+      "res": "1920x1080",
+      "mbps": 1.22,
+      "ms": 33
+    },
+    {
+      "name": "Az Cinema (1080p)",
+      "res": "1920x1080",
+      "mbps": 4.23,
+      "ms": 36
+    },
+    {
+      "name": "TNT Latin America Brazil (720p) [Geo-blocked]",
+      "res": "1920x1080",
+      "mbps": 1.31,
+      "ms": 38
+    },
+    {
+      "name": "SBT Nacional (1080p)",
+      "res": "",
+      "mbps": 0.0,
+      "ms": 49
+    },
+    {
+      "name": "Bollywood HD Russia (576p)",
+      "res": "1920x1080",
+      "mbps": 4.72,
+      "ms": 53
+    },
+    {
+      "name": "TELE 6 (1080p)",
+      "res": "1920x1080",
+      "mbps": 1.86,
+      "ms": 57
     },
     {
       "name": "CNN Brasil (1080p)",
       "res": "1920x1080",
       "mbps": 3.97,
-      "detail": "Master HLS (4 qualidades)"
+      "ms": 70
     },
     {
-      "name": "Canal do Boi (720p)",
+      "name": "De Pelicula Plus (1080p)",
+      "res": "",
+      "mbps": 3.62,
+      "ms": 77
+    },
+    {
+      "name": "MovieSphere (1080p)",
+      "res": "1920x1080",
+      "mbps": 6.05,
+      "ms": 81
+    },
+    {
+      "name": "Brazzers TV",
+      "res": "",
+      "mbps": 5.31,
+      "ms": 82
+    },
+    {
+      "name": "Cinemax Hits (1080p)",
       "res": "1280x720",
-      "mbps": 3.51,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "Discovery Science",
-      "res": "",
-      "mbps": 9.59,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "Discovery Theater",
-      "res": "",
-      "mbps": 4.37,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "Discovery Turbo",
-      "res": "",
-      "mbps": 5.61,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "Discovery World",
-      "res": "",
-      "mbps": 4.18,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "ESPN (Brazil) (1080p)",
-      "res": "",
-      "mbps": 3.23,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "ESPN 6",
-      "res": "",
-      "mbps": 2.08,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "HBO",
-      "res": "",
-      "mbps": 3.14,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "HBO 2",
-      "res": "",
-      "mbps": 2.85,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "HBO Plus",
-      "res": "",
-      "mbps": 3.19,
-      "detail": "Master HLS (1 qualidades)"
-    },
-    {
-      "name": "HBO Xtreme",
-      "res": "",
-      "mbps": 2.84,
-      "detail": "Master HLS (1 qualidades)"
+      "mbps": 4.66,
+      "ms": 85
     }
   ],
-  "samples_problem": [
+  "broken_samples": [
     {
-      "name": "A&E FHD H.265",
+      "name": "A&E HD",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "A&E",
+      "name": "A&E HD ²",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "AXN HD ¹",
+      "name": "AXN FHD H.265",
       "status": "offline",
-      "detail": "HTTP Error 404: Not Found"
+      "detail": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "name": "AXN",
+      "status": "offline",
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "AMC",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "name": "AMC HD",
+      "status": "offline",
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "AMC HD ²",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "ANIMAL PLANET FHD H.265",
+      "name": "ANIMAL PLANET HD",
       "status": "offline",
-      "detail": "HTTP Error 503: Service Temporarily Unavailable"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "ARTE 1 HD",
+      "name": "BAND SP FHD  H.265",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "name": "BAND SP FHD ¹",
+      "status": "offline",
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "BAND SP HD",
       "status": "offline",
-      "detail": "HTTP Error 404: Not Found"
+      "detail": "timed out"
     },
     {
       "name": "BAND BAHIA FHD",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "BAND RJ",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "BAND CAMPINAS HD",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 404: Not Found"
     },
     {
-      "name": "BAND SPORTS FHD H.265",
+      "name": "BAND RS HD",
       "status": "offline",
-      "detail": "HTTP Error 404: Not Found"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "BAND NEWS HD ²",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "CARTOON NETWORK",
+      "name": "SBT NEWS FHD H.265",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "CARTOONITO HD",
+      "name": "CARTOONITO FHD",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "name": "CARTOONITO HD ²",
-      "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "name": "BIS",
-      "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "CINEMAX FHD",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     },
     {
-      "name": "CINEMAX HD ²",
+      "name": "CNN BRASIL FHD H.265",
       "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
-    },
-    {
-      "name": "CANAL BRASIL FHD",
-      "status": "offline",
-      "detail": "HTTP Error 502: Bad Gateway"
+      "detail": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
