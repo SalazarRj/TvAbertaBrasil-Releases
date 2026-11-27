@@ -1,11 +1,11 @@
 {
   "version": "v0.156",
   "display_version": "v0.156",
-  "admin_version": "v0.149",
+  "admin_version": "v0.150",
   "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.156/tvaberta-app.apk",
-  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.149/tvaberta-admin.apk",
+  "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.150/tvaberta-admin.apk",
   "notes": "HarpiaPlay v0.156\n\n- Blindagem completa da autenticação de contas e validação rigorosa de e-mail e senha\n- Correção no envio pelo teclado no modo Primeiro Acesso\n- Melhorias de segurança e estabilidade geral",
   "client_notes": "HarpiaPlay v0.156\n\n- Blindagem completa da autenticação de contas e validação rigorosa de e-mail e senha\n- Correção no envio pelo teclado no modo Primeiro Acesso\n- Melhorias de segurança e estabilidade geral",
-  "admin_notes": "HarpiaPlay v0.154 (cli 166) & Admin v0.149 (adm 148)\n\n- feat(app): reformulacao visual cinema (#080B12/#111827), ModernLoginScreen TV+Mobile, ModernVodDetailsScreen tela cheia com foco D-pad nos relacionados e VipPlansDialog com seletor 1/2/4 dispositivos\n- feat(admin): reformulacao visual Admin 2.0 (#080B12/#111827), KpiCard e AdminHubModuleCard com bordas sutis, capas TMDB reais em AdminTrendingTab (LruCache + RGB_565) e novo modal AdminClientDialogs com limite de telas\n- fix(review): sanitizados textos white-label em TvCodeLoginDialog, repassado downloaderCode para AdminUserEditDialog, corrigido foco D-pad em RelatedMiniPosterCard e deduplicacao de variants\n- perf(ci): Admin sem R8/Minify, kotlin.daemon.jvmargs=-Xmx3g, cache cleanup, publicacao independente por APK e diff multi-commit",
-  "updated_at": 1795770328403
+  "admin_notes": "HarpiaPlay v0.156 (cli 168) & Admin v0.150 (adm 149)\n\n- fix(worker): /auth/verify agora e 100% fail-closed (le apenas private_data/users.json sem fallback publico, trata require_login ausente como true, valida password_hash em tempo constante no servidor e nao expoe renew_contact/downloader_code sem autenticar)\n- fix(auth): AuthManager fail-closed (require_login padrao true, removido fallback legado users.json publico, suporta auth_status/auth_error do servidor)\n- fix(app): corrigidas chaves do if em ModernLoginScreen.kt:671 e removido fallback stale em onStartAutoTrial\n- fix(admin): padrao requireLogin=true em AdminActivity.kt para evitar publicacao acidental com login desligado",
+  "updated_at": 1795770352189
 }
