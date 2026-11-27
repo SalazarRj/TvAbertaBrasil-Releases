@@ -2,13 +2,13 @@
   "alpha": {
     "version": "v0.164",
     "display_version": "v0.164",
-    "admin_version": "v0.151",
+    "admin_version": "v0.152",
     "app_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/v0.164/tvaberta-app.apk",
-    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.151/tvaberta-admin.apk",
+    "admin_apk_url": "https://github.com/SalazarRj/TvAbertaBrasil-Releases/releases/download/adm-v0.152/tvaberta-admin.apk",
     "notes": "HarpiaPlay v0.164\n\n- Seção Kids agora reúne automaticamente filmes e desenhos/séries marcados como Kids, mantendo abertura instantânea e proteção contra conteúdo adulto",
     "client_notes": "HarpiaPlay v0.164\n\n- Seção Kids agora reúne automaticamente filmes e desenhos/séries marcados como Kids, mantendo abertura instantânea e proteção contra conteúdo adulto",
-    "admin_notes": "HarpiaPlay v0.163 (cli 175) & Admin v0.151 (adm 150)\n\n- feat(branding): novos icones padronizados (launcher, round, adaptive foreground, topbar logo e tv_banner) com a nova aguia de asas abertas — dourada no Cliente e azul eletrico no Admin\n- feat(kids): renomeado Infantil para Kids no Cliente e adicionada sub-aba Catálogo -> Kids no Admin (AdminKidsTab.kt) salvando kids_titles no sources.json com curadoria manual 100% blindada",
-    "updated_at": 1795794372862
+    "admin_notes": "HarpiaPlay v0.164 (cli 176) & Admin v0.152 (adm 151)\n\n- feat(admin): nova 4a aba 'Kids' no Curador YT (AdminYoutubeCurator.kt) + botoes '+ Filme Kids', '+ Serie/Desenho Kids' e chip 'Enviar esta fonte para Kids' na edicao de canais\n- feat(app): queryKidsCatalog em CatalogDb.kt carrega automaticamente todos os filmes e series/desenhos com categoria exata 'Kids' somados aos titulos manuais (kids_titles) em 0ms\n- feat(worker): adicionada categoria Kids nos seletores do /studio (Upload de MP4 / Link)",
+    "updated_at": 1795794398031
   },
   "beta": {
     "version": "",
