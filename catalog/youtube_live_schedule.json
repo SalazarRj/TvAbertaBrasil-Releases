@@ -1,7 +1,18 @@
 {
-  "updated_at": 1795778200425,
+  "updated_at": 1795805258064,
   "date_brt": "2026-11-27",
   "events": [
+    {
+      "video_id": "RtYeisg6lxM",
+      "url": "https://www.youtube.com/watch?v=RtYeisg6lxM",
+      "title": "FORTALEZA X CRICIÚMA | PLAYOFF DE ACESSO | NARRAÇÃO AO VIVO | BRASILEIRÃO SÉRIE B",
+      "channel_name": "Canal GOAT",
+      "channel_url": "https://www.youtube.com/@canalgoatbr",
+      "category": "Esportes",
+      "scheduled_start_ms": 0,
+      "time_brt": "AO VIVO",
+      "is_live": true
+    },
     {
       "video_id": "CGoWQDnp6yA",
       "url": "https://www.youtube.com/watch?v=CGoWQDnp6yA",

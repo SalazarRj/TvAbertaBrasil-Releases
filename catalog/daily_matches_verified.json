@@ -1,10 +1,10 @@
 {
-  "updated_at": 1795778200425,
+  "updated_at": 1795805258064,
   "date_brt": "2026-11-27",
   "total_espn_today": 7,
-  "active_yt_lives": 1,
-  "verified_count": 8,
-  "summary": "Hoje (2026-11-27): 8 jogo(s) validados com vídeo real (1 live oficial ativa) de 7 partidas.",
+  "active_yt_lives": 2,
+  "verified_count": 6,
+  "summary": "Hoje (2026-11-27): 6 jogo(s) validados com vídeo real (2 live oficial ativa) de 7 partidas.",
   "matches": [
     {
       "title": "AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS? | PALMEIRAS X ESTUDIANTES VEM AÍ! | Panela Sportv",
@@ -12,7 +12,7 @@
       "league": "Ao Vivo • getv",
       "channel_hint": "getv",
       "is_live_now": true,
-      "kickoff_minutes": 496,
+      "kickoff_minutes": 947,
       "is_finished": false,
       "score_text": "",
       "home_logo_url": "",
@@ -30,7 +30,7 @@
       "title": "Bremen x Gladbach",
       "time": "16:30",
       "league": "Bundesliga",
-      "channel_hint": "Canal GOAT / CazéTV / CazéTV 2",
+      "channel_hint": "Canal GOAT / CazéTV",
       "is_live_now": false,
       "kickoff_minutes": 990,
       "is_finished": false,
@@ -40,6 +40,12 @@
       "verified_channels": [
         {
           "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "Canal GOAT • Opção 2",
           "brand": "Canal GOAT",
           "category": "Esportes",
           "url": "https://www.youtube.com/@canalgoatbr/live"
@@ -55,18 +61,6 @@
           "brand": "CazéTV 2",
           "category": "Esportes",
           "url": "https://www.youtube.com/@cazetvdois/live"
-        },
-        {
-          "name": "SPORTV • Principal",
-          "brand": "SPORTV",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
-        },
-        {
-          "name": "SPORTV • Opção 2",
-          "brand": "SPORTV",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69096.ts"
         }
       ]
     },
@@ -74,7 +68,7 @@
       "title": "Venezia x Bologna",
       "time": "16:45",
       "league": "Serie A (Itália)",
-      "channel_hint": "ESPN 4 / ESPN 2",
+      "channel_hint": "ESPN 4",
       "is_live_now": false,
       "kickoff_minutes": 1005,
       "is_finished": false,
@@ -85,38 +79,14 @@
         {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20947.ts"
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30082.ts"
-        },
-        {
-          "name": "ESPN 2 • Principal",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13519.ts"
-        },
-        {
-          "name": "ESPN 2 • Opção 2",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
-        },
-        {
-          "name": "ESPN • Principal",
-          "brand": "ESPN",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
-        },
-        {
-          "name": "ESPN 3 * • Principal",
-          "brand": "ESPN 3 *",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
         }
       ]
     },
@@ -124,7 +94,7 @@
       "title": "Brest x Paris FC",
       "time": "16:45",
       "league": "Ligue 1",
-      "channel_hint": "CazéTV / CazéTV 2 / ESPN 3 *",
+      "channel_hint": "CazéTV / CazéTV 2 / ESPN 3",
       "is_live_now": false,
       "kickoff_minutes": 1005,
       "is_finished": false,
@@ -145,60 +115,22 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
-          "name": "ESPN 3 * • Principal",
-          "brand": "ESPN 3 *",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
-        },
-        {
-          "name": "ESPN 3 • Opção 2",
+          "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30074.ts"
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch18/index.m3u8"
         },
         {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20947.ts"
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30082.ts"
-        }
-      ]
-    },
-    {
-      "title": "Nottm Forest x Chelsea",
-      "time": "17:00",
-      "league": "Premier League",
-      "channel_hint": "ESPN / ESPN 2",
-      "is_live_now": false,
-      "kickoff_minutes": 1020,
-      "is_finished": false,
-      "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png",
-      "verified_channels": [
-        {
-          "name": "ESPN • Principal",
-          "brand": "ESPN",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
-        },
-        {
-          "name": "ESPN 2 • Principal",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13519.ts"
-        },
-        {
-          "name": "ESPN 2 • Opção 2",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
         }
       ]
     },
@@ -206,7 +138,7 @@
       "title": "Levante x Racing",
       "time": "17:00",
       "league": "La Liga",
-      "channel_hint": "ESPN 2 / ESPN 3 *",
+      "channel_hint": "ESPN 3 / ESPN 4",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": false,
@@ -215,40 +147,28 @@
       "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
       "verified_channels": [
         {
-          "name": "ESPN 2 • Principal",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13519.ts"
-        },
-        {
-          "name": "ESPN 2 • Opção 2",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
-        },
-        {
-          "name": "ESPN 3 * • Principal",
-          "brand": "ESPN 3 *",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
-        },
-        {
-          "name": "ESPN 3 • Opção 2",
+          "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30074.ts"
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch18/index.m3u8"
         },
         {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/20947.ts"
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30082.ts"
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
+        },
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
         }
       ]
     },
@@ -256,7 +176,7 @@
       "title": "Fluminense x Cruzeiro",
       "time": "20:00",
       "league": "Brasileirão Série A",
-      "channel_hint": "SPORTV 3",
+      "channel_hint": "SporTV 3",
       "is_live_now": false,
       "kickoff_minutes": 1200,
       "is_finished": false,
@@ -265,48 +185,10 @@
       "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
       "verified_channels": [
         {
-          "name": "SPORTV 3 • Principal",
-          "brand": "SPORTV 3",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9106.ts"
-        },
-        {
-          "name": "SPORTV 3 • Opção 2",
-          "brand": "SPORTV 3",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9105.ts"
-        }
-      ]
-    },
-    {
-      "title": "Vila Nova x Atlético-GO",
-      "time": "20:00",
-      "league": "Brasileirão Série B",
-      "channel_hint": "ESPN / ESPN 2",
-      "is_live_now": false,
-      "kickoff_minutes": 1200,
-      "is_finished": false,
-      "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-      "verified_channels": [
-        {
-          "name": "ESPN • Principal",
-          "brand": "ESPN",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
-        },
-        {
-          "name": "ESPN 2 • Principal",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13519.ts"
-        },
-        {
-          "name": "ESPN 2 • Opção 2",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
+          "name": "SporTV 3 • Principal",
+          "brand": "SporTV 3",
+          "category": "Sports",
+          "url": "http://195.178.110.110/sportv3/index.m3u8"
         }
       ]
     }
