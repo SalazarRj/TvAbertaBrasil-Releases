@@ -1,6 +1,6 @@
 {
-  "checked_at": 1795764094301,
-  "last_checked_brt": "27/11/2026 04:21 BRT",
+  "checked_at": 1795848768592,
+  "last_checked_brt": "28/11/2026 03:52 BRT",
   "total_watched": 1,
   "updated_count": 0,
   "auto_triggered_catalog": false,
@@ -80,6 +80,15 @@
     }
   ],
   "history": [
+    {
+      "date_brt": "28/11 03:52 BRT",
+      "status": "ok",
+      "updated_count": 0,
+      "added_total": 0,
+      "added_titles": [],
+      "errors": [],
+      "summary": "1 fonte(s) verificada(s) • sem novidades"
+    },
     {
       "date_brt": "27/11 04:21 BRT",
       "status": "ok",
