@@ -1,5 +1,5 @@
 {
-  "updated_at": 1795835613625,
+  "updated_at": 1795867957871,
   "date_brt": "2026-11-28",
   "total_espn_today": 23,
   "active_yt_lives": 3,
@@ -10,7 +10,7 @@
       "title": "Betis x Rayo",
       "time": "10:00",
       "league": "La Liga",
-      "channel_hint": "ESPN 3 / ESPN 4",
+      "channel_hint": "ESPN 3 / ESPN 3 * / ESPN 4",
       "is_live_now": false,
       "kickoff_minutes": 600,
       "is_finished": false,
@@ -25,34 +25,34 @@
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
         },
         {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
+        },
+        {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
         },
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Principal",
-          "brand": "ESPN 5",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Opção 2",
-          "brand": "ESPN 5",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
+        },
+        {
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -78,13 +78,13 @@
           "name": "ESPN 2 • Principal",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
         },
         {
           "name": "ESPN 2 • Opção 2",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
         }
       ]
     },
@@ -128,13 +128,13 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         }
       ]
     },
@@ -178,13 +178,13 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         }
       ]
     },
@@ -228,13 +228,13 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         }
       ]
     },
@@ -278,13 +278,13 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         }
       ]
     },
@@ -292,7 +292,7 @@
       "title": "Leeds x Coventry",
       "time": "12:00",
       "league": "Premier League",
-      "channel_hint": "ESPN / ESPN 3 / ESPN 4",
+      "channel_hint": "ESPN",
       "is_live_now": false,
       "kickoff_minutes": 720,
       "is_finished": false,
@@ -303,26 +303,14 @@
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-        },
-        {
-          "name": "ESPN 3 • Principal",
-          "brand": "ESPN 3",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
         },
         {
-          "name": "ESPN 4 • Principal",
-          "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Opção 2",
-          "brand": "ESPN 4",
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -330,7 +318,7 @@
       "title": "Man Utd x Brentford",
       "time": "12:00",
       "league": "Premier League",
-      "channel_hint": "ESPN / ESPN 3 / ESPN 4",
+      "channel_hint": "ESPN",
       "is_live_now": false,
       "kickoff_minutes": 720,
       "is_finished": false,
@@ -341,26 +329,14 @@
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-        },
-        {
-          "name": "ESPN 3 • Principal",
-          "brand": "ESPN 3",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
         },
         {
-          "name": "ESPN 4 • Principal",
-          "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Opção 2",
-          "brand": "ESPN 4",
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -368,7 +344,7 @@
       "title": "Málaga x Athletic",
       "time": "12:15",
       "league": "La Liga",
-      "channel_hint": "ESPN 3 / ESPN 4",
+      "channel_hint": "ESPN 3 / ESPN 3 * / ESPN 4",
       "is_live_now": false,
       "kickoff_minutes": 735,
       "is_finished": false,
@@ -383,34 +359,34 @@
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
         },
         {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
+        },
+        {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
         },
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Principal",
-          "brand": "ESPN 5",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Opção 2",
-          "brand": "ESPN 5",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
+        },
+        {
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -442,13 +418,19 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         }
       ]
     },
@@ -474,13 +456,13 @@
           "name": "ESPN 2 • Principal",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
         },
         {
           "name": "ESPN 2 • Opção 2",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
         }
       ]
     },
@@ -499,14 +481,14 @@
         {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
         }
       ]
     },
@@ -514,7 +496,7 @@
       "title": "Elche x Atlético",
       "time": "14:30",
       "league": "La Liga",
-      "channel_hint": "ESPN 3 / ESPN / ESPN 5",
+      "channel_hint": "ESPN 3 / ESPN 3 * / ESPN",
       "is_live_now": false,
       "kickoff_minutes": 870,
       "is_finished": false,
@@ -529,28 +511,22 @@
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
         },
         {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
+        },
+        {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Principal",
-          "brand": "ESPN 5",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
-        },
-        {
-          "name": "ESPN 5 • Opção 2",
-          "brand": "ESPN 5",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
         },
         {
-          "name": "ESPN 6 • Principal",
-          "brand": "ESPN 6",
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81590.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -594,13 +570,13 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         }
       ]
     },
@@ -619,14 +595,14 @@
         {
           "name": "ESPN 4 • Principal",
           "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/21647.ts"
         },
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8828.ts"
         }
       ]
     },
@@ -658,13 +634,19 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         }
       ]
     },
@@ -696,13 +678,19 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         }
       ]
     },
@@ -734,13 +722,19 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         }
       ]
     },
@@ -772,13 +766,19 @@
           "name": "CazéTV • Opção 2",
           "brand": "CazéTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245798.ts"
         },
         {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
           "category": "Ao Vivo",
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         }
       ]
     },
@@ -803,26 +803,14 @@
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
         },
         {
           "name": "ESPN • Opção 2",
           "brand": "ESPN",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts"
-        },
-        {
-          "name": "ESPN 2 • Principal",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
-        },
-        {
-          "name": "ESPN 2 • Opção 2",
-          "brand": "ESPN 2",
-          "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598914.ts"
         }
       ]
     },
@@ -848,13 +836,13 @@
           "name": "ESPN 2 • Principal",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131131.ts"
         },
         {
           "name": "ESPN 2 • Opção 2",
           "brand": "ESPN 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
         },
         {
           "name": "ESPN 3 • Principal",
@@ -863,16 +851,16 @@
           "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
         },
         {
-          "name": "ESPN • Opção 2",
-          "brand": "ESPN",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+          "name": "ESPN 3 * • Opção 2",
+          "brand": "ESPN 3 *",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/131132.ts"
         },
         {
-          "name": "ESPN 5 • Principal",
-          "brand": "ESPN 5",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598913.ts"
         }
       ]
     },
@@ -898,31 +886,31 @@
           "name": "SPORTV • Principal",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81591.ts"
         },
         {
           "name": "SPORTV • Opção 2",
           "brand": "SPORTV",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30127.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69096.ts"
         },
         {
           "name": "PREMIERE 2 • Principal",
           "brand": "PREMIERE 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9022.ts"
         },
         {
           "name": "PREMIERE 2 • Opção 2",
           "brand": "PREMIERE 2",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69028.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/13576.ts"
         },
         {
-          "name": "PREMIERE 3 • Principal",
-          "brand": "PREMIERE 3",
+          "name": "Band • Principal",
+          "brand": "Band",
           "category": "Ao Vivo",
-          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81583.ts"
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/107926.ts"
         }
       ]
     },
