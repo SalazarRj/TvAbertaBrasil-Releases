@@ -1,42 +1,104 @@
 {
-  "updated_at": 1795805258064,
-  "date_brt": "2026-11-27",
-  "total_espn_today": 7,
-  "active_yt_lives": 2,
-  "verified_count": 6,
-  "summary": "Hoje (2026-11-27): 6 jogo(s) validados com vídeo real (2 live oficial ativa) de 7 partidas.",
+  "updated_at": 1795835613625,
+  "date_brt": "2026-11-28",
+  "total_espn_today": 23,
+  "active_yt_lives": 3,
+  "verified_count": 23,
+  "summary": "Hoje (2026-11-28): 23 jogo(s) validados com vídeo real (3 live oficial ativa) de 23 partidas.",
   "matches": [
     {
-      "title": "AO VIVO! FLAMENGO CAMPEÃO: EM 2027 TEM MAIS? | PALMEIRAS X ESTUDIANTES VEM AÍ! | Panela Sportv",
-      "time": "AO VIVO",
-      "league": "Ao Vivo • getv",
-      "channel_hint": "getv",
-      "is_live_now": true,
-      "kickoff_minutes": 947,
+      "title": "Betis x Rayo",
+      "time": "10:00",
+      "league": "La Liga",
+      "channel_hint": "ESPN 3 / ESPN 4",
+      "is_live_now": false,
+      "kickoff_minutes": 600,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "",
-      "away_logo_url": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png",
       "verified_channels": [
         {
-          "name": "getv • Oficial",
-          "brand": "getv",
-          "category": "Esportes",
-          "url": "https://www.youtube.com/watch?v=CGoWQDnp6yA"
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 4 • Principal",
+          "brand": "ESPN 4",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 • Opção 2",
+          "brand": "ESPN 4",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+        },
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Principal",
+          "brand": "ESPN 5",
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Opção 2",
+          "brand": "ESPN 5",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
         }
       ]
     },
     {
-      "title": "Bremen x Gladbach",
-      "time": "16:30",
+      "title": "Frosinone x Parma",
+      "time": "11:00",
+      "league": "Serie A (Itália)",
+      "channel_hint": "ESPN / ESPN 2",
+      "is_live_now": false,
+      "kickoff_minutes": 660,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/4057.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png",
+      "verified_channels": [
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts"
+        },
+        {
+          "name": "ESPN 2 • Principal",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+        },
+        {
+          "name": "ESPN 2 • Opção 2",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+        }
+      ]
+    },
+    {
+      "title": "Cologne x Elversberg",
+      "time": "11:30",
       "league": "Bundesliga",
       "channel_hint": "Canal GOAT / CazéTV",
       "is_live_now": false,
-      "kickoff_minutes": 990,
+      "kickoff_minutes": 690,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/137.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/268.png",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/122.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/10388.png",
       "verified_channels": [
         {
           "name": "Canal GOAT • Oficial",
@@ -48,7 +110,7 @@
           "name": "Canal GOAT • Opção 2",
           "brand": "Canal GOAT",
           "category": "Esportes",
-          "url": "https://www.youtube.com/@canalgoatbr/live"
+          "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY"
         },
         {
           "name": "CazéTV • Oficial",
@@ -61,11 +123,489 @@
           "brand": "CazéTV 2",
           "category": "Esportes",
           "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
         }
       ]
     },
     {
-      "title": "Venezia x Bologna",
+      "title": "Hamburg x Bayern",
+      "time": "11:30",
+      "league": "Bundesliga",
+      "channel_hint": "Canal GOAT / CazéTV",
+      "is_live_now": false,
+      "kickoff_minutes": 690,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/127.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/132.png",
+      "verified_channels": [
+        {
+          "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "Canal GOAT • Opção 2",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY"
+        },
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+        }
+      ]
+    },
+    {
+      "title": "Mainz x Union Berlin",
+      "time": "11:30",
+      "league": "Bundesliga",
+      "channel_hint": "Canal GOAT / CazéTV",
+      "is_live_now": false,
+      "kickoff_minutes": 690,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2950.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/598.png",
+      "verified_channels": [
+        {
+          "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "Canal GOAT • Opção 2",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY"
+        },
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+        }
+      ]
+    },
+    {
+      "title": "Paderborn x Schalke",
+      "time": "11:30",
+      "league": "Bundesliga",
+      "channel_hint": "Canal GOAT / CazéTV",
+      "is_live_now": false,
+      "kickoff_minutes": 690,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3307.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/133.png",
+      "verified_channels": [
+        {
+          "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "Canal GOAT • Opção 2",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY"
+        },
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+        }
+      ]
+    },
+    {
+      "title": "Leeds x Coventry",
+      "time": "12:00",
+      "league": "Premier League",
+      "channel_hint": "ESPN / ESPN 3 / ESPN 4",
+      "is_live_now": false,
+      "kickoff_minutes": 720,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/388.png",
+      "verified_channels": [
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 4 • Principal",
+          "brand": "ESPN 4",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 • Opção 2",
+          "brand": "ESPN 4",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+        }
+      ]
+    },
+    {
+      "title": "Man Utd x Brentford",
+      "time": "12:00",
+      "league": "Premier League",
+      "channel_hint": "ESPN / ESPN 3 / ESPN 4",
+      "is_live_now": false,
+      "kickoff_minutes": 720,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png",
+      "verified_channels": [
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 4 • Principal",
+          "brand": "ESPN 4",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 • Opção 2",
+          "brand": "ESPN 4",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+        }
+      ]
+    },
+    {
+      "title": "Málaga x Athletic",
+      "time": "12:15",
+      "league": "La Liga",
+      "channel_hint": "ESPN 3 / ESPN 4",
+      "is_live_now": false,
+      "kickoff_minutes": 735,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/99.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png",
+      "verified_channels": [
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN 4 • Principal",
+          "brand": "ESPN 4",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 • Opção 2",
+          "brand": "ESPN 4",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+        },
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Principal",
+          "brand": "ESPN 5",
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Opção 2",
+          "brand": "ESPN 5",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
+        }
+      ]
+    },
+    {
+      "title": "Angers x Lens",
+      "time": "13:15",
+      "league": "Ligue 1",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 795,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        }
+      ]
+    },
+    {
+      "title": "Torino x Lazio",
+      "time": "14:00",
+      "league": "Serie A (Itália)",
+      "channel_hint": "ESPN / ESPN 2",
+      "is_live_now": false,
+      "kickoff_minutes": 840,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png",
+      "verified_channels": [
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts"
+        },
+        {
+          "name": "ESPN 2 • Principal",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+        },
+        {
+          "name": "ESPN 2 • Opção 2",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+        }
+      ]
+    },
+    {
+      "title": "Ipswich x Aston Villa",
+      "time": "14:30",
+      "league": "Premier League",
+      "channel_hint": "ESPN 4",
+      "is_live_now": false,
+      "kickoff_minutes": 870,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/373.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png",
+      "verified_channels": [
+        {
+          "name": "ESPN 4 • Principal",
+          "brand": "ESPN 4",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
+        },
+        {
+          "name": "ESPN 4 • Opção 2",
+          "brand": "ESPN 4",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
+        }
+      ]
+    },
+    {
+      "title": "Elche x Atlético",
+      "time": "14:30",
+      "league": "La Liga",
+      "channel_hint": "ESPN 3 / ESPN / ESPN 5",
+      "is_live_now": false,
+      "kickoff_minutes": 870,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png",
+      "verified_channels": [
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Principal",
+          "brand": "ESPN 5",
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Opção 2",
+          "brand": "ESPN 5",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30081.ts"
+        },
+        {
+          "name": "ESPN 6 • Principal",
+          "brand": "ESPN 6",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81590.ts"
+        }
+      ]
+    },
+    {
+      "title": "Stuttgart x Frankfurt",
+      "time": "14:30",
+      "league": "Bundesliga",
+      "channel_hint": "Canal GOAT / CazéTV",
+      "is_live_now": false,
+      "kickoff_minutes": 870,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/134.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/125.png",
+      "verified_channels": [
+        {
+          "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "Canal GOAT • Opção 2",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY"
+        },
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+        }
+      ]
+    },
+    {
+      "title": "Inter Milan x Genoa",
       "time": "16:45",
       "league": "Serie A (Itália)",
       "channel_hint": "ESPN 4",
@@ -73,8 +613,8 @@
       "kickoff_minutes": 1005,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/17530.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png",
       "verified_channels": [
         {
           "name": "ESPN 4 • Principal",
@@ -85,22 +625,22 @@
         {
           "name": "ESPN 4 • Opção 2",
           "brand": "ESPN 4",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30083.ts"
         }
       ]
     },
     {
-      "title": "Brest x Paris FC",
+      "title": "Le Havre AC x Strasbourg",
       "time": "16:45",
       "league": "Ligue 1",
-      "channel_hint": "CazéTV / CazéTV 2 / ESPN 3",
+      "channel_hint": "CazéTV / CazéTV 2",
       "is_live_now": false,
       "kickoff_minutes": 1005,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png",
       "verified_channels": [
         {
           "name": "CazéTV • Oficial",
@@ -115,80 +655,300 @@
           "url": "https://www.youtube.com/@cazetvdois/live"
         },
         {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
           "name": "ESPN 3 • Principal",
           "brand": "ESPN 3",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch18/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Principal",
-          "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Opção 2",
-          "brand": "ESPN 4",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
         }
       ]
     },
     {
-      "title": "Levante x Racing",
+      "title": "Le Mans x Lille",
+      "time": "16:45",
+      "league": "Ligue 1",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1005,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2697.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        }
+      ]
+    },
+    {
+      "title": "Nice x Troyes",
+      "time": "16:45",
+      "league": "Ligue 1",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1005,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/170.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        }
+      ]
+    },
+    {
+      "title": "PSG x Lorient",
+      "time": "16:45",
+      "league": "Ligue 1",
+      "channel_hint": "CazéTV / CazéTV 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1005,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png",
+      "verified_channels": [
+        {
+          "name": "CazéTV • Oficial",
+          "brand": "CazéTV",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@CazeTV/live"
+        },
+        {
+          "name": "CazéTV 2 • Oficial",
+          "brand": "CazéTV 2",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/@cazetvdois/live"
+        },
+        {
+          "name": "CazéTV • Opção 2",
+          "brand": "CazéTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/245797.ts"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        }
+      ]
+    },
+    {
+      "title": "Palmeiras x Estudiantes",
       "time": "17:00",
-      "league": "La Liga",
-      "channel_hint": "ESPN 3 / ESPN 4",
+      "league": "Libertadores",
+      "channel_hint": "getv • Oficial / ESPN",
       "is_live_now": false,
       "kickoff_minutes": 1020,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/87.png",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
       "verified_channels": [
         {
-          "name": "ESPN 3 • Principal",
-          "brand": "ESPN 3",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch18/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Principal",
-          "brand": "ESPN 4",
-          "category": "Sports",
-          "url": "http://181.78.197.59:8000/play/a07n/index.m3u8"
-        },
-        {
-          "name": "ESPN 4 • Opção 2",
-          "brand": "ESPN 4",
-          "category": "Deportes",
-          "url": "http://181.78.12.119:16123/play/ch90/index.m3u8"
+          "name": "getv • Oficial • Oficial",
+          "brand": "getv • Oficial",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=CGoWQDnp6yA"
         },
         {
           "name": "ESPN • Principal",
           "brand": "ESPN",
           "category": "Sports",
           "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts"
+        },
+        {
+          "name": "ESPN 2 • Principal",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+        },
+        {
+          "name": "ESPN 2 • Opção 2",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
         }
       ]
     },
     {
-      "title": "Fluminense x Cruzeiro",
+      "title": "Real Madrid x Alavés",
+      "time": "17:00",
+      "league": "La Liga",
+      "channel_hint": "ESPN / ESPN 2",
+      "is_live_now": false,
+      "kickoff_minutes": 1020,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png",
+      "verified_channels": [
+        {
+          "name": "ESPN • Principal",
+          "brand": "ESPN",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/598918.ts"
+        },
+        {
+          "name": "ESPN 2 • Principal",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30072.ts"
+        },
+        {
+          "name": "ESPN 2 • Opção 2",
+          "brand": "ESPN 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30071.ts"
+        },
+        {
+          "name": "ESPN 3 • Principal",
+          "brand": "ESPN 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/8788.ts"
+        },
+        {
+          "name": "ESPN • Opção 2",
+          "brand": "ESPN",
+          "category": "Sports",
+          "url": "http://181.78.197.59:8000/play/a07z/index.m3u8"
+        },
+        {
+          "name": "ESPN 5 • Principal",
+          "brand": "ESPN 5",
+          "category": "Deportes",
+          "url": "http://181.78.12.119:16123/play/ch19/index.m3u8"
+        }
+      ]
+    },
+    {
+      "title": "Fortaleza x Criciúma",
       "time": "20:00",
-      "league": "Brasileirão Série A",
-      "channel_hint": "SporTV 3",
+      "league": "Brasileirão Série B",
+      "channel_hint": "Canal GOAT / SPORTV",
       "is_live_now": false,
       "kickoff_minutes": 1200,
       "is_finished": false,
       "score_text": "",
-      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
       "verified_channels": [
         {
-          "name": "SporTV 3 • Principal",
-          "brand": "SporTV 3",
-          "category": "Sports",
-          "url": "http://195.178.110.110/sportv3/index.m3u8"
+          "name": "Canal GOAT • Oficial",
+          "brand": "Canal GOAT",
+          "category": "Esportes",
+          "url": "https://www.youtube.com/watch?v=RtYeisg6lxM"
+        },
+        {
+          "name": "SPORTV • Principal",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30126.ts"
+        },
+        {
+          "name": "SPORTV • Opção 2",
+          "brand": "SPORTV",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/30127.ts"
+        },
+        {
+          "name": "PREMIERE 2 • Principal",
+          "brand": "PREMIERE 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81582.ts"
+        },
+        {
+          "name": "PREMIERE 2 • Opção 2",
+          "brand": "PREMIERE 2",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/69028.ts"
+        },
+        {
+          "name": "PREMIERE 3 • Principal",
+          "brand": "PREMIERE 3",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/81583.ts"
+        }
+      ]
+    },
+    {
+      "title": "Botafogo x Bahia",
+      "time": "21:00",
+      "league": "Brasileirão Série A",
+      "channel_hint": "PREMIERE CLUBES",
+      "is_live_now": false,
+      "kickoff_minutes": 1260,
+      "is_finished": false,
+      "score_text": "",
+      "home_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "away_logo_url": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
+      "verified_channels": [
+        {
+          "name": "PREMIERE CLUBES • Principal",
+          "brand": "PREMIERE CLUBES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/125438.ts"
+        },
+        {
+          "name": "PREMIERE CLUBES • Opção 2",
+          "brand": "PREMIERE CLUBES",
+          "category": "Ao Vivo",
+          "url": "http://acaidopt.org:80/3llohwk4g9/kwf099q30o/9037.ts"
         }
       ]
     }

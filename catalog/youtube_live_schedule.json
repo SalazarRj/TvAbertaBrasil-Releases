@@ -1,11 +1,22 @@
 {
-  "updated_at": 1795805258064,
-  "date_brt": "2026-11-27",
+  "updated_at": 1795835613625,
+  "date_brt": "2026-11-28",
   "events": [
     {
       "video_id": "RtYeisg6lxM",
       "url": "https://www.youtube.com/watch?v=RtYeisg6lxM",
       "title": "FORTALEZA X CRICIÚMA | PLAYOFF DE ACESSO | NARRAÇÃO AO VIVO | BRASILEIRÃO SÉRIE B",
+      "channel_name": "Canal GOAT",
+      "channel_url": "https://www.youtube.com/@canalgoatbr",
+      "category": "Esportes",
+      "scheduled_start_ms": 0,
+      "time_brt": "AO VIVO",
+      "is_live": true
+    },
+    {
+      "video_id": "DVGiiAH_EpY",
+      "url": "https://www.youtube.com/watch?v=DVGiiAH_EpY",
+      "title": "CORINTHIANS X GRÊMIO | NARRAÇÃO AO VIVO | BRASILEIRÃO SÉRIE A",
       "channel_name": "Canal GOAT",
       "channel_url": "https://www.youtube.com/@canalgoatbr",
       "category": "Esportes",
